@@ -5,7 +5,7 @@
         "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
         "watchers": 351,
         "forks": 2820,
-        "stars": 9838
+        "stars": 9839
     },
     {
         "path": "projects/adversarysim/platforms/caldera",
@@ -101,7 +101,7 @@
         "description": "Contact: CRT@crowdstrike.com",
         "watchers": 36,
         "forks": 138,
-        "stars": 707
+        "stars": 708
     },
     {
         "path": "projects/cloud/azure/BlobHunter",
@@ -1212,7 +1212,7 @@
         "url": "https://github.com/aquasecurity/trivy.git",
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "watchers": 171,
-        "forks": 2346,
+        "forks": 2347,
         "stars": 23874
     },
     {
@@ -1764,7 +1764,7 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4198,
-        "forks": 33957,
+        "forks": 33956,
         "stars": 319065
     },
     {
