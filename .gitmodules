@@ -730,9 +730,6 @@
 [submodule "projects/recon/images/ela-image-forensics"]
 	path = projects/recon/images/ela-image-forensics
 	url = https://github.com/luke-slytalker/ela-image-forensics.git
-[submodule "projects/platforms/vx_underground"]
-	path = projects/platforms/vx_underground
-	url = https://github.com/blackmassgroup/vx_underground.git
 [submodule "projects/recon/geography/gvision"]
 	path = projects/recon/geography/gvision
 	url = https://github.com/GONZOsint/gvision.git
