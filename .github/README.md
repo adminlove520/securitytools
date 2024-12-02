@@ -14,10 +14,10 @@
 
 ---
 
-This repo is a collection of open-source tools and resources for those in the realm of computer security.
+- 一个面向计算机安全领域人员的开源工具和资源的集合。
 
-The [`projects/`](../projects) directory is organized as a set of folders, each containing submodules that link to individual tools and resources. These folders are used as tags within the web explorer.
+- [`projects/`](../projects) 为以文件夹为标签分类的工具资源集
 
-The [securitytools](https://adminlove520.github.io/securitytools) site provides a centralized view of all of the projects and tools within.
+- 预览链接[securitytools](https://adminlove520.github.io/securitytools) 
 
-If you have an idea for a new addition, please open an issue
+如有疑问/新项目推荐，欢迎提issue
