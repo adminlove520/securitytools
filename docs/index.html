@@ -40,11 +40,19 @@
       </svg>
     </a>
     <div id="app">
+      <!-- Title Section -->
+      <div class="title-section">
+        <h1>Security Tools</h1>
+        <h2><img src="images/icon.png" alt="Icon">东方隐侠</h2>
+      </div>
+
+      <!-- Search Wrapper -->
       <div class="search-wrapper">
         <div class="search-container">
           <input type="text" v-model="searchQuery" placeholder="search description or project/owner name" />
         </div>
       </div>
+
       <div v-show="selectedTags.length > 0" class="filtered-tag-message">
         filtered by tag:
         <span
@@ -88,6 +96,21 @@
           </tr>
         </tbody>
       </table>
+
+      <!-- Pagination Controls using Bootstrap -->
+      <nav aria-label="Page navigation example">
+        <ul class="pagination justify-content-center">
+          <li class="page-item" :class="{ disabled: currentPage === 1 }">
+            <a class="page-link" href="#" @click.prevent="prevPage">Previous</a>
+          </li>
+          <li v-for="page in totalPages" :key="page" class="page-item" :class="{ active: currentPage === page }">
+            <a class="page-link" href="#" @click.prevent="goToPage(page)">{{ page }}</a>
+          </li>
+          <li class="page-item" :class="{ disabled: currentPage === totalPages }">
+            <a class="page-link" href="#" @click.prevent="nextPage">Next</a>
+          </li>
+        </ul>
+      </nav>
     </div>
     <script src="script.js"></script>
   </body>

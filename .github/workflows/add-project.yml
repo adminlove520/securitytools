@@ -1,0 +1,42 @@
+name: Add Project from Issue
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  add-project:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: read
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install PyGithub
+
+      - name: Parse issue and update .gitmodules
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          python .github/scripts/update_gitmodules.py
+
+      - name: Commit changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .gitmodules
+          git submodule update --init --recursive
+          git commit -m "Add new project from issue #${{ env.ISSUE_NUMBER }}"
+          git push origin main
