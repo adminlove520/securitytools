@@ -35,7 +35,7 @@ jobs:
           REPO_OWNER: adminlove520
           REPO_NAME: securitytools
         run: |
-          python .github/scripts/update_gitmodules.py --issue-number $ISSUE_NUMBER
+          python .github/scripts/update_gitmodules.py
         if: github.event_name == 'issues'
 
       - name: Create necessary directories
@@ -43,8 +43,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
           ISSUE_TITLE: ${{ github.event.issue.title }}
+          LOCATION: ${{ github.event.issue.body | fromJson.location }}
+          PROJECT_LINK: ${{ github.event.issue.body | fromJson.project_link }}
         run: |
-          python .github/scripts/create_directories.py --issue-number $ISSUE_NUMBER
+          python .github/scripts/create_directories.py --location $LOCATION --project-link $PROJECT_LINK
         if: github.event_name == 'issues'
 
       - name: Cleanup 404 repositories

@@ -1,8 +1,6 @@
 import os
 import sys
-import argparse
 import requests
-import subprocess
 from github import Github
 
 def get_issue_details(token, owner, repo, issue_number):
@@ -51,11 +49,6 @@ def update_gitmodules(location, project_link):
         f.write(f'    url = {project_link}\n')
     print(f"Updated .gitmodules with location: {location} and project link: {project_link}")
 
-def call_script(script_name, location, project_link):
-    module_name = os.path.splitext(os.path.basename(script_name))[0]
-    module = __import__(module_name)
-    module.main(location, project_link)
-
 def update_issue_comment(token, owner, repo, issue_number, issue_title, location):
     g = Github(token)
     repo = g.get_repo(f"{owner}/{repo}")
@@ -67,10 +60,6 @@ def update_issue_comment(token, owner, repo, issue_number, issue_title, location
     print("Issue 更新成功")
 
 def main():
-    parser = argparse.ArgumentParser(description="Update .gitmodules file based on issue details.")
-    parser.add_argument('--issue-number', type=int, required=True, help='GitHub issue number')
-    args = parser.parse_args()
-
     token = os.getenv('GITHUB_TOKEN')
     owner = os.getenv('REPO_OWNER')  # 确保环境变量中有仓库所有者信息
     repo = os.getenv('REPO_NAME')    # 确保环境变量中有仓库名称信息
@@ -79,7 +68,7 @@ def main():
         print("Environment variables GITHUB_TOKEN, REPO_OWNER, and REPO_NAME must be set.")
         sys.exit(1)
     
-    issue_number = args.issue_number
+    issue_number = int(os.getenv('ISSUE_NUMBER'))
 
     try:
         issue_details = get_issue_details(token, owner, repo, issue_number)
@@ -87,10 +76,6 @@ def main():
         location, project_link = parse_issue_body(body)
         update_gitmodules(location, project_link)
         
-        # 调用其他脚本
-        call_script(".github/scripts/cleanup_repos.py", location, project_link)
-        call_script(".github/scripts/create_directories.py", location, project_link)
-
         # 获取 issue title
         issue_title = issue_details['title']
 
