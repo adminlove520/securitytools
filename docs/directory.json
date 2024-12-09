@@ -1708,7 +1708,7 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
         "watchers": 385,
-        "forks": 8390,
+        "forks": 8391,
         "stars": 50972
     },
     {
@@ -1765,7 +1765,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4201,
         "forks": 33997,
-        "stars": 319511
+        "stars": 319512
     },
     {
         "path": "projects/adversarysim/docs/conti-pentester-guide-leak",
@@ -2037,7 +2037,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 93,
         "forks": 833,
-        "stars": 11344
+        "stars": 11347
     },
     {
         "path": "projects/recon/images/exifLooter",
