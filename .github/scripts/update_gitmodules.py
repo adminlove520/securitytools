@@ -1,6 +1,5 @@
 import os
 import sys
-import json
 from github import Github
 
 def get_issue_details(token, issue_number):
@@ -31,6 +30,7 @@ def main():
     issue_number_str = os.getenv('ISSUE_NUMBER')
     try:
         issue_number = int(issue_number_str)  # 将 issue_number 转换为整数类型
+        print(f"Converted issue_number: {issue_number}")  # 调试输出
     except ValueError:
         print("ISSUE_NUMBER must be an integer.")
         sys.exit(1)
