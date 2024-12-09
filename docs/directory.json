@@ -437,7 +437,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2497,
         "forks": 9620,
-        "stars": 150761
+        "stars": 150762
     },
     {
         "path": "projects/docs/Infosec_Reference",
@@ -1765,7 +1765,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4201,
         "forks": 33997,
-        "stars": 319503
+        "stars": 319504
     },
     {
         "path": "projects/adversarysim/docs/conti-pentester-guide-leak",
