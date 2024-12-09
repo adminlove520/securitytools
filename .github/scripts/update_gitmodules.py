@@ -43,11 +43,20 @@ def parse_issue_body(body):
     return location, project_link
 
 def update_gitmodules(location, project_link):
-    with open('.gitmodules', 'a') as f:
-        f.write(f'\n[submodule "{location}"]\n')
-        f.write(f'    path = {location}\n')
-        f.write(f'    url = {project_link}\n')
-    print(f"Updated .gitmodules with location: {location} and project link: {project_link}")
+    gitmodules_path = '.gitmodules'
+    try:
+        with open(gitmodules_path, 'a') as f:
+            f.write(f'\n[submodule "{location}"]\n')
+            f.write(f'    path = {location}\n')
+            f.write(f'    url = {project_link}\n')
+        print(f"Updated .gitmodules with location: {location} and project link: {project_link}")
+
+        # 添加调试信息
+        with open(gitmodules_path, 'r') as f:
+            content = f.read()
+            print(f"Current .gitmodules content:\n{content}")
+    except IOError as e:
+        print(f"Failed to write to .gitmodules: {e}")
 
 def update_issue_comment(token, owner, repo, issue_number, issue_title, location):
     g = Github(token)
@@ -69,6 +78,9 @@ def main():
         sys.exit(1)
     
     issue_number = int(os.getenv('ISSUE_NUMBER'))
+
+    # 打印当前工作目录
+    print(f"Current working directory: {os.getcwd()}")
 
     try:
         issue_details = get_issue_details(token, owner, repo, issue_number)
