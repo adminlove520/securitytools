@@ -98,19 +98,19 @@
       </table>
 
       <!-- Pagination Controls using Bootstrap -->
-      <nav aria-label="Page navigation example">
-        <ul class="pagination justify-content-center">
-          <li class="page-item" :class="{ disabled: currentPage === 1 }">
-            <a class="page-link" href="#" @click.prevent="prevPage">Previous</a>
-          </li>
-          <li v-for="page in totalPages" :key="page" class="page-item" :class="{ active: currentPage === page }">
-            <a class="page-link" href="#" @click.prevent="goToPage(page)">{{ page }}</a>
-          </li>
-          <li class="page-item" :class="{ disabled: currentPage === totalPages }">
-            <a class="page-link" href="#" @click.prevent="nextPage">Next</a>
-          </li>
-        </ul>
-      </nav>
+<nav aria-label="Page navigation example">
+  <ul class="pagination justify-content-center">
+    <li class="page-item" :class="{ disabled: currentPage === 1 }">
+      <a class="page-link" href="#" @click.prevent="prevPage">Previous</a>
+    </li>
+    <li v-for="page in totalPages" :key="page" class="page-item" :class="{ active: currentPage === page }">
+      <a class="page-link" href="#" @click.prevent="goToPage(page)">{{ page }}</a>
+    </li>
+    <li class="page-item" :class="{ disabled: currentPage === totalPages }">
+      <a class="page-link" href="#" @click.prevent="nextPage">Next</a>
+    </li>
+  </ul>
+</nav>
     </div>
     <script src="script.js"></script>
   </body>
