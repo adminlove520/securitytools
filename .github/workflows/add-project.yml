@@ -38,15 +38,30 @@ jobs:
           python .github/scripts/update_gitmodules.py
         if: github.event_name == 'issues'
 
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Extract location and project_link from issue body
+        id: extract_info
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          echo "Extracting location and project_link from issue body..."
+          LOCATION=$(echo "$ISSUE_BODY" | jq -R -s 'fromjson? | .location // empty')
+          PROJECT_LINK=$(echo "$ISSUE_BODY" | jq -R -s 'fromjson? | .project_link // empty')
+          echo "LOCATION=$LOCATION" >> $GITHUB_ENV
+          echo "PROJECT_LINK=$PROJECT_LINK" >> $GITHUB_ENV
+        if: github.event_name == 'issues'
+
       - name: Create necessary directories
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
           ISSUE_TITLE: ${{ github.event.issue.title }}
-          LOCATION: ${{ github.event.issue.body | fromJson.location }}
-          PROJECT_LINK: ${{ github.event.issue.body | fromJson.project_link }}
+          LOCATION: ${{ env.LOCATION }}
+          PROJECT_LINK: ${{ env.PROJECT_LINK }}
         run: |
-          python .github/scripts/create_directories.py --location $LOCATION --project-link $PROJECT_LINK
+          python .github/scripts/create_directories.py --location "$LOCATION" --project-link "$PROJECT_LINK"
         if: github.event_name == 'issues'
 
       - name: Cleanup 404 repositories
