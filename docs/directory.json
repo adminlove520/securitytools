@@ -1237,7 +1237,7 @@
         "description": "Fast web fuzzer written in Go",
         "watchers": 159,
         "forks": 1307,
-        "stars": 12834
+        "stars": 12835
     },
     {
         "path": "projects/scanning/webservices/dirsearch",
@@ -1765,7 +1765,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4201,
         "forks": 33997,
-        "stars": 319504
+        "stars": 319505
     },
     {
         "path": "projects/adversarysim/docs/conti-pentester-guide-leak",
@@ -2037,7 +2037,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 91,
         "forks": 829,
-        "stars": 11266
+        "stars": 11270
     },
     {
         "path": "projects/recon/images/exifLooter",
