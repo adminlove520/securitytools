@@ -341,7 +341,7 @@
         "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
         "watchers": 241,
         "forks": 982,
-        "stars": 14672
+        "stars": 14671
     },
     {
         "path": "projects/devsec/networking/mubeng",
@@ -581,7 +581,7 @@
         "description": "Open Cyber Threat Intelligence Platform",
         "watchers": 142,
         "forks": 963,
-        "stars": 6540
+        "stars": 6539
     },
     {
         "path": "projects/intel/platforms/yeti",
@@ -613,7 +613,7 @@
         "description": "Malwoverview is a first response tool used for threat hunting and offers intel information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, Malware Bazaar, ThreatFox, Triage, InQuest and it is able to scan Android devices against VT.",
         "watchers": 118,
         "forks": 446,
-        "stars": 2984
+        "stars": 2985
     },
     {
         "path": "projects/malware/cli/munin",
@@ -797,7 +797,7 @@
         "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
         "watchers": 577,
         "forks": 3254,
-        "stars": 17648
+        "stars": 17649
     },
     {
         "path": "projects/os/mobile/android/andriller",
