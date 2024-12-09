@@ -28,7 +28,13 @@ def update_gitmodules(location, project_link):
 
 def main():
     token = os.getenv('GITHUB_TOKEN')
-    issue_number = os.getenv('ISSUE_NUMBER')
+    issue_number_str = os.getenv('ISSUE_NUMBER')
+    try:
+        issue_number = int(issue_number_str)  # 将 issue_number 转换为整数类型
+    except ValueError:
+        print("ISSUE_NUMBER must be an integer.")
+        sys.exit(1)
+    
     body = get_issue_details(token, issue_number)
     location, project_link = parse_issue_body(body)
     if location and project_link:
