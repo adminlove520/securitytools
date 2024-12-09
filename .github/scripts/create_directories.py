@@ -1,5 +1,4 @@
 import os
-import argparse
 
 def create_folder_structure(base_path, location):
     """
@@ -14,16 +13,14 @@ def create_folder_structure(base_path, location):
     else:
         print(f"Directory already exists: {full_path}")
 
-def main():
+def main(location, project_link):
+    create_folder_structure('projects', location)
+
+if __name__ == "__main__":
+    import argparse
     parser = argparse.ArgumentParser(description="Create directories based on issue details.")
     parser.add_argument("--location", required=True, help="Location in collection")
     parser.add_argument("--project-link", required=True, help="Project link")
     args = parser.parse_args()
 
-    location = args.location
-    project_link = args.project_link
-
-    create_folder_structure('projects', location)
-
-if __name__ == "__main__":
-    main()
+    main(args.location, args.project_link)

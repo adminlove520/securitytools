@@ -5,7 +5,6 @@ import requests
 import subprocess
 from github import Github
 
-# 改了
 def get_issue_details(token, owner, repo, issue_number):
     url = f"https://api.github.com/repos/{owner}/{repo}/issues/{issue_number}"
     headers = {
@@ -53,16 +52,9 @@ def update_gitmodules(location, project_link):
     print(f"Updated .gitmodules with location: {location} and project link: {project_link}")
 
 def call_script(script_name, location, project_link):
-    command = [
-        "python",
-        script_name,
-        "--location", location,
-        "--project-link", project_link
-    ]
-    result = subprocess.run(command, capture_output=True, text=True)
-    if result.returncode != 0:
-        print(f"Error running {script_name}: {result.stderr}")
-        sys.exit(result.returncode)
+    module_name = os.path.splitext(os.path.basename(script_name))[0]
+    module = __import__(module_name)
+    module.main(location, project_link)
 
 def update_issue_comment(token, owner, repo, issue_number, issue_title, location):
     g = Github(token)

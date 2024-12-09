@@ -1,7 +1,6 @@
 import os
 import json
 import re
-import argparse
 from github import Github
 
 def check_repo_exists(repo_url):
@@ -65,15 +64,7 @@ def update_directory_json(directory_json_path, repo_url):
         json.dump(updated_data, f, indent=2)
     print(f"Updated directory.json: removed entry for {repo_url}")
 
-def main():
-    parser = argparse.ArgumentParser(description="Cleanup repositories based on issue details.")
-    parser.add_argument("--location", required=True, help="Location in collection")
-    parser.add_argument("--project-link", required=True, help="Project link")
-    args = parser.parse_args()
-
-    location = args.location
-    project_link = args.project_link
-
+def main(location, project_link):
     github_token = os.getenv('GITHUB_TOKEN')
     g = Github(github_token)
     repo = g.get_repo(os.getenv('GITHUB_REPOSITORY'))
@@ -99,4 +90,10 @@ def main():
             update_directory_json(directory_json_path, repo_url)
 
 if __name__ == "__main__":
-    main()
+    import argparse
+    parser = argparse.ArgumentParser(description="Cleanup repositories based on issue details.")
+    parser.add_argument("--location", required=True, help="Location in collection")
+    parser.add_argument("--project-link", required=True, help="Project link")
+    args = parser.parse_args()
+
+    main(args.location, args.project_link)
