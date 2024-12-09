@@ -1132,7 +1132,7 @@
         "url": "https://github.com/RustScan/RustScan.git",
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
         "watchers": 134,
-        "forks": 1004,
+        "forks": 1006,
         "stars": 14859
     },
     {
@@ -2037,7 +2037,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 91,
         "forks": 829,
-        "stars": 11270
+        "stars": 11274
     },
     {
         "path": "projects/recon/images/exifLooter",
