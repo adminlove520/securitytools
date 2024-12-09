@@ -293,7 +293,7 @@
         "description": "Wiki to collect Red Team infrastructure hardening resources",
         "watchers": 211,
         "forks": 904,
-        "stars": 4163
+        "stars": 4164
     },
     {
         "path": "projects/devsec/docs/docker-bench-security",
@@ -405,7 +405,7 @@
         "description": "Defanged Indicator of Compromise (IOC) Extractor.",
         "watchers": 28,
         "forks": 91,
-        "stars": 512
+        "stars": 513
     },
     {
         "path": "projects/devsec/tools/ctf-tools",
@@ -437,7 +437,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2497,
         "forks": 9620,
-        "stars": 150772
+        "stars": 150774
     },
     {
         "path": "projects/docs/Infosec_Reference",
@@ -469,7 +469,7 @@
         "description": "One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password \ud83d\udee1\ufe0f",
         "watchers": 89,
         "forks": 705,
-        "stars": 5776
+        "stars": 5777
     },
     {
         "path": "projects/docs/blockchain/smart-contract-attack-vectors",
@@ -797,7 +797,7 @@
         "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
         "watchers": 577,
         "forks": 3254,
-        "stars": 17649
+        "stars": 17650
     },
     {
         "path": "projects/os/mobile/android/andriller",
@@ -1005,7 +1005,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 662,
         "forks": 2847,
-        "stars": 19292
+        "stars": 19293
     },
     {
         "path": "projects/recon/docs/OSINT",
@@ -1173,7 +1173,7 @@
         "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
         "watchers": 238,
         "forks": 2527,
-        "stars": 20940
+        "stars": 20941
     },
     {
         "path": "projects/scanning/vulns/nmap-vulners",
@@ -1381,7 +1381,7 @@
         "description": "Main Sigma Rule Repository",
         "watchers": 346,
         "forks": 2213,
-        "stars": 8451
+        "stars": 8452
     },
     {
         "path": "projects/socialeng/awesome-social-engineering",
@@ -1461,7 +1461,7 @@
         "description": "Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email",
         "watchers": 123,
         "forks": 520,
-        "stars": 4223
+        "stars": 4224
     },
     {
         "path": "projects/socials/linkedin/CrossLinked",
@@ -1477,7 +1477,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1134,
         "forks": 7007,
-        "stars": 60898
+        "stars": 60899
     },
     {
         "path": "projects/socials/recon/holehe",
@@ -1693,7 +1693,7 @@
         "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
         "watchers": 257,
         "forks": 995,
-        "stars": 10484
+        "stars": 10485
     },
     {
         "path": "projects/scanning/webservices/nginxpwner",
@@ -1709,7 +1709,7 @@
         "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
         "watchers": 385,
         "forks": 8394,
-        "stars": 50976
+        "stars": 50977
     },
     {
         "path": "projects/scanning/webservices/katana",
@@ -1741,7 +1741,7 @@
         "description": "Rapidly Search and Hunt through Windows Forensic Artefacts",
         "watchers": 52,
         "forks": 266,
-        "stars": 2910
+        "stars": 2911
     },
     {
         "path": "projects/devsec/tools/bpytop",
@@ -1765,7 +1765,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4201,
         "forks": 33997,
-        "stars": 319514
+        "stars": 319515
     },
     {
         "path": "projects/adversarysim/docs/conti-pentester-guide-leak",
@@ -1780,8 +1780,8 @@
         "url": "https://github.com/louislam/uptime-kuma.git",
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 275,
-        "forks": 5452,
-        "stars": 60988
+        "forks": 5453,
+        "stars": 60990
     },
     {
         "path": "projects/os/macos/secretive",
@@ -1789,7 +1789,7 @@
         "description": "Store SSH keys in the Secure Enclave",
         "watchers": 48,
         "forks": 159,
-        "stars": 7274
+        "stars": 7275
     },
     {
         "path": "projects/browser/tools/BotD",
@@ -1821,7 +1821,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 89,
         "forks": 1096,
-        "stars": 20279
+        "stars": 20281
     },
     {
         "path": "projects/devsec/tools/notify",
@@ -2037,7 +2037,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 93,
         "forks": 833,
-        "stars": 11372
+        "stars": 11383
     },
     {
         "path": "projects/recon/images/exifLooter",
