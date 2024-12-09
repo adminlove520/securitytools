@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      issues: read
+      issues: write
 
     steps:
       - name: Checkout repository
@@ -31,6 +31,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
           REPO_OWNER: adminlove520
           REPO_NAME: securitytools
         run: |
@@ -41,6 +42,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
         run: |
           python .github/scripts/create_directories.py
         if: github.event_name == 'issues'
@@ -62,3 +64,12 @@ jobs:
           git commit -m "Cleanup 404 repositories and update files"
           git push origin main
         if: github.event_name == 'schedule'
+
+      - name: Update Issue Comment
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+        run: |
+          python .github/scripts/update_issue_comment.py
+        if: github.event_name == 'issues'

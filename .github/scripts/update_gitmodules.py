@@ -1,6 +1,8 @@
 import os
 import sys
+import argparse
 import requests
+import subprocess
 
 def get_issue_details(token, owner, repo, issue_number):
     url = f"https://api.github.com/repos/{owner}/{repo}/issues/{issue_number}"
@@ -41,31 +43,73 @@ def update_gitmodules(location, project_link):
         f.write(f'    path = {location}\n')
         f.write(f'    url = {project_link}\n')
 
+def call_script(script_name, location, project_link):
+    command = [
+        "python",
+        script_name,
+        "--location", location,
+        "--project-link", project_link
+    ]
+    result = subprocess.run(command, capture_output=True, text=True)
+    if result.returncode != 0:
+        print(f"Error running {script_name}: {result.stderr}")
+        sys.exit(result.returncode)
+
+def update_issue_comment(token, owner, repo, issue_number, issue_title, location):
+    from github import Github
+    g = Github(token)
+    repo = g.get_repo(f"{owner}/{repo}")
+    issue = repo.get_issue(number=issue_number)
+    
+    comment_body = f"已成功将{issue_title} 添加至SecurityTools, 欢迎您的投稿\n"
+    comment_body += f"项目位置: {location}\n"
+    issue.create_comment(comment_body)
+    print("Issue 更新成功")
+
 def main():
+    parser = argparse.ArgumentParser(description="Update .gitmodules file based on issue details.")
+    parser.add_argument('--issue-number', type=int, help='GitHub issue number')
+    parser.add_argument('--location', help='Location of the project in the collection')
+    parser.add_argument('--project-link', help='Project link')
+    args = parser.parse_args()
+
     token = os.getenv('GITHUB_TOKEN')
     owner = os.getenv('REPO_OWNER')  # 确保环境变量中有仓库所有者信息
     repo = os.getenv('REPO_NAME')    # 确保环境变量中有仓库名称信息
-    issue_number_str = os.getenv('ISSUE_NUMBER')
     
-    if not all([token, owner, repo, issue_number_str]):
-        print("Environment variables GITHUB_TOKEN, REPO_OWNER, REPO_NAME, and ISSUE_NUMBER must be set.")
+    if not all([token, owner, repo]):
+        print("Environment variables GITHUB_TOKEN, REPO_OWNER, and REPO_NAME must be set.")
         sys.exit(1)
     
-    try:
-        issue_number = int(issue_number_str)
-    except ValueError:
-        print("ISSUE_NUMBER must be an integer.")
-        sys.exit(1)
-    
-    try:
-        body = get_issue_details(token, owner, repo, issue_number)
-        location, project_link = parse_issue_body(body)
-        if location and project_link:
-            update_gitmodules(location, project_link)
-            print("Updated .gitmodules successfully.")
-        else:
-            print("Failed to parse issue body.")
+    issue_number = args.issue_number
+    location = args.location
+    project_link = args.project_link
+
+    if not all([issue_number, location, project_link]):
+        try:
+            body = get_issue_details(token, owner, repo, issue_number)
+            location, project_link = parse_issue_body(body)
+            if not location or not project_link:
+                print("Failed to parse issue body.")
+                sys.exit(1)
+        except Exception as e:
+            print(f"An error occurred: {e}")
             sys.exit(1)
+
+    try:
+        update_gitmodules(location, project_link)
+        print("Updated .gitmodules successfully.")
+        
+        # 调用其他脚本
+        call_script(".github/scripts/cleanup_repos.py", location, project_link)
+        call_script(".github/scripts/create_directories.py", location, project_link)
+
+        # 获取 issue title
+        issue_details = get_issue_details(token, owner, repo, issue_number)
+        issue_title = issue_details['title']
+
+        # 更新 Issue 评论
+        update_issue_comment(token, owner, repo, issue_number, issue_title, location)
     except Exception as e:
         print(f"An error occurred: {e}")
         sys.exit(1)

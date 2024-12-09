@@ -1,6 +1,7 @@
 import os
 import json
 import re
+import argparse
 from github import Github
 
 def check_repo_exists(repo_url):
@@ -26,23 +27,23 @@ def remove_submodule(submodule_path):
         os.system(f"rm -rf .git/modules/{submodule_path}")
         print(f"Removed submodule: {submodule_path}")
 
-def update_gitmodules(gitmodules_path, repo_url):
+def update_gitmodules(gitmodules_path, repo_name):
     """
     更新 .gitmodules 文件
     :param gitmodules_path: .gitmodules 文件路径
-    :param repo_url: 仓库 URL
+    :param repo_name: 仓库名称
     """
     with open(gitmodules_path, 'r') as f:
         content = f.read()
 
-    pattern = re.compile(rf'\[submodule "{repo_url}"\]\n\tpath = (.*?)\n\turl = {repo_url}\n')
+    pattern = re.compile(rf'\[submodule "{repo_name}"\]\n\tpath = (.*?)\n\turl = (.*?)\n')
     match = pattern.search(content)
     if match:
         submodule_path = match.group(1)
         content = pattern.sub('', content)
         with open(gitmodules_path, 'w') as f:
             f.write(content)
-        print(f"Updated .gitmodules: removed entry for {repo_url}")
+        print(f"Updated .gitmodules: removed entry for {repo_name}")
         return submodule_path
     return None
 
@@ -65,6 +66,14 @@ def update_directory_json(directory_json_path, repo_url):
     print(f"Updated directory.json: removed entry for {repo_url}")
 
 def main():
+    parser = argparse.ArgumentParser(description="Cleanup repositories based on issue details.")
+    parser.add_argument("--location", required=True, help="Location in collection")
+    parser.add_argument("--project-link", required=True, help="Project link")
+    args = parser.parse_args()
+
+    location = args.location
+    project_link = args.project_link
+
     github_token = os.getenv('GITHUB_TOKEN')
     g = Github(github_token)
     repo = g.get_repo(os.getenv('GITHUB_REPOSITORY'))
@@ -83,7 +92,7 @@ def main():
     matches = pattern.findall(content)
 
     for repo_name, submodule_path, repo_url in matches:
-        if not check_repo_exists(repo_url):
+        if repo_url == project_link and not check_repo_exists(repo_url):
             print(f"Repository {repo_url} is 404. Removing...")
             remove_submodule(submodule_path)
             update_gitmodules(gitmodules_path, repo_name)

@@ -1,6 +1,5 @@
 import os
-import json
-from github import Github
+import argparse
 
 def create_folder_structure(base_path, location):
     """
@@ -15,44 +14,16 @@ def create_folder_structure(base_path, location):
     else:
         print(f"Directory already exists: {full_path}")
 
-def get_issue_details(github_token, issue_number):
-    """
-    获取 GitHub issue 的详细信息
-    :param github_token: GitHub 访问令牌
-    :param issue_number: issue 编号
-    :return: issue 的 body 内容
-    """
-    g = Github(github_token)
-    repo = g.get_repo(os.getenv('GITHUB_REPOSITORY'))
-    issue = repo.get_issue(number=issue_number)
-    return issue.body
-
-def parse_issue_body(issue_body):
-    """
-    解析 issue body 并提取 location 和 project 链接
-    :param issue_body: issue 的 body 内容
-    :return: location 和 project 链接
-    """
-    lines = issue_body.split('\n')
-    location = None
-    project_link = None
-    for line in lines:
-        if line.startswith("location in collection:"):
-            location = line.split(":")[1].strip()
-        elif line.startswith("project link:"):
-            project_link = line.split(":")[1].strip()
-    return location, project_link
-
 def main():
-    github_token = os.getenv('GITHUB_TOKEN')
-    issue_number = os.getenv('ISSUE_NUMBER')
-    issue_body = get_issue_details(github_token, issue_number)
-    location, project_link = parse_issue_body(issue_body)
+    parser = argparse.ArgumentParser(description="Create directories based on issue details.")
+    parser.add_argument("--location", required=True, help="Location in collection")
+    parser.add_argument("--project-link", required=True, help="Project link")
+    args = parser.parse_args()
 
-    if location and project_link:
-        create_folder_structure('projects', location)
-    else:
-        print("Location or project link not found in issue body.")
+    location = args.location
+    project_link = args.project_link
+
+    create_folder_structure('projects', location)
 
 if __name__ == "__main__":
     main()
