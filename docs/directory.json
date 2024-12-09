@@ -133,7 +133,7 @@
         "description": "Repository for Azure Resource Policy built-in definitions and samples",
         "watchers": 142,
         "forks": 1089,
-        "stars": 1520
+        "stars": 1521
     },
     {
         "path": "projects/cloud/azure/Azure-Network-Security",
@@ -437,7 +437,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2497,
         "forks": 9620,
-        "stars": 150759
+        "stars": 150761
     },
     {
         "path": "projects/docs/Infosec_Reference",
@@ -1004,7 +1004,7 @@
         "url": "https://github.com/jivoi/awesome-osint.git",
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 662,
-        "forks": 2844,
+        "forks": 2846,
         "stars": 19289
     },
     {
@@ -1476,7 +1476,7 @@
         "url": "https://github.com/sherlock-project/sherlock.git",
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1134,
-        "forks": 7006,
+        "forks": 7007,
         "stars": 60898
     },
     {
@@ -1708,8 +1708,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
         "watchers": 385,
-        "forks": 8383,
-        "stars": 50961
+        "forks": 8384,
+        "stars": 50962
     },
     {
         "path": "projects/scanning/webservices/katana",
@@ -1717,7 +1717,7 @@
         "description": "A next-generation crawling and spidering framework.",
         "watchers": 94,
         "forks": 650,
-        "stars": 12485
+        "stars": 12486
     },
     {
         "path": "projects/scanning/webservices/hero",
@@ -1765,7 +1765,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4201,
         "forks": 33997,
-        "stars": 319501
+        "stars": 319503
     },
     {
         "path": "projects/adversarysim/docs/conti-pentester-guide-leak",
@@ -2037,7 +2037,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 91,
         "forks": 829,
-        "stars": 11231
+        "stars": 11235
     },
     {
         "path": "projects/recon/images/exifLooter",
