@@ -5,6 +5,7 @@ import requests
 import subprocess
 from github import Github
 
+# 改了
 def get_issue_details(token, owner, repo, issue_number):
     url = f"https://api.github.com/repos/{owner}/{repo}/issues/{issue_number}"
     headers = {
