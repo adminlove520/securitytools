@@ -59,10 +59,14 @@ def add_submodule(base_path, location, project_link):
         os.makedirs(full_folder_path)
         print(f"Created directory: {full_folder_path}")
 
-    # 检查是否已经存在子模块
+    # 切换到二级目录并添加子模块
     if not os.path.exists(os.path.join(full_submodule_path, '.git')):
-        subprocess.run(['git', '-C', full_folder_path, 'submodule', 'add', project_link, submodule_name], check=True)
-        print(f"Added submodule: {submodule_name} at {full_submodule_path}")
+        try:
+            os.chdir(full_folder_path)
+            subprocess.run(['git', 'submodule', 'add', project_link, submodule_name], check=True)
+            print(f"Added submodule: {submodule_name} at {full_submodule_path}")
+        finally:
+            os.chdir('..')  # 返回上一级目录
     else:
         print(f"Submodule already exists: {full_submodule_path}")
 
