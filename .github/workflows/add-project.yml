@@ -32,11 +32,19 @@ jobs:
         run: |
           python .github/scripts/update_gitmodules.py
 
+      - name: Create necessary directories
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          python .github/scripts/create_directories.py
+
       - name: Commit changes
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .gitmodules
           git submodule update --init --recursive
+          git add -A
           git commit -m "Add new project from issue #${{ env.ISSUE_NUMBER }}"
           git push origin main
