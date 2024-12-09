@@ -2012,8 +2012,8 @@
         "url": "https://github.com/mingrammer/diagrams.git",
         "description": ":art: Diagram as Code for prototyping cloud system architectures",
         "watchers": 406,
-        "forks": 2553,
-        "stars": 39905
+        "forks": 2554,
+        "stars": 39906
     },
     {
         "path": "projects/platforms/honeypots/honeypots",
@@ -2036,8 +2036,8 @@
         "url": "https://github.com/soxoj/maigret.git",
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 91,
-        "forks": 829,
-        "stars": 11282
+        "forks": 830,
+        "stars": 11285
     },
     {
         "path": "projects/recon/images/exifLooter",
