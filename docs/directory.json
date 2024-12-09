@@ -749,7 +749,7 @@
         "description": "WiFi security auditing tools suite",
         "watchers": 235,
         "forks": 958,
-        "stars": 5555
+        "stars": 5556
     },
     {
         "path": "projects/os/apple/docs/osx-and-ios-security-awesome",
@@ -1805,7 +1805,7 @@
         "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
         "watchers": 221,
         "forks": 1692,
-        "stars": 11160
+        "stars": 11161
     },
     {
         "path": "projects/scanning/webservices/colly",
