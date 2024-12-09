@@ -437,7 +437,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2497,
         "forks": 9620,
-        "stars": 150762
+        "stars": 150761
     },
     {
         "path": "projects/docs/Infosec_Reference",
@@ -1005,7 +1005,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 662,
         "forks": 2846,
-        "stars": 19289
+        "stars": 19290
     },
     {
         "path": "projects/recon/docs/OSINT",
@@ -2037,7 +2037,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 91,
         "forks": 829,
-        "stars": 11241
+        "stars": 11243
     },
     {
         "path": "projects/recon/images/exifLooter",
