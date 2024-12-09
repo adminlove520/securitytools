@@ -437,7 +437,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2497,
         "forks": 9620,
-        "stars": 150762
+        "stars": 150763
     },
     {
         "path": "projects/docs/Infosec_Reference",
@@ -2013,7 +2013,7 @@
         "description": ":art: Diagram as Code for prototyping cloud system architectures",
         "watchers": 406,
         "forks": 2553,
-        "stars": 39904
+        "stars": 39905
     },
     {
         "path": "projects/platforms/honeypots/honeypots",
@@ -2037,7 +2037,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 91,
         "forks": 829,
-        "stars": 11275
+        "stars": 11277
     },
     {
         "path": "projects/recon/images/exifLooter",
