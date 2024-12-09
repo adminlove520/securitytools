@@ -437,7 +437,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2497,
         "forks": 9620,
-        "stars": 150777
+        "stars": 150778
     },
     {
         "path": "projects/docs/Infosec_Reference",
@@ -1213,7 +1213,7 @@
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "watchers": 171,
         "forks": 2351,
-        "stars": 23948
+        "stars": 23949
     },
     {
         "path": "projects/scanning/vulns/webservices/w3af",
@@ -1437,7 +1437,7 @@
         "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
         "watchers": 200,
         "forks": 2192,
-        "stars": 9869
+        "stars": 9870
     },
     {
         "path": "projects/socials/leaks/Cr3dOv3r",
@@ -1709,7 +1709,7 @@
         "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
         "watchers": 385,
         "forks": 8395,
-        "stars": 50977
+        "stars": 50978
     },
     {
         "path": "projects/scanning/webservices/katana",
@@ -2036,8 +2036,8 @@
         "url": "https://github.com/soxoj/maigret.git",
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 93,
-        "forks": 833,
-        "stars": 11400
+        "forks": 834,
+        "stars": 11405
     },
     {
         "path": "projects/recon/images/exifLooter",
