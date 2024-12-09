@@ -325,7 +325,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 657,
         "forks": 4112,
-        "stars": 63367
+        "stars": 63368
     },
     {
         "path": "projects/devsec/lab/dockerfiles",
@@ -437,7 +437,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2497,
         "forks": 9620,
-        "stars": 150766
+        "stars": 150771
     },
     {
         "path": "projects/docs/Infosec_Reference",
@@ -485,7 +485,7 @@
         "description": "Docker Cheat Sheet",
         "watchers": 745,
         "forks": 4647,
-        "stars": 22160
+        "stars": 22161
     },
     {
         "path": "projects/email/checkdmarc",
@@ -693,7 +693,7 @@
         "description": "Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.",
         "watchers": 4,
         "forks": 23,
-        "stars": 213
+        "stars": 214
     },
     {
         "path": "projects/network/idps/snort3",
@@ -1005,7 +1005,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 662,
         "forks": 2846,
-        "stars": 19290
+        "stars": 19292
     },
     {
         "path": "projects/recon/docs/OSINT",
@@ -1173,7 +1173,7 @@
         "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
         "watchers": 238,
         "forks": 2527,
-        "stars": 20938
+        "stars": 20939
     },
     {
         "path": "projects/scanning/vulns/nmap-vulners",
@@ -1237,7 +1237,7 @@
         "description": "Fast web fuzzer written in Go",
         "watchers": 159,
         "forks": 1307,
-        "stars": 12835
+        "stars": 12837
     },
     {
         "path": "projects/scanning/webservices/dirsearch",
@@ -1245,7 +1245,7 @@
         "description": "Web path scanner",
         "watchers": 309,
         "forks": 2319,
-        "stars": 12290
+        "stars": 12292
     },
     {
         "path": "projects/scanning/webservices/CMSeeK",
@@ -1261,7 +1261,7 @@
         "description": "A Tool for Domain Flyovers",
         "watchers": 136,
         "forks": 880,
-        "stars": 5663
+        "stars": 5664
     },
     {
         "path": "projects/scanning/webservices/httprobe",
@@ -1277,7 +1277,7 @@
         "description": "EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.",
         "watchers": 144,
         "forks": 853,
-        "stars": 5028
+        "stars": 5029
     },
     {
         "path": "projects/searchdorks/awesome-shodan-queries",
@@ -1381,7 +1381,7 @@
         "description": "Main Sigma Rule Repository",
         "watchers": 346,
         "forks": 2213,
-        "stars": 8449
+        "stars": 8450
     },
     {
         "path": "projects/socialeng/awesome-social-engineering",
@@ -1669,7 +1669,7 @@
         "description": "\ud83d\udc19 Track down GitHub users.",
         "watchers": 7,
         "forks": 57,
-        "stars": 848
+        "stars": 849
     },
     {
         "path": "projects/wordlists/webapp-wordlists",
@@ -1708,8 +1708,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
         "watchers": 385,
-        "forks": 8388,
-        "stars": 50966
+        "forks": 8389,
+        "stars": 50971
     },
     {
         "path": "projects/scanning/webservices/katana",
@@ -1764,8 +1764,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4201,
-        "forks": 33996,
-        "stars": 319509
+        "forks": 33997,
+        "stars": 319511
     },
     {
         "path": "projects/adversarysim/docs/conti-pentester-guide-leak",
@@ -1781,7 +1781,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 275,
         "forks": 5452,
-        "stars": 60981
+        "stars": 60985
     },
     {
         "path": "projects/os/macos/secretive",
@@ -1821,7 +1821,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 89,
         "forks": 1096,
-        "stars": 20270
+        "stars": 20272
     },
     {
         "path": "projects/devsec/tools/notify",
@@ -2035,9 +2035,9 @@
         "path": "projects/recon/suites/maigret",
         "url": "https://github.com/soxoj/maigret.git",
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
-        "watchers": 92,
-        "forks": 831,
-        "stars": 11304
+        "watchers": 93,
+        "forks": 832,
+        "stars": 11332
     },
     {
         "path": "projects/recon/images/exifLooter",
