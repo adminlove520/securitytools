@@ -437,7 +437,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2497,
         "forks": 9620,
-        "stars": 150772
+        "stars": 150771
     },
     {
         "path": "projects/docs/Infosec_Reference",
@@ -573,7 +573,7 @@
         "description": "A curated list of Awesome Threat Intelligence resources",
         "watchers": 567,
         "forks": 1491,
-        "stars": 8195
+        "stars": 8196
     },
     {
         "path": "projects/intel/platforms/opencti",
@@ -1381,7 +1381,7 @@
         "description": "Main Sigma Rule Repository",
         "watchers": 346,
         "forks": 2213,
-        "stars": 8450
+        "stars": 8451
     },
     {
         "path": "projects/socialeng/awesome-social-engineering",
@@ -1781,7 +1781,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 275,
         "forks": 5452,
-        "stars": 60985
+        "stars": 60986
     },
     {
         "path": "projects/os/macos/secretive",
@@ -1821,7 +1821,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 89,
         "forks": 1096,
-        "stars": 20275
+        "stars": 20276
     },
     {
         "path": "projects/devsec/tools/notify",
@@ -2029,15 +2029,15 @@
         "description": "\u267e Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI",
         "watchers": 47,
         "forks": 998,
-        "stars": 15909
+        "stars": 15910
     },
     {
         "path": "projects/recon/suites/maigret",
         "url": "https://github.com/soxoj/maigret.git",
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 93,
-        "forks": 832,
-        "stars": 11340
+        "forks": 833,
+        "stars": 11344
     },
     {
         "path": "projects/recon/images/exifLooter",
