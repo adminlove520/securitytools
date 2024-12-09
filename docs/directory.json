@@ -325,7 +325,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 657,
         "forks": 4112,
-        "stars": 63368
+        "stars": 63367
     },
     {
         "path": "projects/devsec/lab/dockerfiles",
@@ -645,7 +645,7 @@
         "description": "UNIX-like reverse engineering framework and command-line toolset",
         "watchers": 489,
         "forks": 3019,
-        "stars": 20834
+        "stars": 20835
     },
     {
         "path": "projects/malware/re/aa-tools",
@@ -685,7 +685,7 @@
         "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
         "watchers": 411,
         "forks": 1480,
-        "stars": 16878
+        "stars": 16879
     },
     {
         "path": "projects/network/analysis/rita",
@@ -1004,7 +1004,7 @@
         "url": "https://github.com/jivoi/awesome-osint.git",
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 662,
-        "forks": 2846,
+        "forks": 2847,
         "stars": 19292
     },
     {
@@ -1117,7 +1117,7 @@
         "description": "Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.",
         "watchers": 50,
         "forks": 455,
-        "stars": 4041
+        "stars": 4042
     },
     {
         "path": "projects/recon/websites/waybackpack",
@@ -1133,7 +1133,7 @@
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
         "watchers": 134,
         "forks": 1006,
-        "stars": 14859
+        "stars": 14860
     },
     {
         "path": "projects/scanning/ports/masscan",
@@ -1213,7 +1213,7 @@
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "watchers": 171,
         "forks": 2351,
-        "stars": 23946
+        "stars": 23948
     },
     {
         "path": "projects/scanning/vulns/webservices/w3af",
@@ -1236,8 +1236,8 @@
         "url": "https://github.com/ffuf/ffuf.git",
         "description": "Fast web fuzzer written in Go",
         "watchers": 159,
-        "forks": 1307,
-        "stars": 12837
+        "forks": 1309,
+        "stars": 12838
     },
     {
         "path": "projects/scanning/webservices/dirsearch",
@@ -1277,7 +1277,7 @@
         "description": "EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.",
         "watchers": 144,
         "forks": 853,
-        "stars": 5029
+        "stars": 5030
     },
     {
         "path": "projects/searchdorks/awesome-shodan-queries",
@@ -1693,7 +1693,7 @@
         "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
         "watchers": 257,
         "forks": 995,
-        "stars": 10483
+        "stars": 10484
     },
     {
         "path": "projects/scanning/webservices/nginxpwner",
@@ -1708,8 +1708,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
         "watchers": 385,
-        "forks": 8393,
-        "stars": 50975
+        "forks": 8394,
+        "stars": 50976
     },
     {
         "path": "projects/scanning/webservices/katana",
@@ -1717,7 +1717,7 @@
         "description": "A next-generation crawling and spidering framework.",
         "watchers": 94,
         "forks": 652,
-        "stars": 12488
+        "stars": 12489
     },
     {
         "path": "projects/scanning/webservices/hero",
@@ -1765,7 +1765,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4201,
         "forks": 33997,
-        "stars": 319512
+        "stars": 319514
     },
     {
         "path": "projects/adversarysim/docs/conti-pentester-guide-leak",
@@ -1781,7 +1781,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 275,
         "forks": 5452,
-        "stars": 60987
+        "stars": 60988
     },
     {
         "path": "projects/os/macos/secretive",
@@ -1813,7 +1813,7 @@
         "description": "Elegant Scraper and Crawler Framework for Golang",
         "watchers": 335,
         "forks": 1771,
-        "stars": 23421
+        "stars": 23422
     },
     {
         "path": "projects/recon/platforms/changedetection.io",
@@ -1821,7 +1821,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 89,
         "forks": 1096,
-        "stars": 20277
+        "stars": 20279
     },
     {
         "path": "projects/devsec/tools/notify",
@@ -1965,7 +1965,7 @@
         "description": "List of Github repositories and articles with list of dorks for different search engines",
         "watchers": 44,
         "forks": 311,
-        "stars": 2071
+        "stars": 2072
     },
     {
         "path": "projects/adversarysim/pencode",
@@ -2029,7 +2029,7 @@
         "description": "\u267e Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI",
         "watchers": 47,
         "forks": 998,
-        "stars": 15910
+        "stars": 15911
     },
     {
         "path": "projects/recon/suites/maigret",
@@ -2037,7 +2037,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 93,
         "forks": 833,
-        "stars": 11358
+        "stars": 11372
     },
     {
         "path": "projects/recon/images/exifLooter",
@@ -2069,7 +2069,7 @@
         "description": "\ud83d\udee1\ufe0f A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.",
         "watchers": 79,
         "forks": 449,
-        "stars": 6846
+        "stars": 6847
     },
     {
         "path": "projects/scanning/secrets/keyhacks",
