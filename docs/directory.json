@@ -437,7 +437,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2497,
         "forks": 9620,
-        "stars": 150771
+        "stars": 150772
     },
     {
         "path": "projects/docs/Infosec_Reference",
@@ -773,7 +773,7 @@
         "description": "Guide to securing and improving privacy on macOS",
         "watchers": 683,
         "forks": 1454,
-        "stars": 21349
+        "stars": 21350
     },
     {
         "path": "projects/os/mobile/SMSSpoof",
@@ -908,7 +908,7 @@
         "url": "https://github.com/elastic/detection-rules.git",
         "description": null,
         "watchers": 90,
-        "forks": 507,
+        "forks": 508,
         "stars": 1986
     },
     {
@@ -1708,8 +1708,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
         "watchers": 385,
-        "forks": 8389,
-        "stars": 50971
+        "forks": 8390,
+        "stars": 50972
     },
     {
         "path": "projects/scanning/webservices/katana",
@@ -1821,7 +1821,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 89,
         "forks": 1096,
-        "stars": 20272
+        "stars": 20275
     },
     {
         "path": "projects/devsec/tools/notify",
@@ -2037,7 +2037,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 93,
         "forks": 832,
-        "stars": 11332
+        "stars": 11340
     },
     {
         "path": "projects/recon/images/exifLooter",
