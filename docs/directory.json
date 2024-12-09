@@ -325,7 +325,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 657,
         "forks": 4111,
-        "stars": 63364
+        "stars": 63365
     },
     {
         "path": "projects/devsec/lab/dockerfiles",
@@ -485,7 +485,7 @@
         "description": "Docker Cheat Sheet",
         "watchers": 745,
         "forks": 4647,
-        "stars": 22162
+        "stars": 22160
     },
     {
         "path": "projects/email/checkdmarc",
@@ -1477,7 +1477,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1134,
         "forks": 7007,
-        "stars": 60897
+        "stars": 60898
     },
     {
         "path": "projects/socials/recon/holehe",
@@ -1709,7 +1709,7 @@
         "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
         "watchers": 385,
         "forks": 8384,
-        "stars": 50962
+        "stars": 50961
     },
     {
         "path": "projects/scanning/webservices/katana",
@@ -2037,7 +2037,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 91,
         "forks": 829,
-        "stars": 11239
+        "stars": 11241
     },
     {
         "path": "projects/recon/images/exifLooter",
