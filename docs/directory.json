@@ -685,7 +685,7 @@
         "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
         "watchers": 411,
         "forks": 1480,
-        "stars": 16877
+        "stars": 16878
     },
     {
         "path": "projects/network/analysis/rita",
@@ -765,7 +765,7 @@
         "description": "For Mac users in enterprise environments, this application gives users control over the administration of their machine by elevating their level of access to administrator privileges on macOS.  Users can set a timeframe in the application's settings to perform specific tasks, such as installing or removing an application.",
         "watchers": 84,
         "forks": 151,
-        "stars": 1403
+        "stars": 1404
     },
     {
         "path": "projects/os/macos/macOS-Security-and-Privacy-Guide",
@@ -1061,7 +1061,7 @@
         "description": "A query aggregator for OSINT based threat hunting",
         "watchers": 22,
         "forks": 101,
-        "stars": 869
+        "stars": 870
     },
     {
         "path": "projects/recon/platforms/Scrummage",
@@ -1141,7 +1141,7 @@
         "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
         "watchers": 650,
         "forks": 3084,
-        "stars": 23804
+        "stars": 23805
     },
     {
         "path": "projects/scanning/ports/jfscan",
@@ -1709,7 +1709,7 @@
         "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
         "watchers": 385,
         "forks": 8388,
-        "stars": 50964
+        "stars": 50965
     },
     {
         "path": "projects/scanning/webservices/katana",
@@ -1765,7 +1765,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4201,
         "forks": 33997,
-        "stars": 319506
+        "stars": 319507
     },
     {
         "path": "projects/adversarysim/docs/conti-pentester-guide-leak",
@@ -1821,7 +1821,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 89,
         "forks": 1096,
-        "stars": 20270
+        "stars": 20271
     },
     {
         "path": "projects/devsec/tools/notify",
@@ -2037,7 +2037,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 91,
         "forks": 830,
-        "stars": 11286
+        "stars": 11291
     },
     {
         "path": "projects/recon/images/exifLooter",
