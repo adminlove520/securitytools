@@ -31,6 +31,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
+          REPO_OWNER: adminlove520
+          REPO_NAME: securitytools
         run: |
           python .github/scripts/update_gitmodules.py
         if: github.event_name == 'issues'
