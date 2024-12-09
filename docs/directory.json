@@ -437,7 +437,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2497,
         "forks": 9620,
-        "stars": 150761
+        "stars": 150762
     },
     {
         "path": "projects/docs/Infosec_Reference",
@@ -749,7 +749,7 @@
         "description": "WiFi security auditing tools suite",
         "watchers": 235,
         "forks": 958,
-        "stars": 5554
+        "stars": 5555
     },
     {
         "path": "projects/os/apple/docs/osx-and-ios-security-awesome",
@@ -1117,7 +1117,7 @@
         "description": "Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.",
         "watchers": 50,
         "forks": 452,
-        "stars": 4040
+        "stars": 4041
     },
     {
         "path": "projects/recon/websites/waybackpack",
@@ -1229,7 +1229,7 @@
         "description": "Automatic SQL injection and database takeover tool",
         "watchers": 1095,
         "forks": 5743,
-        "stars": 32799
+        "stars": 32800
     },
     {
         "path": "projects/scanning/webservices/ffuf",
@@ -1285,7 +1285,7 @@
         "description": "\ud83d\udd0d A collection of interesting, funny, and depressing search queries to plug into shodan.io \ud83d\udc69\u200d\ud83d\udcbb",
         "watchers": 184,
         "forks": 889,
-        "stars": 5929
+        "stars": 5930
     },
     {
         "path": "projects/searchdorks/vti-dorks",
@@ -1485,7 +1485,7 @@
         "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
         "watchers": 119,
         "forks": 873,
-        "stars": 7740
+        "stars": 7741
     },
     {
         "path": "projects/socials/recon/socialscan",
@@ -1621,7 +1621,7 @@
         "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
         "watchers": 148,
         "forks": 511,
-        "stars": 17576
+        "stars": 17578
     },
     {
         "path": "projects/malware/scanning/pandora",
@@ -1708,8 +1708,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
         "watchers": 385,
-        "forks": 8385,
-        "stars": 50961
+        "forks": 8386,
+        "stars": 50964
     },
     {
         "path": "projects/scanning/webservices/katana",
@@ -1780,7 +1780,7 @@
         "url": "https://github.com/louislam/uptime-kuma.git",
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 275,
-        "forks": 5449,
+        "forks": 5450,
         "stars": 60977
     },
     {
@@ -1845,7 +1845,7 @@
         "description": "GHOSTS is a realistic user simulation framework for cyber experimentation, simulation, training, and exercise",
         "watchers": 19,
         "forks": 70,
-        "stars": 522
+        "stars": 523
     },
     {
         "path": "projects/tor/ansible-relayor",
@@ -2037,7 +2037,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 91,
         "forks": 829,
-        "stars": 11244
+        "stars": 11254
     },
     {
         "path": "projects/recon/images/exifLooter",
