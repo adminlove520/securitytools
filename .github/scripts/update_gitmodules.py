@@ -6,17 +6,18 @@ def get_issue_details(token, issue_number):
     g = Github(token)
     repo = g.get_repo(os.getenv('GITHUB_REPOSITORY'))
     issue = repo.get_issue(number=issue_number)
+    print(f"Issue body: {issue.body}")  # 调试输出
     return issue.body
 
 def parse_issue_body(body):
     lines = body.split('\n')
     location = None
     project_link = None
-    for line in lines:
-        if line.startswith('location in collection'):
-            location = line.split(':')[-1].strip()
-        elif line.startswith('project link'):
-            project_link = line.split(':')[-1].strip()
+    for i in range(len(lines)):
+        if lines[i].strip() == 'location in collection':
+            location = lines[i + 1].strip()
+        elif lines[i].strip() == 'project link':
+            project_link = lines[i + 1].strip()
     return location, project_link
 
 def update_gitmodules(location, project_link):
