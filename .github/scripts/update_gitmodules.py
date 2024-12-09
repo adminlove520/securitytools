@@ -3,6 +3,7 @@ import sys
 import argparse
 import requests
 import subprocess
+from github import Github
 
 def get_issue_details(token, owner, repo, issue_number):
     url = f"https://api.github.com/repos/{owner}/{repo}/issues/{issue_number}"
@@ -13,8 +14,11 @@ def get_issue_details(token, owner, repo, issue_number):
     response = requests.get(url, headers=headers)
     if response.status_code == 200:
         issue_data = response.json()
-        return issue_data['body']
+        return issue_data
     else:
+        print(f"Failed to get issue details: {response.status_code} {response.text}")
+        print(f"URL: {url}")
+        print(f"Headers: {headers}")
         raise Exception(f"Failed to get issue details: {response.status_code} {response.text}")
 
 def parse_issue_body(body):
@@ -35,6 +39,9 @@ def parse_issue_body(body):
                 if next_line:
                     project_link = next_line
                     break
+    if not location or not project_link:
+        print("Failed to parse issue body.")
+        sys.exit(1)
     return location, project_link
 
 def update_gitmodules(location, project_link):
@@ -42,6 +49,7 @@ def update_gitmodules(location, project_link):
         f.write(f'\n[submodule "{location}"]\n')
         f.write(f'    path = {location}\n')
         f.write(f'    url = {project_link}\n')
+    print(f"Updated .gitmodules with location: {location} and project link: {project_link}")
 
 def call_script(script_name, location, project_link):
     command = [
@@ -56,7 +64,6 @@ def call_script(script_name, location, project_link):
         sys.exit(result.returncode)
 
 def update_issue_comment(token, owner, repo, issue_number, issue_title, location):
-    from github import Github
     g = Github(token)
     repo = g.get_repo(f"{owner}/{repo}")
     issue = repo.get_issue(number=issue_number)
@@ -68,9 +75,7 @@ def update_issue_comment(token, owner, repo, issue_number, issue_title, location
 
 def main():
     parser = argparse.ArgumentParser(description="Update .gitmodules file based on issue details.")
-    parser.add_argument('--issue-number', type=int, help='GitHub issue number')
-    parser.add_argument('--location', help='Location of the project in the collection')
-    parser.add_argument('--project-link', help='Project link')
+    parser.add_argument('--issue-number', type=int, required=True, help='GitHub issue number')
     args = parser.parse_args()
 
     token = os.getenv('GITHUB_TOKEN')
@@ -82,30 +87,18 @@ def main():
         sys.exit(1)
     
     issue_number = args.issue_number
-    location = args.location
-    project_link = args.project_link
-
-    if not all([issue_number, location, project_link]):
-        try:
-            body = get_issue_details(token, owner, repo, issue_number)
-            location, project_link = parse_issue_body(body)
-            if not location or not project_link:
-                print("Failed to parse issue body.")
-                sys.exit(1)
-        except Exception as e:
-            print(f"An error occurred: {e}")
-            sys.exit(1)
 
     try:
+        issue_details = get_issue_details(token, owner, repo, issue_number)
+        body = issue_details['body']
+        location, project_link = parse_issue_body(body)
         update_gitmodules(location, project_link)
-        print("Updated .gitmodules successfully.")
         
         # 调用其他脚本
         call_script(".github/scripts/cleanup_repos.py", location, project_link)
         call_script(".github/scripts/create_directories.py", location, project_link)
 
         # 获取 issue title
-        issue_details = get_issue_details(token, owner, repo, issue_number)
         issue_title = issue_details['title']
 
         # 更新 Issue 评论
