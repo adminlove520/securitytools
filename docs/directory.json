@@ -324,8 +324,8 @@
         "url": "https://github.com/ventoy/Ventoy.git",
         "description": "A new bootable USB solution.",
         "watchers": 657,
-        "forks": 4111,
-        "stars": 63366
+        "forks": 4112,
+        "stars": 63367
     },
     {
         "path": "projects/devsec/lab/dockerfiles",
@@ -364,7 +364,7 @@
         "url": "https://github.com/gravitational/teleport.git",
         "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
         "watchers": 244,
-        "forks": 1773,
+        "forks": 1774,
         "stars": 17717
     },
     {
@@ -437,7 +437,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2497,
         "forks": 9620,
-        "stars": 150764
+        "stars": 150766
     },
     {
         "path": "projects/docs/Infosec_Reference",
@@ -1141,7 +1141,7 @@
         "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
         "watchers": 650,
         "forks": 3084,
-        "stars": 23805
+        "stars": 23806
     },
     {
         "path": "projects/scanning/ports/jfscan",
@@ -1709,7 +1709,7 @@
         "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
         "watchers": 385,
         "forks": 8388,
-        "stars": 50965
+        "stars": 50966
     },
     {
         "path": "projects/scanning/webservices/katana",
@@ -1781,7 +1781,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 275,
         "forks": 5452,
-        "stars": 60980
+        "stars": 60981
     },
     {
         "path": "projects/os/macos/secretive",
@@ -1821,7 +1821,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 89,
         "forks": 1096,
-        "stars": 20271
+        "stars": 20270
     },
     {
         "path": "projects/devsec/tools/notify",
@@ -2036,8 +2036,8 @@
         "url": "https://github.com/soxoj/maigret.git",
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 92,
-        "forks": 830,
-        "stars": 11302
+        "forks": 831,
+        "stars": 11304
     },
     {
         "path": "projects/recon/images/exifLooter",
