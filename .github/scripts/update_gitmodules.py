@@ -19,6 +19,7 @@ def parse_issue_body(body):
         if line == '### location in collection':
             for j in range(i + 1, len(lines)):
                 next_line = lines[j].strip()
+                print(f"Next line: {repr(next_line)}")  # 调试输出，使用 repr 查看字符串内容
                 if next_line:
                     location = next_line
                     print(f"Parsed location: {location}")  # 调试输出
@@ -28,6 +29,7 @@ def parse_issue_body(body):
         elif line == '### project link':
             for j in range(i + 1, len(lines)):
                 next_line = lines[j].strip()
+                print(f"Next line: {repr(next_line)}")  # 调试输出，使用 repr 查看字符串内容
                 if next_line:
                     project_link = next_line
                     print(f"Parsed project_link: {project_link}")  # 调试输出
