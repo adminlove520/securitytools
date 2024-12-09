@@ -1,20 +1,64 @@
 import os
+import subprocess
 
 def create_folder_structure(base_path, location):
     """
     创建文件夹结构
     :param base_path: 基础路径，例如 'projects'
-    :param location: 位置字符串，例如 'cloud/aws'
+    :param location: 位置字符串，例如 'cloud/aws/repo-name'
     """
-    full_path = os.path.join(base_path, location)
-    if not os.path.exists(full_path):
-        os.makedirs(full_path)
-        print(f"Created directory: {full_path}")
+    # 拆分 location 为文件夹路径和子模块名称
+    parts = location.rsplit('/', 1)
+    if len(parts) == 2:
+        folder_path, submodule_name = parts
     else:
-        print(f"Directory already exists: {full_path}")
+        folder_path = ''
+        submodule_name = parts[0]
+
+    full_folder_path = os.path.join(base_path, folder_path)
+    
+    # 创建文件夹路径
+    if not os.path.exists(full_folder_path):
+        os.makedirs(full_folder_path)
+        print(f"Created directory: {full_folder_path}")
+    else:
+        print(f"Directory already exists: {full_folder_path}")
+
+    # 创建子模块路径
+    full_submodule_path = os.path.join(full_folder_path, submodule_name)
+    if not os.path.exists(full_submodule_path):
+        os.makedirs(full_submodule_path)
+        print(f"Created submodule directory: {full_submodule_path}")
+    else:
+        print(f"Submodule directory already exists: {full_submodule_path}")
 
 def main(location, project_link):
     create_folder_structure('projects', location)
+    add_submodule('projects', location, project_link)
+
+def add_submodule(base_path, location, project_link):
+    """
+    添加子模块
+    :param base_path: 基础路径，例如 'projects'
+    :param location: 位置字符串，例如 'cloud/aws/repo-name'
+    :param project_link: 子模块的 URL
+    """
+    # 拆分 location 为文件夹路径和子模块名称
+    parts = location.rsplit('/', 1)
+    if len(parts) == 2:
+        folder_path, submodule_name = parts
+    else:
+        folder_path = ''
+        submodule_name = parts[0]
+
+    full_submodule_path = os.path.join(base_path, folder_path, submodule_name)
+    
+    # 检查是否已经存在子模块
+    if not os.path.exists(os.path.join(full_submodule_path, '.git')):
+        subprocess.run(['git', '-C', os.path.join(base_path, folder_path), 'submodule', 'add', project_link, submodule_name], check=True)
+        print(f"Added submodule: {submodule_name} at {full_submodule_path}")
+    else:
+        print(f"Submodule already exists: {full_submodule_path}")
 
 if __name__ == "__main__":
     import argparse
