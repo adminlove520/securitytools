@@ -293,7 +293,7 @@
         "description": "Wiki to collect Red Team infrastructure hardening resources",
         "watchers": 211,
         "forks": 904,
-        "stars": 4162
+        "stars": 4163
     },
     {
         "path": "projects/devsec/docs/docker-bench-security",
@@ -365,7 +365,7 @@
         "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
         "watchers": 244,
         "forks": 1774,
-        "stars": 17717
+        "stars": 17718
     },
     {
         "path": "projects/devsec/networking/pwnat",
@@ -437,7 +437,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2497,
         "forks": 9620,
-        "stars": 150771
+        "stars": 150772
     },
     {
         "path": "projects/docs/Infosec_Reference",
@@ -645,7 +645,7 @@
         "description": "UNIX-like reverse engineering framework and command-line toolset",
         "watchers": 489,
         "forks": 3019,
-        "stars": 20833
+        "stars": 20834
     },
     {
         "path": "projects/malware/re/aa-tools",
@@ -1173,7 +1173,7 @@
         "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
         "watchers": 238,
         "forks": 2527,
-        "stars": 20939
+        "stars": 20940
     },
     {
         "path": "projects/scanning/vulns/nmap-vulners",
@@ -1485,7 +1485,7 @@
         "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
         "watchers": 119,
         "forks": 873,
-        "stars": 7741
+        "stars": 7740
     },
     {
         "path": "projects/socials/recon/socialscan",
@@ -1708,8 +1708,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
         "watchers": 385,
-        "forks": 8391,
-        "stars": 50972
+        "forks": 8393,
+        "stars": 50975
     },
     {
         "path": "projects/scanning/webservices/katana",
@@ -1717,7 +1717,7 @@
         "description": "A next-generation crawling and spidering framework.",
         "watchers": 94,
         "forks": 652,
-        "stars": 12487
+        "stars": 12488
     },
     {
         "path": "projects/scanning/webservices/hero",
@@ -1781,7 +1781,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 275,
         "forks": 5452,
-        "stars": 60986
+        "stars": 60987
     },
     {
         "path": "projects/os/macos/secretive",
@@ -1821,7 +1821,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 89,
         "forks": 1096,
-        "stars": 20276
+        "stars": 20277
     },
     {
         "path": "projects/devsec/tools/notify",
@@ -2037,7 +2037,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 93,
         "forks": 833,
-        "stars": 11347
+        "stars": 11358
     },
     {
         "path": "projects/recon/images/exifLooter",
