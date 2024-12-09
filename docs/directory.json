@@ -477,7 +477,7 @@
         "description": "A collection of smart contract vulnerabilities along with prevention methods",
         "watchers": 41,
         "forks": 269,
-        "stars": 1980
+        "stars": 1981
     },
     {
         "path": "projects/docs/docker/docker-cheat-sheet",
@@ -797,7 +797,7 @@
         "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
         "watchers": 577,
         "forks": 3254,
-        "stars": 17644
+        "stars": 17645
     },
     {
         "path": "projects/os/mobile/android/andriller",
@@ -1213,7 +1213,7 @@
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "watchers": 171,
         "forks": 2351,
-        "stars": 23945
+        "stars": 23946
     },
     {
         "path": "projects/scanning/vulns/webservices/w3af",
@@ -1477,7 +1477,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1134,
         "forks": 7007,
-        "stars": 60898
+        "stars": 60897
     },
     {
         "path": "projects/socials/recon/holehe",
@@ -1781,7 +1781,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 275,
         "forks": 5449,
-        "stars": 60976
+        "stars": 60977
     },
     {
         "path": "projects/os/macos/secretive",
@@ -1821,7 +1821,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 89,
         "forks": 1096,
-        "stars": 20269
+        "stars": 20268
     },
     {
         "path": "projects/devsec/tools/notify",
@@ -2037,7 +2037,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 91,
         "forks": 829,
-        "stars": 11235
+        "stars": 11239
     },
     {
         "path": "projects/recon/images/exifLooter",
