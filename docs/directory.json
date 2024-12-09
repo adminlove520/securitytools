@@ -5,7 +5,7 @@
         "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
         "watchers": 351,
         "forks": 2830,
-        "stars": 9920
+        "stars": 9921
     },
     {
         "path": "projects/adversarysim/platforms/caldera",
@@ -437,7 +437,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2497,
         "forks": 9620,
-        "stars": 150774
+        "stars": 150777
     },
     {
         "path": "projects/docs/Infosec_Reference",
@@ -709,7 +709,7 @@
         "description": "Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication. ",
         "watchers": 144,
         "forks": 1688,
-        "stars": 5514
+        "stars": 5515
     },
     {
         "path": "projects/network/stressing/slowloris",
@@ -1005,7 +1005,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 662,
         "forks": 2847,
-        "stars": 19293
+        "stars": 19294
     },
     {
         "path": "projects/recon/docs/OSINT",
@@ -1045,7 +1045,7 @@
         "description": "Never ever ever use pixelation as a redaction technique",
         "watchers": 71,
         "forks": 731,
-        "stars": 7814
+        "stars": 7815
     },
     {
         "path": "projects/recon/platforms/spiderfoot",
@@ -1149,7 +1149,7 @@
         "description": "JF\u26a1can - Super fast port scanning & service discovery using Masscan and Nmap. Scan large networks with Masscan and use Nmap's scripting abilities to discover information about services. Generate report.",
         "watchers": 10,
         "forks": 87,
-        "stars": 615
+        "stars": 616
     },
     {
         "path": "projects/scanning/secrets/credential-digger",
@@ -1173,7 +1173,7 @@
         "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
         "watchers": 238,
         "forks": 2527,
-        "stars": 20941
+        "stars": 20945
     },
     {
         "path": "projects/scanning/vulns/nmap-vulners",
@@ -1229,7 +1229,7 @@
         "description": "Automatic SQL injection and database takeover tool",
         "watchers": 1095,
         "forks": 5743,
-        "stars": 32802
+        "stars": 32801
     },
     {
         "path": "projects/scanning/webservices/ffuf",
@@ -1708,7 +1708,7 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
         "watchers": 385,
-        "forks": 8394,
+        "forks": 8395,
         "stars": 50977
     },
     {
@@ -1717,7 +1717,7 @@
         "description": "A next-generation crawling and spidering framework.",
         "watchers": 94,
         "forks": 652,
-        "stars": 12489
+        "stars": 12490
     },
     {
         "path": "projects/scanning/webservices/hero",
@@ -1765,7 +1765,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4201,
         "forks": 33997,
-        "stars": 319515
+        "stars": 319516
     },
     {
         "path": "projects/adversarysim/docs/conti-pentester-guide-leak",
@@ -1781,7 +1781,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 275,
         "forks": 5453,
-        "stars": 60990
+        "stars": 60991
     },
     {
         "path": "projects/os/macos/secretive",
@@ -1819,8 +1819,8 @@
         "path": "projects/recon/platforms/changedetection.io",
         "url": "https://github.com/dgtlmoon/changedetection.io",
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
-        "watchers": 89,
-        "forks": 1096,
+        "watchers": 90,
+        "forks": 1097,
         "stars": 20281
     },
     {
@@ -2037,7 +2037,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 93,
         "forks": 833,
-        "stars": 11383
+        "stars": 11400
     },
     {
         "path": "projects/recon/images/exifLooter",
