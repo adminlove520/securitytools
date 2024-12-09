@@ -15,14 +15,19 @@ def parse_issue_body(body):
     project_link = None
     for i in range(len(lines)):
         line = lines[i].strip()
+        print(f"Processing line: {line}")  # 调试输出
         if line == '### location in collection':
             if i + 1 < len(lines):
                 location = lines[i + 1].strip()
                 print(f"Parsed location: {location}")  # 调试输出
+            else:
+                print("No line after '### location in collection'")  # 调试输出
         elif line == '### project link':
             if i + 1 < len(lines):
                 project_link = lines[i + 1].strip()
                 print(f"Parsed project_link: {project_link}")  # 调试输出
+            else:
+                print("No line after '### project link'")  # 调试输出
     return location, project_link
 
 def update_gitmodules(location, project_link):
