@@ -5,7 +5,7 @@
         "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
         "watchers": 351,
         "forks": 2830,
-        "stars": 9919
+        "stars": 9920
     },
     {
         "path": "projects/adversarysim/platforms/caldera",
@@ -773,7 +773,7 @@
         "description": "Guide to securing and improving privacy on macOS",
         "watchers": 683,
         "forks": 1454,
-        "stars": 21348
+        "stars": 21349
     },
     {
         "path": "projects/os/mobile/SMSSpoof",
@@ -789,7 +789,7 @@
         "description": "\ud83d\udcf1 objection - runtime mobile exploration",
         "watchers": 158,
         "forks": 860,
-        "stars": 7620
+        "stars": 7621
     },
     {
         "path": "projects/os/mobile/Mobile-Security-Framework-MobSF",
@@ -797,7 +797,7 @@
         "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
         "watchers": 577,
         "forks": 3254,
-        "stars": 17647
+        "stars": 17648
     },
     {
         "path": "projects/os/mobile/android/andriller",
@@ -1053,7 +1053,7 @@
         "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
         "watchers": 368,
         "forks": 2296,
-        "stars": 13312
+        "stars": 13313
     },
     {
         "path": "projects/recon/platforms/mihari",
@@ -1229,7 +1229,7 @@
         "description": "Automatic SQL injection and database takeover tool",
         "watchers": 1095,
         "forks": 5743,
-        "stars": 32800
+        "stars": 32802
     },
     {
         "path": "projects/scanning/webservices/ffuf",
@@ -1269,7 +1269,7 @@
         "description": "Take a list of domains and probe for working HTTP and HTTPS servers",
         "watchers": 47,
         "forks": 511,
-        "stars": 2895
+        "stars": 2896
     },
     {
         "path": "projects/scanning/webservices/EyeWitness",
@@ -1708,7 +1708,7 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
         "watchers": 385,
-        "forks": 8386,
+        "forks": 8388,
         "stars": 50964
     },
     {
@@ -1716,7 +1716,7 @@
         "url": "https://github.com/projectdiscovery/katana.git",
         "description": "A next-generation crawling and spidering framework.",
         "watchers": 94,
-        "forks": 650,
+        "forks": 652,
         "stars": 12486
     },
     {
@@ -1781,7 +1781,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 275,
         "forks": 5450,
-        "stars": 60977
+        "stars": 60978
     },
     {
         "path": "projects/os/macos/secretive",
@@ -1821,7 +1821,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 89,
         "forks": 1096,
-        "stars": 20268
+        "stars": 20269
     },
     {
         "path": "projects/devsec/tools/notify",
@@ -2037,7 +2037,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 91,
         "forks": 829,
-        "stars": 11254
+        "stars": 11266
     },
     {
         "path": "projects/recon/images/exifLooter",
