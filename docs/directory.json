@@ -341,7 +341,7 @@
         "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
         "watchers": 241,
         "forks": 982,
-        "stars": 14675
+        "stars": 14676
     },
     {
         "path": "projects/devsec/networking/mubeng",
@@ -413,7 +413,7 @@
         "description": "Some setup scripts for security research tools.",
         "watchers": 294,
         "forks": 1899,
-        "stars": 8572
+        "stars": 8573
     },
     {
         "path": "projects/devsec/tools/axiom",
@@ -437,7 +437,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2497,
         "forks": 9622,
-        "stars": 150842
+        "stars": 150843
     },
     {
         "path": "projects/docs/Infosec_Reference",
@@ -773,7 +773,7 @@
         "description": "Guide to securing and improving privacy on macOS",
         "watchers": 683,
         "forks": 1455,
-        "stars": 21353
+        "stars": 21354
     },
     {
         "path": "projects/os/mobile/SMSSpoof",
@@ -1085,7 +1085,7 @@
         "description": "AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.",
         "watchers": 102,
         "forks": 883,
-        "stars": 5194
+        "stars": 5195
     },
     {
         "path": "projects/recon/webhosts/CloudFlair",
@@ -1477,7 +1477,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1133,
         "forks": 7009,
-        "stars": 60914
+        "stars": 60917
     },
     {
         "path": "projects/socials/recon/holehe",
@@ -1708,8 +1708,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
         "watchers": 385,
-        "forks": 8427,
-        "stars": 51048
+        "forks": 8429,
+        "stars": 51051
     },
     {
         "path": "projects/scanning/webservices/katana",
@@ -1717,7 +1717,7 @@
         "description": "A next-generation crawling and spidering framework.",
         "watchers": 94,
         "forks": 653,
-        "stars": 12500
+        "stars": 12501
     },
     {
         "path": "projects/scanning/webservices/hero",
@@ -1765,7 +1765,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4202,
         "forks": 34005,
-        "stars": 319564
+        "stars": 319566
     },
     {
         "path": "projects/adversarysim/docs/conti-pentester-guide-leak",
@@ -1781,7 +1781,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 275,
         "forks": 5454,
-        "stars": 61021
+        "stars": 61020
     },
     {
         "path": "projects/os/macos/secretive",
@@ -1821,7 +1821,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 90,
         "forks": 1097,
-        "stars": 20293
+        "stars": 20294
     },
     {
         "path": "projects/devsec/tools/notify",
@@ -2013,7 +2013,7 @@
         "description": ":art: Diagram as Code for prototyping cloud system architectures",
         "watchers": 406,
         "forks": 2555,
-        "stars": 39909
+        "stars": 39910
     },
     {
         "path": "projects/platforms/honeypots/honeypots",
@@ -2029,7 +2029,7 @@
         "description": "\u267e Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI",
         "watchers": 46,
         "forks": 999,
-        "stars": 15925
+        "stars": 15926
     },
     {
         "path": "projects/recon/suites/maigret",
@@ -2037,7 +2037,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 93,
         "forks": 837,
-        "stars": 11471
+        "stars": 11472
     },
     {
         "path": "projects/recon/images/exifLooter",
@@ -2053,7 +2053,7 @@
         "description": "An open-source digital image forensic toolset",
         "watchers": 50,
         "forks": 252,
-        "stars": 2678
+        "stars": 2679
     },
     {
         "path": "projects/platforms/honeypots/HASH",
@@ -2069,7 +2069,7 @@
         "description": "\ud83d\udee1\ufe0f A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.",
         "watchers": 79,
         "forks": 449,
-        "stars": 6848
+        "stars": 6849
     },
     {
         "path": "projects/scanning/secrets/keyhacks",
