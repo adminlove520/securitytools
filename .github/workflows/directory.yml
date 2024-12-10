@@ -7,7 +7,7 @@ on:
   push:
     branches: [ main ]
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '30 23 * * *'
   workflow_dispatch:
 jobs:
   report-generator:
@@ -21,6 +21,7 @@ jobs:
       - name: run report generator
         run: |
           python3 docs/directory-gen.py
+        if: github.event_name == 'schedule' || github.event_name == 'issues'
         env: 
           GITHUB_TOKEN: ${{ github.token }}
       - name: save changes
