@@ -778,3 +778,9 @@
 [submodule "projects/scanning/secrets/keyhacks"]
 	path = projects/scanning/secrets/keyhacks
 	url = https://github.com/streaak/keyhacks.git
+[submodule "projects/scanning/vulns/nuclei-templates"]
+	path = projects/scanning/vulns/nuclei-templates
+	url = https://github.com/20142995/nuclei-templates
+[submodule "projects/scanning/vulns/templates/nuclei-templates"]
+	path = projects/scanning/vulns/templates/nuclei-templates
+	url = https://github.com/20142995/nuclei-templates
