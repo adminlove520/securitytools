@@ -56,11 +56,9 @@ jobs:
       - name: Commit changes
         run: |
           git config user.name ProjectBot
-          git config user.email projectbotma@yourdomain.com
+          git config user.email projectbot@yourdomain.com
           git add .gitmodules
           git add projects/
-          rm -rf projects/scanning/vulns/nuclei-templates
-          git submodule update --init --recursive
           git add -A
           git commit -m "Cleanup 404 repositories, update files, and add .gitkeep"
           git push origin main
