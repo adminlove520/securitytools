@@ -45,6 +45,10 @@ def parse_issue_body(body):
 def update_gitmodules(location, project_link):
     gitmodules_path = '.gitmodules'
     try:
+        # 确保 project_link 以 .git 结尾
+        if not project_link.endswith('.git'):
+            project_link += '.git'
+
         with open(gitmodules_path, 'a') as f:
             f.write(f'\n[submodule "{location}"]\n')
             f.write(f'    path = {location}\n')
