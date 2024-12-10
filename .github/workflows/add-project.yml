@@ -28,7 +28,7 @@ jobs:
           pip install PyGithub
 
       - name: Parse issue and update .gitmodules
-        id: parse_issue
+        id: update_gitmodules
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
@@ -39,20 +39,22 @@ jobs:
           python .github/scripts/update_gitmodules.py
         if: github.event_name == 'issues'
 
-      - name: Cleanup 404 repositories & add submodule files
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          LOCATION: ${{ steps.parse_issue.outputs.location }}
-          PROJECT_LINK: ${{ steps.parse_issue.outputs.project_link }}
+      - name: Check if submodule already exists
+        if: ${{ steps.update_gitmodules.outcome == 'failure' }}
+        run: |
+          echo "Submodule already exists. Skipping further steps."
+          exit 0
+
+      - name: Add submodule
+        if: ${{ steps.update_gitmodules.outcome != 'failure' }}
         run: |
           git submodule add "$PROJECT_LINK" "$LOCATION"
-          # python .github/scripts/cleanup_repos.py --location "$LOCATION" --project-link "$PROJECT_LINK"
-        if: github.event_name == 'schedule' || github.event_name == 'issues'
+
 
       - name: Add .gitkeep files
         run: |
           python .github/scripts/add_gitkeep.py
-        if: github.event_name == 'schedule' || github.event_name == 'issues'
+        if: github.event_name == 'schedule' || github.event_name == 'issues' || ${{ steps.update_gitmodules.outcome != 'failure' }}
 
       - name: Commit changes
         run: |
@@ -65,9 +67,9 @@ jobs:
           git add -A
           git commit -m "Cleanup 404 repositories, update files, and add .gitkeep"
           git push origin main
-        if: github.event_name == 'schedule' || github.event_name == 'issues'
+        if: github.event_name == 'schedule' || github.event_name == 'issues' || ${{ steps.update_gitmodules.outcome != 'failure' }}
 
       - name: Debug .gitmodules content
         run: |
           cat .gitmodules | grep "nuclei-templates"
-        if: github.event_name == 'issues'
+        if: github.event_name == 'issues' || ${{ steps.update_gitmodules.outcome != 'failure' }}

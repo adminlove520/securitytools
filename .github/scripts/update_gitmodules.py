@@ -147,6 +147,7 @@ def main():
             print(message)
             # 删除子模块目录
             remove_submodule(location)
+            sys.exit(1)  # 设置退出状态码为1，表示子模块已存在
         else:
             update_gitmodules(location, project_link)
             
