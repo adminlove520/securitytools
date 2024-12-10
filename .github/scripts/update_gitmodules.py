@@ -155,7 +155,7 @@ def main():
             issue_title = issue_details['title']
 
             # 更新 Issue 评论
-            message = f"已成功将{issue_title} 添加至SecurityTools\n项目位置: {location}\n感谢您的投稿~\n<p style='text-align: right;'>---东方隐侠安全团队·SecurityTools</p>""
+            message = f"已成功将{issue_title} 添加至SecurityTools\n项目位置: {location}\n感谢您的投稿~\n<p style='text-align: right;'>---东方隐侠安全团队·SecurityTools</p>"
             update_issue_comment(token, owner, repo, issue_number, issue_title, location, message)
 
             # 设置输出变量
