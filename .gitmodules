@@ -786,3 +786,7 @@
 [submodule "projects/scanning/vulns/nuclei_poc"]
 	path = projects/scanning/vulns/nuclei_poc
 	url = https://github.com/adysec/nuclei_poc.git
+
+[submodule "projects/platforms/burp/BurpSuite-collections"]
+	path = projects/platforms/burp/BurpSuite-collections
+	url = https://github.com/Mr-xn/BurpSuite-collections.git
