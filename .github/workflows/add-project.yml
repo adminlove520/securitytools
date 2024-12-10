@@ -36,7 +36,6 @@ jobs:
           REPO_NAME: securitytools
         run: |
           python .github/scripts/update_gitmodules.py
-          python docs/directory-gen.py
         if: github.event_name == 'issues'
 
       - name: Cleanup 404 repositories
@@ -56,3 +55,11 @@ jobs:
           git commit -m "Cleanup 404 repositories and update files"
           git push origin main
         if: github.event_name == 'schedule'
+
+      - name: Trigger directory.yml workflow
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          event-type: generate-directory
+          client-payload: '{"ref": "main"}'
+        if: github.event_name == 'issues'
