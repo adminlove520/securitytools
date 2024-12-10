@@ -36,7 +36,7 @@ jobs:
         run: |
           git config user.name DirectoryBot
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git pull
+          git pull --rebase
           git add docs/directory.json
           git commit --all --message "directoryBot-directory.json is updated" || echo "no changes to commit"
           git push
