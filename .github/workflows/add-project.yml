@@ -51,7 +51,7 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config user.name github-actions
+          git config user.name ProjectBot
           git config user.email github-actions@github.com
           git add .gitmodules
           git submodule update --init --recursive
@@ -63,5 +63,4 @@ jobs:
       - name: Debug .gitmodules content
         run: |
           cat .gitmodules | grep "nuclei-templates"
-          cat docs/directory.json | grep "nuclei-templates"
         if: github.event_name == 'issues'
