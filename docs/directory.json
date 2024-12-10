@@ -324,7 +324,7 @@
         "url": "https://github.com/ventoy/Ventoy.git",
         "description": "A new bootable USB solution.",
         "watchers": 657,
-        "forks": 4112,
+        "forks": 4111,
         "stars": 63385
     },
     {
@@ -437,7 +437,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2497,
         "forks": 9622,
-        "stars": 150843
+        "stars": 150842
     },
     {
         "path": "projects/docs/Infosec_Reference",
@@ -1477,7 +1477,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1133,
         "forks": 7009,
-        "stars": 60918
+        "stars": 60921
     },
     {
         "path": "projects/socials/recon/holehe",
@@ -1708,7 +1708,7 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
         "watchers": 385,
-        "forks": 8430,
+        "forks": 8431,
         "stars": 51052
     },
     {
@@ -1765,7 +1765,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4202,
         "forks": 34005,
-        "stars": 319566
+        "stars": 319569
     },
     {
         "path": "projects/adversarysim/docs/conti-pentester-guide-leak",
@@ -1820,7 +1820,7 @@
         "url": "https://github.com/dgtlmoon/changedetection.io",
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 90,
-        "forks": 1097,
+        "forks": 1098,
         "stars": 20295
     },
     {
@@ -2029,7 +2029,7 @@
         "description": "\u267e Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI",
         "watchers": 46,
         "forks": 999,
-        "stars": 15927
+        "stars": 15928
     },
     {
         "path": "projects/recon/suites/maigret",
@@ -2078,5 +2078,13 @@
         "watchers": 108,
         "forks": 1059,
         "stars": 5157
+    },
+    {
+        "path": "projects/scanning/vulns/nuclei-templates",
+        "url": "https://github.com/20142995/nuclei-templates.git",
+        "description": "nuclei-templates  4W+\u5df2\u6821\u9a8c",
+        "watchers": 9,
+        "forks": 52,
+        "stars": 194
     }
 ]
