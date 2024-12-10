@@ -28,6 +28,7 @@ jobs:
           pip install PyGithub
 
       - name: Parse issue and update .gitmodules
+        id: parse_issue
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
@@ -36,14 +37,19 @@ jobs:
           REPO_NAME: securitytools
         run: |
           python .github/scripts/update_gitmodules.py
+          echo "::set-output name=location::$(python -c 'import json; print(json.load(open(".github/scripts/issue_details.json"))["location"])')"
+          echo "::set-output name=project_link::$(python -c 'import json; print(json.load(open(".github/scripts/issue_details.json"))["project_link"])')"
         if: github.event_name == 'issues'
 
       - name: Cleanup 404 repositories
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LOCATION: ${{ steps.parse_issue.outputs.location }}
+          PROJECT_LINK: ${{ steps.parse_issue.outputs.project_link }}
         run: |
-          python .github/scripts/cleanup_repos.py
+          python .github/scripts/cleanup_repos.py --location "$LOCATION" --project-link "$PROJECT_LINK"
         if: github.event_name == 'schedule' || github.event_name == 'issues'
+
       - name: Generate directory.json
         run: |
           python3 docs/directory-gen.py
@@ -59,8 +65,9 @@ jobs:
           git commit -m "Cleanup 404 repositories and update files"
           git push origin main
         if: github.event_name == 'schedule' || github.event_name == 'issues'
+
       - name: Debug .gitmodules content
         run: |
-          cat .gitmodules |grep "nuclei-templates"
-          cat docs/directory.json |grep "nuclei-templates"
+          cat .gitmodules | grep "nuclei-templates"
+          cat docs/directory.json | grep "nuclei-templates"
         if: github.event_name == 'issues'

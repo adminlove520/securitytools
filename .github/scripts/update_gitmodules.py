@@ -65,6 +65,8 @@ def update_issue_comment(token, owner, repo, issue_number, issue_title, location
     
     comment_body = f"已成功将{issue_title} 添加至SecurityTools, 欢迎您的投稿\n"
     comment_body += f"项目位置: {location}\n"
+    comment_body += "<p style='text-align: right;'>---东方隐侠安全团队·SecurityTools</p>"  # 使用 HTML 标签实现右对齐
+    
     issue.create_comment(comment_body)
     print("Issue 更新成功")
 
