@@ -896,7 +896,7 @@
         "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
         "watchers": 577,
         "forks": 3257,
-        "stars": 17663,
+        "stars": 17664,
         "is_new": false
     },
     {
@@ -1921,7 +1921,7 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
         "watchers": 385,
-        "forks": 8432,
+        "forks": 8433,
         "stars": 51063,
         "is_new": false
     },
