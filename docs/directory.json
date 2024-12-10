@@ -1697,7 +1697,7 @@
         "description": "A OSINT tool to obtain a target's phone number just by having his email address",
         "watchers": 56,
         "forks": 261,
-        "stars": 2198,
+        "stars": 2199,
         "is_new": false
     },
     {
@@ -2355,6 +2355,15 @@
         "watchers": 181,
         "forks": 269,
         "stars": 772,
+        "is_new": false
+    },
+    {
+        "path": "projects/platforms/burp/BurpSuite-collections",
+        "url": "https://github.com/Mr-xn/BurpSuite-collections.git",
+        "description": "\u6709\u5173burpsuite\u7684\u63d2\u4ef6(\u975e\u5546\u5e97),\u6587\u7ae0\u4ee5\u53ca\u4f7f\u7528\u6280\u5de7\u7684\u6536\u96c6(\u6b64\u9879\u76ee\u4e0d\u518d\u63d0\u4f9bburpsuite\u7834\u89e3\u6587\u4ef6,\u5982\u9700\u8981\u8bf7\u5728\u535a\u5ba2mrxn.net\u4e0b\u8f7d)---Collection of burpsuite plugins (non-stores), articles and tips for using Burpsuite, no crack version file",
+        "watchers": 76,
+        "forks": 658,
+        "stars": 3389,
         "is_new": false
     }
 ]
