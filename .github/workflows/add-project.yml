@@ -49,8 +49,10 @@ jobs:
         if: github.event_name == 'schedule' || github.event_name == 'issues'
 
       - name: Generate directory.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python3 docs/directory-gen.py
+          python docs/directory-gen.py
         if: github.event_name == 'issues'
 
       - name: Commit changes

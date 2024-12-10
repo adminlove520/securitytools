@@ -2,6 +2,7 @@ import os
 import json
 import re
 from github import Github
+import requests
 
 def check_repo_exists(repo_url):
     """
@@ -70,7 +71,7 @@ def main(location, project_link):
     repo = g.get_repo(os.getenv('GITHUB_REPOSITORY'))
 
     gitmodules_path = '.gitmodules'
-    directory_json_path = 'directory.json'
+    directory_json_path = 'docs/directory.json'
 
     if not os.path.exists(gitmodules_path) or not os.path.exists(directory_json_path):
         print("Either .gitmodules or directory.json does not exist.")
