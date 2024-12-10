@@ -95,6 +95,11 @@ def main():
 
         # 更新 Issue 评论
         update_issue_comment(token, owner, repo, issue_number, issue_title, location)
+
+        # 设置输出变量
+        with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
+            print(f"location={location}", file=fh)
+            print(f"project_link={project_link}", file=fh)
     except Exception as e:
         print(f"An error occurred: {e}")
         sys.exit(1)
