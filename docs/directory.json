@@ -325,7 +325,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 657,
         "forks": 4112,
-        "stars": 63384
+        "stars": 63385
     },
     {
         "path": "projects/devsec/lab/dockerfiles",
@@ -1941,7 +1941,7 @@
         "description": "Canarytokens helps track activity and actions on your network.",
         "watchers": 44,
         "forks": 258,
-        "stars": 1763
+        "stars": 1764
     },
     {
         "path": "projects/recon/images/ela-image-forensics",
