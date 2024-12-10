@@ -35,11 +35,46 @@ jobs:
           ISSUE_TITLE: ${{ github.event.issue.title }}
           REPO_OWNER: adminlove520
           REPO_NAME: securitytools
-          LOCATION: ${{ steps.parse_issue.outputs.location }}
-          PROJECT_LINK: ${{ steps.parse_issue.outputs.project_link }}
         run: |
-          python .github/scripts/update_gitmodules.py
-          git submodule add ${{ env.PROJECT_LINK }} ${{ env.LOCATION }}
+          import os
+          from github import Github
+
+          # Initialize a GitHub client
+          g = Github(os.environ['GITHUB_TOKEN'])
+          repo = g.get_repo('${{ github.repository }}')
+          issue = repo.get_issue(number=os.environ['ISSUE_NUMBER'])
+
+          # Check if the issue title or body contains the command to add a submodule
+          issue_title = issue.title.lower()
+          issue_body = issue.body.lower()
+
+          if 'add submodule:' in issue_title or 'add submodule:' in issue_body:
+              # Extract the submodule URL and path
+              if 'add submodule:' in issue_title:
+                  command = issue_title.split('add submodule:')[1].strip()
+              else:
+                  command = issue_body.split('add submodule:')[1].strip()
+
+              parts = command.split()
+              submodule_url = parts[0]
+              submodule_path = parts[1]
+
+              # Output the location and project link
+              print(f"::set-output name=location::{submodule_path}")
+              print(f"::set-output name=project_link::{submodule_url}")
+          else:
+              print("No submodule command found in the issue.")
+
+      - name: Add submodule
+        env:
+          PROJECT_LINK: ${{ steps.parse_issue.outputs.project_link }}
+          LOCATION: ${{ steps.parse_issue.outputs.location }}
+        run: |
+          if [ -n "$PROJECT_LINK" ] && [ -n "$LOCATION" ]; then
+            git submodule add "$PROJECT_LINK" "$LOCATION"
+          else
+            echo "No valid PROJECT_LINK or LOCATION found."
+          fi
         if: github.event_name == 'issues'
 
       - name: Cleanup 404 repositories
@@ -58,7 +93,7 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config user.name ProjectBotma
+          git config user.name ProjectBot
           git config user.email projectbotma@yourdomain.com
           git add .gitmodules
           git add projects/
