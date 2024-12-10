@@ -18,8 +18,8 @@ jobs:
     steps:
       - name: checkout the repo
         uses: actions/checkout@v2
-        with:
-          submodules: true  # 确保子模块被初始化和更新
+        # with:
+        #   submodules: true  # 确保子模块被初始化和更新
 
       - name: Initialize and update submodules
         run: |
