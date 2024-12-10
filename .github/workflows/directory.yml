@@ -21,7 +21,6 @@ jobs:
       - name: run report generator
         run: |
           python3 docs/directory-gen.py
-          cat docs/directory.json | grep "nuclei-templates"
         env: 
           GITHUB_TOKEN: ${{ github.token }}
       - name: save changes

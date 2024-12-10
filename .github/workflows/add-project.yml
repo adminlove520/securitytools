@@ -48,15 +48,20 @@ jobs:
           python .github/scripts/cleanup_repos.py --location "$LOCATION" --project-link "$PROJECT_LINK"
         if: github.event_name == 'schedule' || github.event_name == 'issues'
 
+      - name: Add .gitkeep files
+        run: |
+          python .github/scripts/add_gitkeep.py
+        if: github.event_name == 'schedule' || github.event_name == 'issues'
 
       - name: Commit changes
         run: |
-          git config user.name ProjectBot
-          git config user.email github-actions@github.com
+          git config user.name ProjectBotma
+          git config user.email projectbotma@yourdomain.com
           git add .gitmodules
+          git add projects/
           git submodule update --init --recursive
           git add -A
-          git commit -m "Cleanup 404 repositories and update files"
+          git commit -m "Cleanup 404 repositories, update files, and add .gitkeep"
           git push origin main
         if: github.event_name == 'schedule' || github.event_name == 'issues'
 
