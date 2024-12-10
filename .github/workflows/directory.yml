@@ -1,5 +1,9 @@
 name: submodule json array generator
 on:
+  workflow_run:
+    workflows: ["Add Project"]
+    types:
+      - completed
   push:
     branches: [ main ]
   schedule:

@@ -48,12 +48,6 @@ jobs:
           python .github/scripts/cleanup_repos.py --location "$LOCATION" --project-link "$PROJECT_LINK"
         if: github.event_name == 'schedule' || github.event_name == 'issues'
 
-      - name: Generate directory.json
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          python docs/directory-gen.py
-        if: github.event_name == 'issues'
 
       - name: Commit changes
         run: |
