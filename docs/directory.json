@@ -325,7 +325,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 657,
         "forks": 4112,
-        "stars": 63383
+        "stars": 63384
     },
     {
         "path": "projects/devsec/lab/dockerfiles",
@@ -581,7 +581,7 @@
         "description": "Open Cyber Threat Intelligence Platform",
         "watchers": 142,
         "forks": 963,
-        "stars": 6541
+        "stars": 6542
     },
     {
         "path": "projects/intel/platforms/yeti",
@@ -629,7 +629,7 @@
         "description": "A curated list of awesome reversing resources",
         "watchers": 193,
         "forks": 572,
-        "stars": 4093
+        "stars": 4094
     },
     {
         "path": "projects/malware/re/CAPEv2",
@@ -685,7 +685,7 @@
         "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
         "watchers": 411,
         "forks": 1480,
-        "stars": 16882
+        "stars": 16883
     },
     {
         "path": "projects/network/analysis/rita",
@@ -829,7 +829,7 @@
         "description": "The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).",
         "watchers": 424,
         "forks": 2349,
-        "stars": 11809
+        "stars": 11810
     },
     {
         "path": "projects/os/mobile/ios/iLEAPP",
@@ -1173,7 +1173,7 @@
         "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
         "watchers": 238,
         "forks": 2530,
-        "stars": 20960
+        "stars": 20961
     },
     {
         "path": "projects/scanning/vulns/nmap-vulners",
@@ -1708,8 +1708,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
         "watchers": 385,
-        "forks": 8426,
-        "stars": 51046
+        "forks": 8427,
+        "stars": 51048
     },
     {
         "path": "projects/scanning/webservices/katana",
@@ -1717,7 +1717,7 @@
         "description": "A next-generation crawling and spidering framework.",
         "watchers": 94,
         "forks": 652,
-        "stars": 12498
+        "stars": 12499
     },
     {
         "path": "projects/scanning/webservices/hero",
@@ -1765,7 +1765,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4202,
         "forks": 34005,
-        "stars": 319562
+        "stars": 319563
     },
     {
         "path": "projects/adversarysim/docs/conti-pentester-guide-leak",
@@ -1821,7 +1821,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 90,
         "forks": 1097,
-        "stars": 20292
+        "stars": 20293
     },
     {
         "path": "projects/devsec/tools/notify",
