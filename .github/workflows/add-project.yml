@@ -45,8 +45,12 @@ jobs:
           LOCATION: ${{ steps.parse_issue.outputs.location }}
           PROJECT_LINK: ${{ steps.parse_issue.outputs.project_link }}
         run: |
+          # Remove existing directory if it exists
+          if [ -d "$LOCATION" ]; then
+            rm -rf "$LOCATION"
+          fi
           git submodule add "$PROJECT_LINK" "$LOCATION"
-          python .github/scripts/cleanup_repos.py --location "$LOCATION" --project-link "$PROJECT_LINK"
+          # python .github/scripts/cleanup_repos.py --location "$LOCATION" --project-link "$PROJECT_LINK"
         if: github.event_name == 'schedule' || github.event_name == 'issues'
 
       - name: Add .gitkeep files
