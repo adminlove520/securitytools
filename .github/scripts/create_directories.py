@@ -32,10 +32,6 @@ def create_folder_structure(base_path, location):
     else:
         print(f"Submodule directory already exists: {full_submodule_path}")
 
-def main(location, project_link):
-    create_folder_structure('projects', location)
-    add_submodule('projects', location, project_link)
-
 def add_submodule(base_path, location, project_link):
     """
     添加子模块
@@ -77,4 +73,5 @@ if __name__ == "__main__":
     parser.add_argument("--project-link", required=True, help="Project link")
     args = parser.parse_args()
 
-    main(args.location, args.project_link)
+    # 移除 main 函数的调用
+    # main(args.location, args.project_link)
