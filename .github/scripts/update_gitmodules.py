@@ -42,6 +42,42 @@ def parse_issue_body(body):
         sys.exit(1)
     return location, project_link
 
+def check_submodule_exists(location, project_link):
+    gitmodules_path = '.gitmodules'
+    if not os.path.exists(gitmodules_path):
+        return False
+
+    with open(gitmodules_path, 'r') as f:
+        content = f.read()
+
+    # 确保 project_link 以 .git 结尾
+    if not project_link.endswith('.git'):
+        project_link += '.git'
+
+    # 检查是否存在相同的 location 和 project_link
+    submodule_found = False
+    lines = content.split('\n')
+    for i in range(len(lines)):
+        line = lines[i].strip()
+        if line.startswith('[submodule'):
+            submodule_location = None
+            submodule_url = None
+            for j in range(i + 1, len(lines)):
+                next_line = lines[j].strip()
+                if next_line.startswith('path ='):
+                    submodule_location = next_line.split('=')[1].strip()
+                elif next_line.startswith('url ='):
+                    submodule_url = next_line.split('=')[1].strip()
+                elif next_line.startswith('['):
+                    break
+                if submodule_location and submodule_url:
+                    if submodule_location == location and submodule_url == project_link:
+                        submodule_found = True
+                        break
+            if submodule_found:
+                break
+    return submodule_found
+
 def update_gitmodules(location, project_link):
     gitmodules_path = '.gitmodules'
     try:
@@ -62,14 +98,25 @@ def update_gitmodules(location, project_link):
     except IOError as e:
         print(f"Failed to write to .gitmodules: {e}")
 
-def update_issue_comment(token, owner, repo, issue_number, issue_title, location):
+def remove_submodule(location):
+    try:
+        # 删除子模块目录
+        submodule_dir = os.path.join(os.getcwd(), location)
+        if os.path.exists(submodule_dir):
+            os.system(f"rm -rf {submodule_dir}")
+            print(f"Removed submodule directory: {submodule_dir}")
+    except Exception as e:
+        print(f"Failed to remove submodule directory: {e}")
+
+def update_issue_comment(token, owner, repo, issue_number, issue_title, location, message):
     g = Github(token)
     repo = g.get_repo(f"{owner}/{repo}")
     issue = repo.get_issue(number=issue_number)
     
-    comment_body = f"已成功将{issue_title} 添加至SecurityTools, 欢迎您的投稿\n"
-    comment_body += f"项目位置: {location}\n"
-    comment_body += "<p style='text-align: right;'>---东方隐侠安全团队·SecurityTools</p>"  # 使用 HTML 标签实现右对齐
+    comment_body = f"{message}\n"
+    if message == "已成功将{issue_title} 添加至SecurityTools, 欢迎您的投稿":
+        comment_body += f"项目位置: {location}\n"
+        comment_body += "<p style='text-align: right;'>---东方隐侠安全团队·SecurityTools</p>"  # 使用 HTML 标签实现右对齐
     
     issue.create_comment(comment_body)
     print("Issue 更新成功")
@@ -92,18 +139,28 @@ def main():
         issue_details = get_issue_details(token, owner, repo, issue_number)
         body = issue_details['body']
         location, project_link = parse_issue_body(body)
-        update_gitmodules(location, project_link)
         
-        # 获取 issue title
-        issue_title = issue_details['title']
+        # 检查子模块是否已存在
+        if check_submodule_exists(location, project_link):
+            message = f"该项目已存在于SecurityTools,请勿重复投稿~ 位置: {location}"
+            update_issue_comment(token, owner, repo, issue_number, issue_details['title'], location, message)
+            print(message)
+            # 删除子模块目录
+            remove_submodule(location)
+        else:
+            update_gitmodules(location, project_link)
+            
+            # 获取 issue title
+            issue_title = issue_details['title']
 
-        # 更新 Issue 评论
-        update_issue_comment(token, owner, repo, issue_number, issue_title, location)
+            # 更新 Issue 评论
+            message = f"已成功将{issue_title} 添加至SecurityTools, 感谢您的投稿~"
+            update_issue_comment(token, owner, repo, issue_number, issue_title, location, message)
 
-        # 设置输出变量
-        with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
-            print(f"location={location}", file=fh)
-            print(f"project_link={project_link}", file=fh)
+            # 设置输出变量
+            with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
+                print(f"location={location}", file=fh)
+                print(f"project_link={project_link}", file=fh)
     except Exception as e:
         print(f"An error occurred: {e}")
         sys.exit(1)
