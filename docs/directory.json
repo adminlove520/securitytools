@@ -410,7 +410,7 @@
         "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
         "watchers": 244,
         "forks": 1777,
-        "stars": 17736,
+        "stars": 17737,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2497,
         "forks": 9623,
-        "stars": 150847,
+        "stars": 150848,
         "is_new": false
     },
     {
@@ -770,7 +770,7 @@
         "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
         "watchers": 411,
         "forks": 1480,
-        "stars": 16884,
+        "stars": 16885,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 663,
         "forks": 2849,
-        "stars": 19310,
+        "stars": 19311,
         "is_new": false
     },
     {
@@ -1364,7 +1364,7 @@
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "watchers": 171,
         "forks": 2354,
-        "stars": 23959,
+        "stars": 23960,
         "is_new": false
     },
     {
@@ -1398,9 +1398,9 @@
         "path": "projects/scanning/webservices/dirsearch",
         "url": "https://github.com/maurosoria/dirsearch.git",
         "description": "Web path scanner",
-        "watchers": 309,
+        "watchers": 310,
         "forks": 2320,
-        "stars": 12298,
+        "stars": 12299,
         "is_new": false
     },
     {
