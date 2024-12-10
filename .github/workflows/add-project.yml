@@ -43,7 +43,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python .github/scripts/cleanup_repos.py
-        if: github.event_name == 'schedule'
+        if: github.event_name == 'schedule' || github.event_name == 'issues'
+      - name: Generate directory.json
+        run: |
+          python3 docs/directory-gen.py
+        if: github.event_name == 'issues'
 
       - name: Commit changes
         run: |
@@ -54,12 +58,9 @@ jobs:
           git add -A
           git commit -m "Cleanup 404 repositories and update files"
           git push origin main
-        if: github.event_name == 'schedule'
-
-      - name: Trigger directory.yml workflow
-        uses: peter-evans/repository-dispatch@v1
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          event-type: generate-directory
-          client-payload: '{"ref": "main"}'
+        if: github.event_name == 'schedule' || github.event_name == 'issues'
+      - name: Debug .gitmodules content
+        run: |
+          cat .gitmodules |grep "nuclei-templates"
+          cat docs/directory.json |grep "nuclei-templates"
         if: github.event_name == 'issues'
