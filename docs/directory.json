@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 657,
         "forks": 4111,
-        "stars": 63385,
+        "stars": 63386,
         "is_new": false
     },
     {
@@ -409,7 +409,7 @@
         "url": "https://github.com/gravitational/teleport.git",
         "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
         "watchers": 244,
-        "forks": 1776,
+        "forks": 1777,
         "stars": 17735,
         "is_new": false
     },
@@ -464,7 +464,7 @@
         "description": "Some setup scripts for security research tools.",
         "watchers": 294,
         "forks": 1899,
-        "stars": 8573,
+        "stars": 8574,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2497,
         "forks": 9623,
-        "stars": 150845,
+        "stars": 150847,
         "is_new": false
     },
     {
@@ -842,7 +842,7 @@
         "description": "WiFi security auditing tools suite",
         "watchers": 235,
         "forks": 958,
-        "stars": 5560,
+        "stars": 5561,
         "is_new": false
     },
     {
@@ -887,7 +887,7 @@
         "description": "\ud83d\udcf1 objection - runtime mobile exploration",
         "watchers": 158,
         "forks": 860,
-        "stars": 7621,
+        "stars": 7622,
         "is_new": false
     },
     {
@@ -1139,7 +1139,7 @@
         "description": "Collections of tools and methods created to aid in OSINT collection",
         "watchers": 114,
         "forks": 411,
-        "stars": 2856,
+        "stars": 2857,
         "is_new": false
     },
     {
@@ -1166,7 +1166,7 @@
         "description": "ExifTool meta information reader/writer",
         "watchers": 59,
         "forks": 328,
-        "stars": 3340,
+        "stars": 3341,
         "is_new": false
     },
     {
@@ -1319,7 +1319,7 @@
         "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
         "watchers": 238,
         "forks": 2530,
-        "stars": 20961,
+        "stars": 20962,
         "is_new": false
     },
     {
@@ -1391,7 +1391,7 @@
         "description": "Fast web fuzzer written in Go",
         "watchers": 159,
         "forks": 1309,
-        "stars": 12843,
+        "stars": 12844,
         "is_new": false
     },
     {
@@ -1553,7 +1553,7 @@
         "description": "Main Sigma Rule Repository",
         "watchers": 346,
         "forks": 2214,
-        "stars": 8453,
+        "stars": 8454,
         "is_new": false
     },
     {
@@ -1922,7 +1922,7 @@
         "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
         "watchers": 385,
         "forks": 8432,
-        "stars": 51056,
+        "stars": 51063,
         "is_new": false
     },
     {
@@ -1984,8 +1984,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4202,
-        "forks": 34005,
-        "stars": 319571,
+        "forks": 34006,
+        "stars": 319574,
         "is_new": false
     },
     {
@@ -2002,8 +2002,8 @@
         "url": "https://github.com/louislam/uptime-kuma.git",
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 275,
-        "forks": 5455,
-        "stars": 61025,
+        "forks": 5456,
+        "stars": 61028,
         "is_new": false
     },
     {
@@ -2264,7 +2264,7 @@
         "description": ":art: Diagram as Code for prototyping cloud system architectures",
         "watchers": 406,
         "forks": 2555,
-        "stars": 39911,
+        "stars": 39912,
         "is_new": false
     },
     {
@@ -2282,7 +2282,7 @@
         "description": "\u267e Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI",
         "watchers": 46,
         "forks": 999,
-        "stars": 15928,
+        "stars": 15930,
         "is_new": false
     },
     {
@@ -2346,6 +2346,15 @@
         "watchers": 9,
         "forks": 52,
         "stars": 194,
+        "is_new": false
+    },
+    {
+        "path": "projects/scanning/vulns/nuclei_poc",
+        "url": "https://github.com/adysec/nuclei_poc.git",
+        "description": "Nuclei POC\uff0c\u6bcf\u65e5\u66f4\u65b0 | \u81ea\u52a8\u6574\u5408\u5168\u7f51Nuclei\u7684\u6f0f\u6d1ePOC\uff0c\u5b9e\u65f6\u540c\u6b65\u66f4\u65b0\u6700\u65b0POC\uff0c\u4fdd\u5b58\u5df2\u88ab\u5220\u9664\u7684POC\u3002\u901a\u8fc7\u6279\u91cf\u514b\u9686Github\u9879\u76ee\uff0c\u83b7\u53d6Nuclei POC\uff0c\u5e76\u5c06POC\u6309\u7c7b\u522b\u5206\u7c7b\u5b58\u653e\uff0c\u4f7f\u7528Github Action\u5b9e\u73b0\uff08\u5df2\u670911wPOC\uff0c\u5df2\u6821\u9a8c\u6709\u6548\u6027\u5e76\u53bb\u91cd\uff09",
+        "watchers": 181,
+        "forks": 269,
+        "stars": 771,
         "is_new": false
     }
 ]
