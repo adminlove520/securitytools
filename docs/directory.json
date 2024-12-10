@@ -228,7 +228,7 @@
         "url": "https://github.com/initstring/cloud_enum.git",
         "description": "Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.",
         "watchers": 40,
-        "forks": 252,
+        "forks": 253,
         "stars": 1704
     },
     {
@@ -365,7 +365,7 @@
         "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
         "watchers": 244,
         "forks": 1776,
-        "stars": 17732
+        "stars": 17733
     },
     {
         "path": "projects/devsec/networking/pwnat",
@@ -437,7 +437,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2498,
         "forks": 9622,
-        "stars": 150834
+        "stars": 150835
     },
     {
         "path": "projects/docs/Infosec_Reference",
@@ -685,7 +685,7 @@
         "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
         "watchers": 411,
         "forks": 1480,
-        "stars": 16881
+        "stars": 16882
     },
     {
         "path": "projects/network/analysis/rita",
@@ -1036,8 +1036,8 @@
         "url": "https://github.com/exiftool/exiftool.git",
         "description": "ExifTool meta information reader/writer",
         "watchers": 59,
-        "forks": 329,
-        "stars": 3338
+        "forks": 328,
+        "stars": 3339
     },
     {
         "path": "projects/recon/images/unredacter",
@@ -1133,7 +1133,7 @@
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
         "watchers": 134,
         "forks": 1006,
-        "stars": 14865
+        "stars": 14866
     },
     {
         "path": "projects/scanning/ports/masscan",
@@ -1213,7 +1213,7 @@
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "watchers": 171,
         "forks": 2354,
-        "stars": 23957
+        "stars": 23958
     },
     {
         "path": "projects/scanning/vulns/webservices/w3af",
@@ -1477,7 +1477,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1133,
         "forks": 7009,
-        "stars": 60912
+        "stars": 60913
     },
     {
         "path": "projects/socials/recon/holehe",
@@ -1621,7 +1621,7 @@
         "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
         "watchers": 148,
         "forks": 511,
-        "stars": 17581
+        "stars": 17582
     },
     {
         "path": "projects/malware/scanning/pandora",
@@ -1708,7 +1708,7 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
         "watchers": 385,
-        "forks": 8423,
+        "forks": 8424,
         "stars": 51042
     },
     {
@@ -1717,7 +1717,7 @@
         "description": "A next-generation crawling and spidering framework.",
         "watchers": 94,
         "forks": 652,
-        "stars": 12496
+        "stars": 12497
     },
     {
         "path": "projects/scanning/webservices/hero",
@@ -1765,7 +1765,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4202,
         "forks": 34005,
-        "stars": 319557
+        "stars": 319558
     },
     {
         "path": "projects/adversarysim/docs/conti-pentester-guide-leak",
@@ -1780,8 +1780,8 @@
         "url": "https://github.com/louislam/uptime-kuma.git",
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 275,
-        "forks": 5454,
-        "stars": 61014
+        "forks": 5453,
+        "stars": 61017
     },
     {
         "path": "projects/os/macos/secretive",
@@ -1805,7 +1805,7 @@
         "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
         "watchers": 220,
         "forks": 1693,
-        "stars": 11164
+        "stars": 11165
     },
     {
         "path": "projects/scanning/webservices/colly",
@@ -1965,7 +1965,7 @@
         "description": "List of Github repositories and articles with list of dorks for different search engines",
         "watchers": 44,
         "forks": 311,
-        "stars": 2073
+        "stars": 2074
     },
     {
         "path": "projects/adversarysim/pencode",
@@ -2029,15 +2029,15 @@
         "description": "\u267e Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI",
         "watchers": 46,
         "forks": 999,
-        "stars": 15924
+        "stars": 15925
     },
     {
         "path": "projects/recon/suites/maigret",
         "url": "https://github.com/soxoj/maigret.git",
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 93,
-        "forks": 836,
-        "stars": 11461
+        "forks": 837,
+        "stars": 11463
     },
     {
         "path": "projects/recon/images/exifLooter",
