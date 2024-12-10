@@ -365,7 +365,7 @@
         "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
         "watchers": 244,
         "forks": 1776,
-        "stars": 17733
+        "stars": 17734
     },
     {
         "path": "projects/devsec/networking/pwnat",
@@ -437,7 +437,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2497,
         "forks": 9622,
-        "stars": 150837
+        "stars": 150841
     },
     {
         "path": "projects/docs/Infosec_Reference",
@@ -797,7 +797,7 @@
         "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
         "watchers": 577,
         "forks": 3256,
-        "stars": 17661
+        "stars": 17662
     },
     {
         "path": "projects/os/mobile/android/andriller",
@@ -1037,7 +1037,7 @@
         "description": "ExifTool meta information reader/writer",
         "watchers": 59,
         "forks": 328,
-        "stars": 3339
+        "stars": 3340
     },
     {
         "path": "projects/recon/images/unredacter",
@@ -1133,7 +1133,7 @@
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
         "watchers": 134,
         "forks": 1006,
-        "stars": 14866
+        "stars": 14867
     },
     {
         "path": "projects/scanning/ports/masscan",
@@ -1141,7 +1141,7 @@
         "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
         "watchers": 650,
         "forks": 3085,
-        "stars": 23810
+        "stars": 23811
     },
     {
         "path": "projects/scanning/ports/jfscan",
@@ -1189,7 +1189,7 @@
         "description": "Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.",
         "watchers": 312,
         "forks": 896,
-        "stars": 8289
+        "stars": 8290
     },
     {
         "path": "projects/scanning/vulns/flan",
@@ -1229,7 +1229,7 @@
         "description": "Automatic SQL injection and database takeover tool",
         "watchers": 1095,
         "forks": 5744,
-        "stars": 32805
+        "stars": 32807
     },
     {
         "path": "projects/scanning/webservices/ffuf",
@@ -1245,7 +1245,7 @@
         "description": "Web path scanner",
         "watchers": 309,
         "forks": 2320,
-        "stars": 12298
+        "stars": 12299
     },
     {
         "path": "projects/scanning/webservices/CMSeeK",
@@ -1708,8 +1708,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
         "watchers": 385,
-        "forks": 8424,
-        "stars": 51043
+        "forks": 8426,
+        "stars": 51046
     },
     {
         "path": "projects/scanning/webservices/katana",
@@ -1765,7 +1765,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4202,
         "forks": 34005,
-        "stars": 319559
+        "stars": 319562
     },
     {
         "path": "projects/adversarysim/docs/conti-pentester-guide-leak",
@@ -1781,7 +1781,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 275,
         "forks": 5453,
-        "stars": 61018
+        "stars": 61020
     },
     {
         "path": "projects/os/macos/secretive",
@@ -1997,7 +1997,7 @@
         "description": "A tool to quickly identify relevant, publicly-available open source intelligence (\"OSINT\") tools and resources, saving valuable time during investigations, research, and analysis.",
         "watchers": 8,
         "forks": 101,
-        "stars": 627
+        "stars": 628
     },
     {
         "path": "projects/phishing/detect/IOK",
@@ -2013,7 +2013,7 @@
         "description": ":art: Diagram as Code for prototyping cloud system architectures",
         "watchers": 406,
         "forks": 2555,
-        "stars": 39910
+        "stars": 39909
     },
     {
         "path": "projects/platforms/honeypots/honeypots",
@@ -2037,7 +2037,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 93,
         "forks": 837,
-        "stars": 11466
+        "stars": 11468
     },
     {
         "path": "projects/recon/images/exifLooter",
