@@ -1477,7 +1477,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1133,
         "forks": 7009,
-        "stars": 60917
+        "stars": 60918
     },
     {
         "path": "projects/socials/recon/holehe",
@@ -1708,8 +1708,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
         "watchers": 385,
-        "forks": 8429,
-        "stars": 51051
+        "forks": 8430,
+        "stars": 51052
     },
     {
         "path": "projects/scanning/webservices/katana",
@@ -1781,7 +1781,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 275,
         "forks": 5454,
-        "stars": 61020
+        "stars": 61021
     },
     {
         "path": "projects/os/macos/secretive",
@@ -1821,7 +1821,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 90,
         "forks": 1097,
-        "stars": 20294
+        "stars": 20295
     },
     {
         "path": "projects/devsec/tools/notify",
@@ -2029,7 +2029,7 @@
         "description": "\u267e Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI",
         "watchers": 46,
         "forks": 999,
-        "stars": 15926
+        "stars": 15927
     },
     {
         "path": "projects/recon/suites/maigret",
@@ -2037,7 +2037,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 93,
         "forks": 837,
-        "stars": 11472
+        "stars": 11473
     },
     {
         "path": "projects/recon/images/exifLooter",
