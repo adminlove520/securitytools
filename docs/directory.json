@@ -1173,7 +1173,7 @@
         "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
         "watchers": 238,
         "forks": 2530,
-        "stars": 20959
+        "stars": 20960
     },
     {
         "path": "projects/scanning/vulns/nmap-vulners",
@@ -1709,7 +1709,7 @@
         "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
         "watchers": 385,
         "forks": 8424,
-        "stars": 51042
+        "stars": 51043
     },
     {
         "path": "projects/scanning/webservices/katana",
