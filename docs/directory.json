@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 657,
         "forks": 4111,
-        "stars": 63401,
+        "stars": 63402,
         "is_new": false
     },
     {
@@ -410,7 +410,7 @@
         "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
         "watchers": 244,
         "forks": 1777,
-        "stars": 17745,
+        "stars": 17746,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2497,
         "forks": 9624,
-        "stars": 150909,
+        "stars": 150911,
         "is_new": false
     },
     {
@@ -1904,7 +1904,7 @@
         "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
         "watchers": 257,
         "forks": 995,
-        "stars": 10496,
+        "stars": 10498,
         "is_new": false
     },
     {
@@ -1922,7 +1922,7 @@
         "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
         "watchers": 385,
         "forks": 8459,
-        "stars": 51142,
+        "stars": 51145,
         "is_new": false
     },
     {
@@ -1931,7 +1931,7 @@
         "description": "A next-generation crawling and spidering framework.",
         "watchers": 94,
         "forks": 653,
-        "stars": 12514,
+        "stars": 12516,
         "is_new": false
     },
     {
@@ -1984,8 +1984,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4202,
-        "forks": 34015,
-        "stars": 319616,
+        "forks": 34016,
+        "stars": 319619,
         "is_new": false
     },
     {
@@ -2030,7 +2030,7 @@
         "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
         "watchers": 220,
         "forks": 1693,
-        "stars": 11173,
+        "stars": 11174,
         "is_new": false
     },
     {
@@ -2282,7 +2282,7 @@
         "description": "\u267e Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI",
         "watchers": 46,
         "forks": 1003,
-        "stars": 15940,
+        "stars": 15941,
         "is_new": false
     },
     {
@@ -2291,7 +2291,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 93,
         "forks": 855,
-        "stars": 11817,
+        "stars": 11824,
         "is_new": false
     },
     {
