@@ -782,3 +782,7 @@
 [submodule "projects/scanning/vulns/nuclei-templates"]
     path = projects/scanning/vulns/nuclei-templates
     url = https://github.com/20142995/nuclei-templates
+
+[submodule "projects/scanning/vulns/nuclei-templates"]
+    path = projects/scanning/vulns/nuclei-templates
+    url = https://github.com/20142995/nuclei-templates
