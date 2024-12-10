@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2497,
         "forks": 9623,
-        "stars": 150844,
+        "stars": 150845,
         "is_new": false
     },
     {
@@ -797,7 +797,7 @@
         "description": "Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication. ",
         "watchers": 144,
         "forks": 1690,
-        "stars": 5516,
+        "stars": 5517,
         "is_new": false
     },
     {
@@ -1445,7 +1445,7 @@
         "description": "\ud83d\udd0d A collection of interesting, funny, and depressing search queries to plug into shodan.io \ud83d\udc69\u200d\ud83d\udcbb",
         "watchers": 184,
         "forks": 889,
-        "stars": 5933,
+        "stars": 5934,
         "is_new": false
     },
     {
@@ -1921,8 +1921,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
         "watchers": 385,
-        "forks": 8431,
-        "stars": 51054,
+        "forks": 8432,
+        "stars": 51055,
         "is_new": false
     },
     {
@@ -2003,7 +2003,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 275,
         "forks": 5455,
-        "stars": 61024,
+        "stars": 61025,
         "is_new": false
     },
     {
@@ -2048,7 +2048,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 90,
         "forks": 1099,
-        "stars": 20297,
+        "stars": 20298,
         "is_new": false
     },
     {
