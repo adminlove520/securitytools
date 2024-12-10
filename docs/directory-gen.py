@@ -7,7 +7,9 @@ import json
 import logging
 import subprocess
 import requests
+
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
 if os.path.basename(os.getcwd()) != 'securitytools':
     logging.critical('must run from the securitytools repo!')
     sys.exit(1)
@@ -15,22 +17,27 @@ else:
     if not os.path.isfile('.gitmodules'):
         logging.critical('no .gitmodules file found!')
         sys.exit(1)
+
 try:
     github_headers = {'Authorization': 'token ' + os.environ['GITHUB_TOKEN']}
 except KeyError:
     logging.critical('GITHUB_TOKEN not set!')
     sys.exit(1)
+
 gmodules = []
+
 with open('.gitmodules', 'r') as f:
     lines = f.readlines()
-    f.close()
+
 total_projects = int(len(lines) / 3)
 counter_projects = 1
+
 for i in range(len(lines)):
     if lines[i].startswith('[submodule'):
         gmodules.append({'path': lines[i].split('"')[1]})
     if lines[i].startswith('\turl'):
         gmodules[-1]['url'] = lines[i].split(' = ')[1].strip()
+
 for i in gmodules:
     project = i['path'].replace('projects/', '')
     logging.info('processing project {}/{}: {}'.format(counter_projects, total_projects, project))
@@ -50,8 +57,12 @@ for i in gmodules:
     i['watchers'] = project_info['subscribers_count']
     i['forks'] = project_info['network_count']
     i['stars'] = project_info['stargazers_count']
+
+    # 检查子模块目录下是否存在 .new 文件来判断是否是新增的
+    new_file_path = os.path.join(i['path'], '.new')
+    i['is_new'] = os.path.exists(new_file_path)
+
     counter_projects += 1
 
 with open('docs/directory.json', 'w') as f:
     f.write(json.dumps(gmodules, indent=4))
-    f.close()

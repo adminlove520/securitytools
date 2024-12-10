@@ -35,8 +35,11 @@ jobs:
           ISSUE_TITLE: ${{ github.event.issue.title }}
           REPO_OWNER: adminlove520
           REPO_NAME: securitytools
+          LOCATION: ${{ steps.parse_issue.outputs.location }}
+          PROJECT_LINK: ${{ steps.parse_issue.outputs.project_link }}
         run: |
           python .github/scripts/update_gitmodules.py
+          git submodule add ${{ env.PROJECT_LINK }} ${{ env.LOCATION }}
         if: github.event_name == 'issues'
 
       - name: Cleanup 404 repositories
