@@ -230,7 +230,7 @@
         "description": "This publication is a collection of various common attack scenarios on Microsoft Entra ID (formerly known as Azure Active Directory) and how they can be mitigated or detected.",
         "watchers": 80,
         "forks": 319,
-        "stars": 2179,
+        "stars": 2180,
         "is_new": false
     },
     {
@@ -401,7 +401,7 @@
         "description": "dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",
         "watchers": 318,
         "forks": 1017,
-        "stars": 11534,
+        "stars": 11535,
         "is_new": false
     },
     {
@@ -1922,7 +1922,7 @@
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 386,
         "forks": 8564,
-        "stars": 51415,
+        "stars": 51417,
         "is_new": false
     },
     {
@@ -1931,7 +1931,7 @@
         "description": "A next-generation crawling and spidering framework.",
         "watchers": 94,
         "forks": 657,
-        "stars": 12607,
+        "stars": 12608,
         "is_new": false
     },
     {
@@ -1985,7 +1985,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4202,
         "forks": 34028,
-        "stars": 319793,
+        "stars": 319795,
         "is_new": false
     },
     {
@@ -2291,7 +2291,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 99,
         "forks": 907,
-        "stars": 13125,
+        "stars": 13129,
         "is_new": false
     },
     {
