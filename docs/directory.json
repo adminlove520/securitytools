@@ -383,7 +383,7 @@
         "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
         "watchers": 241,
         "forks": 986,
-        "stars": 14702,
+        "stars": 14703,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2497,
         "forks": 9645,
-        "stars": 151413,
+        "stars": 151414,
         "is_new": false
     },
     {
@@ -842,7 +842,7 @@
         "description": "WiFi security auditing tools suite",
         "watchers": 236,
         "forks": 963,
-        "stars": 5585,
+        "stars": 5586,
         "is_new": false
     },
     {
@@ -1139,7 +1139,7 @@
         "description": "Collections of tools and methods created to aid in OSINT collection",
         "watchers": 115,
         "forks": 413,
-        "stars": 2866,
+        "stars": 2867,
         "is_new": false
     },
     {
@@ -1193,7 +1193,7 @@
         "description": "A query aggregator for OSINT based threat hunting",
         "watchers": 22,
         "forks": 101,
-        "stars": 869,
+        "stars": 870,
         "is_new": false
     },
     {
@@ -1553,7 +1553,7 @@
         "description": "Main Sigma Rule Repository",
         "watchers": 346,
         "forks": 2223,
-        "stars": 8489,
+        "stars": 8490,
         "is_new": false
     },
     {
@@ -1580,7 +1580,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Offensive Google framework.",
         "watchers": 523,
         "forks": 1322,
-        "stars": 15879,
+        "stars": 15877,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1134,
         "forks": 7016,
-        "stars": 61082,
+        "stars": 61079,
         "is_new": false
     },
     {
@@ -1904,7 +1904,7 @@
         "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
         "watchers": 256,
         "forks": 1000,
-        "stars": 10535,
+        "stars": 10536,
         "is_new": false
     },
     {
@@ -1921,7 +1921,7 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 387,
-        "forks": 8670,
+        "forks": 8671,
         "stars": 51631,
         "is_new": false
     },
@@ -1958,7 +1958,7 @@
         "description": "Rapidly Search and Hunt through Windows Forensic Artefacts",
         "watchers": 52,
         "forks": 268,
-        "stars": 2920,
+        "stars": 2921,
         "is_new": false
     },
     {
@@ -1985,7 +1985,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4200,
         "forks": 34043,
-        "stars": 320054,
+        "stars": 320055,
         "is_new": false
     },
     {
@@ -2048,7 +2048,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 90,
         "forks": 1121,
-        "stars": 20534,
+        "stars": 20531,
         "is_new": false
     },
     {
@@ -2264,7 +2264,7 @@
         "description": ":art: Diagram as Code for prototyping cloud system architectures",
         "watchers": 406,
         "forks": 2553,
-        "stars": 39949,
+        "stars": 39948,
         "is_new": false
     },
     {
@@ -2291,7 +2291,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 98,
         "forks": 918,
-        "stars": 13350,
+        "stars": 13352,
         "is_new": false
     },
     {
