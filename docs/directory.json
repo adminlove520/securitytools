@@ -122,7 +122,7 @@
         "description": "Find exposed data in Azure with this public blob scanner",
         "watchers": 25,
         "forks": 53,
-        "stars": 319,
+        "stars": 320,
         "is_new": false
     },
     {
@@ -473,7 +473,7 @@
         "description": "The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!",
         "watchers": 90,
         "forks": 647,
-        "stars": 4082,
+        "stars": 4081,
         "is_new": false
     },
     {
@@ -490,8 +490,8 @@
         "url": "https://github.com/trimstray/the-book-of-secret-knowledge.git",
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2500,
-        "forks": 9653,
-        "stars": 151578,
+        "forks": 9654,
+        "stars": 151579,
         "is_new": false
     },
     {
@@ -527,7 +527,7 @@
         "description": "One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password \ud83d\udee1\ufe0f",
         "watchers": 89,
         "forks": 706,
-        "stars": 5786,
+        "stars": 5785,
         "is_new": false
     },
     {
@@ -1364,7 +1364,7 @@
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "watchers": 171,
         "forks": 2358,
-        "stars": 24055,
+        "stars": 24056,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1134,
         "forks": 7024,
-        "stars": 61111,
+        "stars": 61113,
         "is_new": false
     },
     {
@@ -1823,7 +1823,7 @@
         "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
         "watchers": 148,
         "forks": 512,
-        "stars": 17658,
+        "stars": 17657,
         "is_new": false
     },
     {
@@ -1922,7 +1922,7 @@
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 388,
         "forks": 8752,
-        "stars": 51766,
+        "stars": 51767,
         "is_new": false
     },
     {
@@ -1985,7 +1985,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4201,
         "forks": 34061,
-        "stars": 320202,
+        "stars": 320204,
         "is_new": false
     },
     {
@@ -2291,7 +2291,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 98,
         "forks": 922,
-        "stars": 13565,
+        "stars": 13567,
         "is_new": false
     },
     {
