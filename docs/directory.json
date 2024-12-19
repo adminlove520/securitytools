@@ -5,7 +5,7 @@
         "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
         "watchers": 352,
         "forks": 2837,
-        "stars": 9972,
+        "stars": 9974,
         "is_new": false
     },
     {
@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 661,
         "forks": 4116,
-        "stars": 63558,
+        "stars": 63559,
         "is_new": false
     },
     {
@@ -392,7 +392,7 @@
         "description": "An incredibly fast proxy checker & IP rotator with ease.",
         "watchers": 37,
         "forks": 196,
-        "stars": 1655,
+        "stars": 1656,
         "is_new": false
     },
     {
@@ -401,7 +401,7 @@
         "description": "dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",
         "watchers": 318,
         "forks": 1017,
-        "stars": 11556,
+        "stars": 11557,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2501,
         "forks": 9657,
-        "stars": 151670,
+        "stars": 151671,
         "is_new": false
     },
     {
@@ -707,7 +707,7 @@
         "description": "A curated list of awesome reversing resources",
         "watchers": 195,
         "forks": 573,
-        "stars": 4107,
+        "stars": 4108,
         "is_new": false
     },
     {
@@ -788,7 +788,7 @@
         "description": "Snort++",
         "watchers": 127,
         "forks": 569,
-        "stars": 2632,
+        "stars": 2631,
         "is_new": false
     },
     {
@@ -1067,7 +1067,7 @@
         "description": "Passive hostname, domain and IP lookup tool for non-robots",
         "watchers": 18,
         "forks": 48,
-        "stars": 889,
+        "stars": 890,
         "is_new": false
     },
     {
@@ -1184,7 +1184,7 @@
         "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
         "watchers": 368,
         "forks": 2308,
-        "stars": 13377,
+        "stars": 13378,
         "is_new": false
     },
     {
@@ -1318,7 +1318,7 @@
         "url": "https://github.com/projectdiscovery/nuclei.git",
         "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
         "watchers": 238,
-        "forks": 2540,
+        "forks": 2541,
         "stars": 21074,
         "is_new": false
     },
@@ -1382,7 +1382,7 @@
         "description": "Automatic SQL injection and database takeover tool",
         "watchers": 1096,
         "forks": 5748,
-        "stars": 32880,
+        "stars": 32881,
         "is_new": false
     },
     {
@@ -1390,7 +1390,7 @@
         "url": "https://github.com/ffuf/ffuf.git",
         "description": "Fast web fuzzer written in Go",
         "watchers": 159,
-        "forks": 1313,
+        "forks": 1314,
         "stars": 12891,
         "is_new": false
     },
@@ -1922,7 +1922,7 @@
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 388,
         "forks": 8790,
-        "stars": 51826,
+        "stars": 51827,
         "is_new": false
     },
     {
@@ -1931,7 +1931,7 @@
         "description": "A next-generation crawling and spidering framework.",
         "watchers": 93,
         "forks": 658,
-        "stars": 12689,
+        "stars": 12690,
         "is_new": false
     },
     {
@@ -2003,7 +2003,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 280,
         "forks": 5484,
-        "stars": 61478,
+        "stars": 61479,
         "is_new": false
     },
     {
@@ -2048,7 +2048,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 91,
         "forks": 1127,
-        "stars": 20628,
+        "stars": 20629,
         "is_new": false
     },
     {
@@ -2084,7 +2084,7 @@
         "description": "An Ansible Role for Tor Relay Operators",
         "watchers": 17,
         "forks": 43,
-        "stars": 249,
+        "stars": 250,
         "is_new": false
     },
     {
@@ -2138,7 +2138,7 @@
         "description": "the transparent ransomware claim tracker \ud83e\udd77\ud83c\udffc\ud83e\uddc5\ud83d\udda5\ufe0f",
         "watchers": 49,
         "forks": 144,
-        "stars": 946,
+        "stars": 947,
         "is_new": false
     },
     {
