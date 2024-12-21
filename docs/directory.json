@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 661,
         "forks": 4116,
-        "stars": 63591,
+        "stars": 63594,
         "is_new": false
     },
     {
@@ -383,7 +383,7 @@
         "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
         "watchers": 241,
         "forks": 989,
-        "stars": 14724,
+        "stars": 14725,
         "is_new": false
     },
     {
@@ -788,7 +788,7 @@
         "description": "Snort++",
         "watchers": 127,
         "forks": 569,
-        "stars": 2634,
+        "stars": 2635,
         "is_new": false
     },
     {
@@ -896,7 +896,7 @@
         "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
         "watchers": 578,
         "forks": 3259,
-        "stars": 17750,
+        "stars": 17751,
         "is_new": false
     },
     {
@@ -1094,7 +1094,7 @@
         "description": "DNS Enumeration Script",
         "watchers": 94,
         "forks": 545,
-        "stars": 2676,
+        "stars": 2677,
         "is_new": false
     },
     {
@@ -1184,7 +1184,7 @@
         "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
         "watchers": 368,
         "forks": 2311,
-        "stars": 13385,
+        "stars": 13386,
         "is_new": false
     },
     {
@@ -1616,7 +1616,7 @@
         "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
         "watchers": 201,
         "forks": 2203,
-        "stars": 9931,
+        "stars": 9932,
         "is_new": false
     },
     {
@@ -1643,7 +1643,7 @@
         "description": "Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email",
         "watchers": 123,
         "forks": 522,
-        "stars": 4238,
+        "stars": 4239,
         "is_new": false
     },
     {
@@ -1660,7 +1660,7 @@
         "url": "https://github.com/sherlock-project/sherlock.git",
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1135,
-        "forks": 7031,
+        "forks": 7032,
         "stars": 61158,
         "is_new": false
     },
@@ -1922,7 +1922,7 @@
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 391,
         "forks": 8851,
-        "stars": 51942,
+        "stars": 51944,
         "is_new": false
     },
     {
