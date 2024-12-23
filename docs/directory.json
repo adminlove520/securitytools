@@ -284,7 +284,7 @@
         "description": "This repository contains a collection of cheatsheets I have put together for tools related to pentesting organizations that leverage cloud providers.",
         "watchers": 102,
         "forks": 517,
-        "stars": 2592,
+        "stars": 2593,
         "is_new": false
     },
     {
@@ -329,7 +329,7 @@
         "description": "Wiki to collect Red Team infrastructure hardening resources",
         "watchers": 211,
         "forks": 906,
-        "stars": 4176,
+        "stars": 4177,
         "is_new": false
     },
     {
@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 661,
         "forks": 4115,
-        "stars": 63629,
+        "stars": 63630,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2503,
         "forks": 9676,
-        "stars": 152001,
+        "stars": 152003,
         "is_new": false
     },
     {
@@ -725,7 +725,7 @@
         "description": "UNIX-like reverse engineering framework and command-line toolset",
         "watchers": 487,
         "forks": 3024,
-        "stars": 20902,
+        "stars": 20903,
         "is_new": false
     },
     {
@@ -1283,7 +1283,7 @@
         "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
         "watchers": 650,
         "forks": 3094,
-        "stars": 23862,
+        "stars": 23863,
         "is_new": false
     },
     {
@@ -1381,7 +1381,7 @@
         "url": "https://github.com/sqlmapproject/sqlmap.git",
         "description": "Automatic SQL injection and database takeover tool",
         "watchers": 1097,
-        "forks": 5750,
+        "forks": 5751,
         "stars": 32912,
         "is_new": false
     },
@@ -1984,8 +1984,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4207,
-        "forks": 34102,
-        "stars": 320579,
+        "forks": 34101,
+        "stars": 320582,
         "is_new": false
     },
     {
@@ -2039,7 +2039,7 @@
         "description": "Elegant Scraper and Crawler Framework for Golang",
         "watchers": 334,
         "forks": 1775,
-        "stars": 23477,
+        "stars": 23478,
         "is_new": false
     },
     {
