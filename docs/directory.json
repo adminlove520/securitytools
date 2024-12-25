@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2503,
         "forks": 9680,
-        "stars": 152172,
+        "stars": 152175,
         "is_new": false
     },
     {
@@ -1274,7 +1274,7 @@
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
         "watchers": 135,
         "forks": 1017,
-        "stars": 14944,
+        "stars": 14946,
         "is_new": false
     },
     {
@@ -1391,7 +1391,7 @@
         "description": "Fast web fuzzer written in Go",
         "watchers": 159,
         "forks": 1318,
-        "stars": 12920,
+        "stars": 12921,
         "is_new": false
     },
     {
@@ -1445,7 +1445,7 @@
         "description": "\ud83d\udd0d A collection of interesting, funny, and depressing search queries to plug into shodan.io \ud83d\udc69\u200d\ud83d\udcbb",
         "watchers": 186,
         "forks": 892,
-        "stars": 5969,
+        "stars": 5970,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1137,
         "forks": 7045,
-        "stars": 61265,
+        "stars": 61268,
         "is_new": false
     },
     {
@@ -1822,7 +1822,7 @@
         "url": "https://github.com/FiloSottile/age.git",
         "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
         "watchers": 149,
-        "forks": 514,
+        "forks": 515,
         "stars": 17714,
         "is_new": false
     },
@@ -1922,7 +1922,7 @@
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 393,
         "forks": 9013,
-        "stars": 52508,
+        "stars": 52511,
         "is_new": false
     },
     {
