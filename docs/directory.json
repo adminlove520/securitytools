@@ -14,7 +14,7 @@
         "description": "Automated Adversary Emulation Platform",
         "watchers": 171,
         "forks": 1096,
-        "stars": 5755,
+        "stars": 5756,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2503,
         "forks": 9686,
-        "stars": 152370,
+        "stars": 152375,
         "is_new": false
     },
     {
@@ -797,7 +797,7 @@
         "description": "Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication. ",
         "watchers": 144,
         "forks": 1695,
-        "stars": 5547,
+        "stars": 5548,
         "is_new": false
     },
     {
@@ -932,7 +932,7 @@
         "description": "The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).",
         "watchers": 424,
         "forks": 2354,
-        "stars": 11842,
+        "stars": 11843,
         "is_new": false
     },
     {
@@ -1921,8 +1921,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 396,
-        "forks": 9119,
-        "stars": 52939,
+        "forks": 9120,
+        "stars": 52942,
         "is_new": false
     },
     {
@@ -1985,7 +1985,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4212,
         "forks": 34123,
-        "stars": 320849,
+        "stars": 320852,
         "is_new": false
     },
     {
@@ -2282,7 +2282,7 @@
         "description": "\u267e Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI",
         "watchers": 46,
         "forks": 1033,
-        "stars": 16074,
+        "stars": 16076,
         "is_new": false
     },
     {
