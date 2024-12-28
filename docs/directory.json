@@ -14,7 +14,7 @@
         "description": "Automated Adversary Emulation Platform",
         "watchers": 171,
         "forks": 1096,
-        "stars": 5756,
+        "stars": 5757,
         "is_new": false
     },
     {
@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 662,
         "forks": 4123,
-        "stars": 63710,
+        "stars": 63711,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2507,
         "forks": 9710,
-        "stars": 152669,
+        "stars": 152672,
         "is_new": false
     },
     {
@@ -671,7 +671,7 @@
         "description": "MISP (core software) - Open Source Threat Intelligence and Sharing Platform",
         "watchers": 281,
         "forks": 1416,
-        "stars": 5453,
+        "stars": 5454,
         "is_new": false
     },
     {
@@ -689,7 +689,7 @@
         "description": "Malwoverview is a first response tool used for threat hunting and offers intel information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, Malware Bazaar, ThreatFox, Triage, InQuest, VxExchange and IPInfo, and it is also able to scan Android devices against VT.",
         "watchers": 119,
         "forks": 454,
-        "stars": 3042,
+        "stars": 3043,
         "is_new": false
     },
     {
@@ -941,7 +941,7 @@
         "description": "iOS Logs, Events, And Plist Parser",
         "watchers": 28,
         "forks": 163,
-        "stars": 778,
+        "stars": 779,
         "is_new": false
     },
     {
@@ -1283,7 +1283,7 @@
         "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
         "watchers": 650,
         "forks": 3094,
-        "stars": 23881,
+        "stars": 23882,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1138,
         "forks": 7061,
-        "stars": 61420,
+        "stars": 61421,
         "is_new": false
     },
     {
@@ -1733,7 +1733,7 @@
         "description": "A collection of several hundred online tools for OSINT",
         "watchers": 143,
         "forks": 660,
-        "stars": 5646,
+        "stars": 5647,
         "is_new": false
     },
     {
@@ -1895,7 +1895,7 @@
         "description": "Open-source offline translation library written in Python",
         "watchers": 54,
         "forks": 292,
-        "stars": 4007,
+        "stars": 4008,
         "is_new": false
     },
     {
@@ -1921,8 +1921,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 398,
-        "forks": 9159,
-        "stars": 53076,
+        "forks": 9160,
+        "stars": 53077,
         "is_new": false
     },
     {
@@ -1931,7 +1931,7 @@
         "description": "A next-generation crawling and spidering framework.",
         "watchers": 93,
         "forks": 661,
-        "stars": 12745,
+        "stars": 12746,
         "is_new": false
     },
     {
@@ -1985,7 +1985,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4215,
         "forks": 34155,
-        "stars": 321159,
+        "stars": 321164,
         "is_new": false
     },
     {
@@ -2039,7 +2039,7 @@
         "description": "Elegant Scraper and Crawler Framework for Golang",
         "watchers": 334,
         "forks": 1775,
-        "stars": 23504,
+        "stars": 23505,
         "is_new": false
     },
     {
