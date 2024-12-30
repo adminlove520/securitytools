@@ -842,7 +842,7 @@
         "description": "WiFi security auditing tools suite",
         "watchers": 237,
         "forks": 967,
-        "stars": 5632,
+        "stars": 5633,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 665,
         "forks": 2870,
-        "stars": 19589,
+        "stars": 19590,
         "is_new": false
     },
     {
@@ -1220,7 +1220,7 @@
         "description": "AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.",
         "watchers": 102,
         "forks": 889,
-        "stars": 5225,
+        "stars": 5226,
         "is_new": false
     },
     {
@@ -1382,7 +1382,7 @@
         "description": "Automatic SQL injection and database takeover tool",
         "watchers": 1099,
         "forks": 5763,
-        "stars": 32964,
+        "stars": 32965,
         "is_new": false
     },
     {
@@ -1562,7 +1562,7 @@
         "description": "A curated list of awesome social engineering resources.",
         "watchers": 109,
         "forks": 389,
-        "stars": 2774,
+        "stars": 2775,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1139,
         "forks": 7062,
-        "stars": 61454,
+        "stars": 61456,
         "is_new": false
     },
     {
@@ -1922,7 +1922,7 @@
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 400,
         "forks": 9266,
-        "stars": 53307,
+        "stars": 53308,
         "is_new": false
     },
     {
@@ -1985,7 +1985,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4222,
         "forks": 34205,
-        "stars": 321998,
+        "stars": 322003,
         "is_new": false
     },
     {
@@ -2003,7 +2003,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 280,
         "forks": 5508,
-        "stars": 61866,
+        "stars": 61867,
         "is_new": false
     },
     {
@@ -2030,7 +2030,7 @@
         "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
         "watchers": 221,
         "forks": 1700,
-        "stars": 11336,
+        "stars": 11337,
         "is_new": false
     },
     {
@@ -2290,8 +2290,8 @@
         "url": "https://github.com/soxoj/maigret.git",
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 98,
-        "forks": 936,
-        "stars": 13741,
+        "forks": 937,
+        "stars": 13742,
         "is_new": false
     },
     {
