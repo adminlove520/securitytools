@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 664,
         "forks": 4127,
-        "stars": 63832,
+        "stars": 63833,
         "is_new": false
     },
     {
@@ -401,7 +401,7 @@
         "description": "dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",
         "watchers": 318,
         "forks": 1018,
-        "stars": 11599,
+        "stars": 11600,
         "is_new": false
     },
     {
@@ -410,7 +410,7 @@
         "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
         "watchers": 243,
         "forks": 1784,
-        "stars": 17832,
+        "stars": 17833,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2514,
         "forks": 9771,
-        "stars": 153698,
+        "stars": 153696,
         "is_new": false
     },
     {
@@ -571,7 +571,7 @@
         "url": "https://github.com/sleuthkit/sleuthkit.git",
         "description": "The Sleuth Kit\u00ae (TSK) is a library and collection of command line digital forensics tools that allow you to investigate volume and file system data. The library can be incorporated into larger digital forensics tools and the command line tools can be directly used to find evidence. ",
         "watchers": 183,
-        "forks": 616,
+        "forks": 617,
         "stars": 2664,
         "is_new": false
     },
@@ -770,7 +770,7 @@
         "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
         "watchers": 412,
         "forks": 1488,
-        "stars": 16988,
+        "stars": 16989,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 669,
         "forks": 2877,
-        "stars": 19625,
+        "stars": 19628,
         "is_new": false
     },
     {
@@ -1382,7 +1382,7 @@
         "description": "Automatic SQL injection and database takeover tool",
         "watchers": 1099,
         "forks": 5762,
-        "stars": 32978,
+        "stars": 32979,
         "is_new": false
     },
     {
@@ -1409,7 +1409,7 @@
         "description": "CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 180 other CMSs",
         "watchers": 75,
         "forks": 499,
-        "stars": 2345,
+        "stars": 2346,
         "is_new": false
     },
     {
@@ -1895,7 +1895,7 @@
         "description": "Open-source offline translation library written in Python",
         "watchers": 54,
         "forks": 294,
-        "stars": 4017,
+        "stars": 4018,
         "is_new": false
     },
     {
@@ -1922,7 +1922,7 @@
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 406,
         "forks": 9376,
-        "stars": 53604,
+        "stars": 53607,
         "is_new": false
     },
     {
@@ -1985,7 +1985,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4225,
         "forks": 34254,
-        "stars": 322760,
+        "stars": 322763,
         "is_new": false
     },
     {
@@ -2039,7 +2039,7 @@
         "description": "Elegant Scraper and Crawler Framework for Golang",
         "watchers": 334,
         "forks": 1774,
-        "stars": 23518,
+        "stars": 23519,
         "is_new": false
     },
     {
@@ -2281,8 +2281,8 @@
         "url": "https://github.com/Infisical/infisical.git",
         "description": "\u267e Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI",
         "watchers": 46,
-        "forks": 1043,
-        "stars": 16130,
+        "forks": 1042,
+        "stars": 16131,
         "is_new": false
     },
     {
@@ -2291,7 +2291,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 98,
         "forks": 940,
-        "stars": 13766,
+        "stars": 13767,
         "is_new": false
     },
     {
