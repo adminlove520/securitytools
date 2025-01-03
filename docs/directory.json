@@ -13,7 +13,7 @@
         "url": "https://github.com/mitre/caldera.git",
         "description": "Automated Adversary Emulation Platform",
         "watchers": 171,
-        "forks": 1098,
+        "forks": 1097,
         "stars": 5766,
         "is_new": false
     },
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2514,
         "forks": 9783,
-        "stars": 153794,
+        "stars": 153796,
         "is_new": false
     },
     {
@@ -725,7 +725,7 @@
         "description": "UNIX-like reverse engineering framework and command-line toolset",
         "watchers": 488,
         "forks": 3023,
-        "stars": 20950,
+        "stars": 20951,
         "is_new": false
     },
     {
@@ -770,7 +770,7 @@
         "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
         "watchers": 413,
         "forks": 1490,
-        "stars": 16994,
+        "stars": 16995,
         "is_new": false
     },
     {
@@ -1112,7 +1112,7 @@
         "description": "Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.",
         "watchers": 111,
         "forks": 659,
-        "stars": 4251,
+        "stars": 4252,
         "is_new": false
     },
     {
@@ -1670,7 +1670,7 @@
         "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
         "watchers": 121,
         "forks": 886,
-        "stars": 7839,
+        "stars": 7840,
         "is_new": false
     },
     {
@@ -1922,7 +1922,7 @@
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 407,
         "forks": 9421,
-        "stars": 53697,
+        "stars": 53699,
         "is_new": false
     },
     {
@@ -1967,7 +1967,7 @@
         "description": "Linux/OSX/FreeBSD resource monitor",
         "watchers": 156,
         "forks": 401,
-        "stars": 10322,
+        "stars": 10323,
         "is_new": false
     },
     {
@@ -1985,7 +1985,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4225,
         "forks": 34260,
-        "stars": 322894,
+        "stars": 322898,
         "is_new": false
     },
     {
@@ -2003,7 +2003,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 282,
         "forks": 5531,
-        "stars": 62009,
+        "stars": 62011,
         "is_new": false
     },
     {
@@ -2038,15 +2038,15 @@
         "url": "https://github.com/gocolly/colly",
         "description": "Elegant Scraper and Crawler Framework for Golang",
         "watchers": 334,
-        "forks": 1774,
-        "stars": 23527,
+        "forks": 1775,
+        "stars": 23528,
         "is_new": false
     },
     {
         "path": "projects/recon/platforms/changedetection.io",
         "url": "https://github.com/dgtlmoon/changedetection.io",
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
-        "watchers": 90,
+        "watchers": 89,
         "forks": 1140,
         "stars": 20860,
         "is_new": false
