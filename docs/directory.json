@@ -374,7 +374,7 @@
         "description": "Various Dockerfiles I use on the desktop and on servers.",
         "watchers": 428,
         "forks": 2554,
-        "stars": 13743,
+        "stars": 13744,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2517,
         "forks": 9798,
-        "stars": 154045,
+        "stars": 154049,
         "is_new": false
     },
     {
@@ -1328,7 +1328,7 @@
         "description": "NSE script based on Vulners.com API",
         "watchers": 134,
         "forks": 548,
-        "stars": 3248,
+        "stars": 3249,
         "is_new": false
     },
     {
@@ -1985,7 +1985,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4228,
         "forks": 34283,
-        "stars": 323185,
+        "stars": 323188,
         "is_new": false
     },
     {
@@ -2003,7 +2003,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 283,
         "forks": 5545,
-        "stars": 62115,
+        "stars": 62117,
         "is_new": false
     },
     {
@@ -2030,7 +2030,7 @@
         "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
         "watchers": 221,
         "forks": 1705,
-        "stars": 11384,
+        "stars": 11385,
         "is_new": false
     },
     {
@@ -2048,7 +2048,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 89,
         "forks": 1143,
-        "stars": 20910,
+        "stars": 20911,
         "is_new": false
     },
     {
@@ -2353,7 +2353,7 @@
         "url": "https://github.com/adysec/nuclei_poc.git",
         "description": "Nuclei POC\uff0c\u6bcf\u65e5\u66f4\u65b0 | \u81ea\u52a8\u6574\u5408\u5168\u7f51Nuclei\u7684\u6f0f\u6d1ePOC\uff0c\u5b9e\u65f6\u540c\u6b65\u66f4\u65b0\u6700\u65b0POC\uff0c\u4fdd\u5b58\u5df2\u88ab\u5220\u9664\u7684POC\u3002\u901a\u8fc7\u6279\u91cf\u514b\u9686Github\u9879\u76ee\uff0c\u83b7\u53d6Nuclei POC\uff0c\u5e76\u5c06POC\u6309\u7c7b\u522b\u5206\u7c7b\u5b58\u653e\uff0c\u4f7f\u7528Github Action\u5b9e\u73b0\uff08\u5df2\u670914wPOC\uff0c\u5df2\u6821\u9a8c\u6709\u6548\u6027\u5e76\u53bb\u91cd\uff09",
         "watchers": 187,
-        "forks": 286,
+        "forks": 287,
         "stars": 863,
         "is_new": false
     },
