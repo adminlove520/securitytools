@@ -59,7 +59,7 @@
         "description": "FestIn - Open S3 Bucket Scanner",
         "watchers": 10,
         "forks": 33,
-        "stars": 231,
+        "stars": 230,
         "is_new": false
     },
     {
@@ -302,7 +302,7 @@
         "description": "An authoritative list of awesome devsecops tools with the help from community experiments and contributions.",
         "watchers": 249,
         "forks": 976,
-        "stars": 4696,
+        "stars": 4697,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2520,
         "forks": 9884,
-        "stars": 155051,
+        "stars": 155052,
         "is_new": false
     },
     {
@@ -527,7 +527,7 @@
         "description": "One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password \ud83d\udee1\ufe0f",
         "watchers": 89,
         "forks": 708,
-        "stars": 5831,
+        "stars": 5830,
         "is_new": false
     },
     {
@@ -707,7 +707,7 @@
         "description": "A curated list of awesome reversing resources",
         "watchers": 195,
         "forks": 575,
-        "stars": 4139,
+        "stars": 4140,
         "is_new": false
     },
     {
@@ -823,7 +823,7 @@
         "url": "https://github.com/nabla-c0d3/ssl-kill-switch2.git",
         "description": "Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications.",
         "watchers": 116,
-        "forks": 466,
+        "forks": 467,
         "stars": 3095,
         "is_new": false
     },
@@ -1463,7 +1463,7 @@
         "description": "Find leaked secrets via github search",
         "watchers": 92,
         "forks": 590,
-        "stars": 2862,
+        "stars": 2861,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1138,
         "forks": 7097,
-        "stars": 61744,
+        "stars": 61745,
         "is_new": false
     },
     {
@@ -1922,7 +1922,7 @@
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 411,
         "forks": 9967,
-        "stars": 54904,
+        "stars": 54905,
         "is_new": false
     },
     {
@@ -1931,7 +1931,7 @@
         "description": "A next-generation crawling and spidering framework.",
         "watchers": 92,
         "forks": 668,
-        "stars": 12862,
+        "stars": 12863,
         "is_new": false
     },
     {
@@ -1958,7 +1958,7 @@
         "description": "Rapidly Search and Hunt through Windows Forensic Artefacts",
         "watchers": 54,
         "forks": 269,
-        "stars": 2982,
+        "stars": 2983,
         "is_new": false
     },
     {
@@ -1985,7 +1985,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4229,
         "forks": 34399,
-        "stars": 324108,
+        "stars": 324110,
         "is_new": false
     },
     {
@@ -2003,7 +2003,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 282,
         "forks": 5573,
-        "stars": 62558,
+        "stars": 62560,
         "is_new": false
     },
     {
@@ -2048,7 +2048,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 92,
         "forks": 1151,
-        "stars": 21127,
+        "stars": 21128,
         "is_new": false
     },
     {
@@ -2282,7 +2282,7 @@
         "description": "\u267e Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI",
         "watchers": 46,
         "forks": 1057,
-        "stars": 16229,
+        "stars": 16230,
         "is_new": false
     },
     {
@@ -2300,7 +2300,7 @@
         "description": "ExifLooter finds geolocation on all image urls and directories also integrates with OpenStreetMap",
         "watchers": 9,
         "forks": 25,
-        "stars": 433,
+        "stars": 432,
         "is_new": false
     },
     {
@@ -2336,7 +2336,7 @@
         "description": "Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.",
         "watchers": 108,
         "forks": 1073,
-        "stars": 5227,
+        "stars": 5226,
         "is_new": false
     },
     {
