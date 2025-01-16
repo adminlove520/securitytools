@@ -489,7 +489,7 @@
         "path": "projects/docs/the-book-of-secret-knowledge",
         "url": "https://github.com/trimstray/the-book-of-secret-knowledge.git",
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-        "watchers": 2521,
+        "watchers": 2520,
         "forks": 9872,
         "stars": 155241,
         "is_new": false
@@ -1220,7 +1220,7 @@
         "description": "AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.",
         "watchers": 102,
         "forks": 893,
-        "stars": 5260,
+        "stars": 5261,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1138,
         "forks": 7103,
-        "stars": 61775,
+        "stars": 61776,
         "is_new": false
     },
     {
@@ -1823,7 +1823,7 @@
         "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
         "watchers": 148,
         "forks": 530,
-        "stars": 17922,
+        "stars": 17923,
         "is_new": false
     },
     {
@@ -1922,7 +1922,7 @@
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 412,
         "forks": 10092,
-        "stars": 55157,
+        "stars": 55159,
         "is_new": false
     },
     {
@@ -2003,7 +2003,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 286,
         "forks": 5581,
-        "stars": 62682,
+        "stars": 62683,
         "is_new": false
     },
     {
