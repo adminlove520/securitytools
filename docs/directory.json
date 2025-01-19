@@ -5,7 +5,7 @@
         "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
         "watchers": 351,
         "forks": 2844,
-        "stars": 10059,
+        "stars": 10060,
         "is_new": false
     },
     {
@@ -157,7 +157,7 @@
         "url": "https://github.com/Azure/Azure-Network-Security.git",
         "description": "Resources for improving Customer Experience with Azure Network Security",
         "watchers": 51,
-        "forks": 312,
+        "forks": 313,
         "stars": 807,
         "is_new": false
     },
@@ -490,7 +490,7 @@
         "url": "https://github.com/trimstray/the-book-of-secret-knowledge.git",
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2522,
-        "forks": 9888,
+        "forks": 9889,
         "stars": 155510,
         "is_new": false
     },
@@ -725,7 +725,7 @@
         "description": "UNIX-like reverse engineering framework and command-line toolset",
         "watchers": 487,
         "forks": 3033,
-        "stars": 21013,
+        "stars": 21014,
         "is_new": false
     },
     {
@@ -1607,7 +1607,7 @@
         "description": "Some OSINT Discord resources",
         "watchers": 12,
         "forks": 30,
-        "stars": 345,
+        "stars": 346,
         "is_new": false
     },
     {
@@ -1823,7 +1823,7 @@
         "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
         "watchers": 148,
         "forks": 529,
-        "stars": 17941,
+        "stars": 17940,
         "is_new": false
     },
     {
@@ -1921,8 +1921,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 413,
-        "forks": 10267,
-        "stars": 55527,
+        "forks": 10268,
+        "stars": 55528,
         "is_new": false
     },
     {
@@ -1985,7 +1985,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4236,
         "forks": 34478,
-        "stars": 325054,
+        "stars": 325056,
         "is_new": false
     },
     {
@@ -2003,7 +2003,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 286,
         "forks": 5593,
-        "stars": 62798,
+        "stars": 62799,
         "is_new": false
     },
     {
