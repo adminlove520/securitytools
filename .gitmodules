@@ -794,3 +794,7 @@
 [submodule "projects/cloud/cloudSec"]
 	path = projects/cloud/cloudSec
 	url = https://github.com/libaibaia/cloudSec.git
+
+[submodule "projects/IDA"]
+	path = projects/IDA
+	url = https://github.com/HACK-THE-WORLD/IDAPluginList.git
