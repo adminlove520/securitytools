@@ -283,7 +283,7 @@
         "url": "https://github.com/dafthack/CloudPentestCheatsheets.git",
         "description": "This repository contains a collection of cheatsheets I have put together for tools related to pentesting organizations that leverage cloud providers.",
         "watchers": 102,
-        "forks": 521,
+        "forks": 522,
         "stars": 2613,
         "is_new": false
     },
@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 666,
         "forks": 4144,
-        "stars": 64216,
+        "stars": 64219,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2525,
         "forks": 9899,
-        "stars": 155812,
+        "stars": 155814,
         "is_new": false
     },
     {
@@ -788,7 +788,7 @@
         "description": "Snort++",
         "watchers": 128,
         "forks": 573,
-        "stars": 2680,
+        "stars": 2681,
         "is_new": false
     },
     {
@@ -1049,7 +1049,7 @@
         "description": "Warning lists to inform users of MISP about potential false-positives or other information in indicators",
         "watchers": 32,
         "forks": 173,
-        "stars": 548,
+        "stars": 549,
         "is_new": false
     },
     {
@@ -1391,7 +1391,7 @@
         "description": "Fast web fuzzer written in Go",
         "watchers": 160,
         "forks": 1338,
-        "stars": 13059,
+        "stars": 13060,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1138,
         "forks": 7113,
-        "stars": 61896,
+        "stars": 61897,
         "is_new": false
     },
     {
@@ -1904,7 +1904,7 @@
         "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
         "watchers": 256,
         "forks": 1015,
-        "stars": 10667,
+        "stars": 10668,
         "is_new": false
     },
     {
@@ -1921,7 +1921,7 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 417,
-        "forks": 10503,
+        "forks": 10504,
         "stars": 56028,
         "is_new": false
     },
@@ -1985,7 +1985,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4239,
         "forks": 34524,
-        "stars": 325393,
+        "stars": 325395,
         "is_new": false
     },
     {
@@ -2002,8 +2002,8 @@
         "url": "https://github.com/louislam/uptime-kuma.git",
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 285,
-        "forks": 5598,
-        "stars": 62995,
+        "forks": 5597,
+        "stars": 62997,
         "is_new": false
     },
     {
