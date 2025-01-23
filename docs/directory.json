@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 666,
         "forks": 4146,
-        "stars": 64256,
+        "stars": 64255,
         "is_new": false
     },
     {
@@ -572,7 +572,7 @@
         "description": "The Sleuth Kit\u00ae (TSK) is a library and collection of command line digital forensics tools that allow you to investigate volume and file system data. The library can be incorporated into larger digital forensics tools and the command line tools can be directly used to find evidence. ",
         "watchers": 182,
         "forks": 616,
-        "stars": 2683,
+        "stars": 2684,
         "is_new": false
     },
     {
@@ -1219,7 +1219,7 @@
         "url": "https://github.com/Tib3rius/AutoRecon.git",
         "description": "AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.",
         "watchers": 102,
-        "forks": 895,
+        "forks": 896,
         "stars": 5269,
         "is_new": false
     },
@@ -1274,7 +1274,7 @@
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
         "watchers": 135,
         "forks": 1051,
-        "stars": 15403,
+        "stars": 15404,
         "is_new": false
     },
     {
@@ -1319,7 +1319,7 @@
         "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
         "watchers": 240,
         "forks": 2581,
-        "stars": 21901,
+        "stars": 21900,
         "is_new": false
     },
     {
@@ -1391,7 +1391,7 @@
         "description": "Fast web fuzzer written in Go",
         "watchers": 160,
         "forks": 1339,
-        "stars": 13116,
+        "stars": 13117,
         "is_new": false
     },
     {
@@ -1400,7 +1400,7 @@
         "description": "Web path scanner",
         "watchers": 308,
         "forks": 2336,
-        "stars": 12455,
+        "stars": 12456,
         "is_new": false
     },
     {
@@ -1553,7 +1553,7 @@
         "description": "Main Sigma Rule Repository",
         "watchers": 346,
         "forks": 2255,
-        "stars": 8629,
+        "stars": 8630,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1138,
         "forks": 7114,
-        "stars": 61917,
+        "stars": 61919,
         "is_new": false
     },
     {
@@ -1922,7 +1922,7 @@
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 416,
         "forks": 10602,
-        "stars": 56246,
+        "stars": 56248,
         "is_new": false
     },
     {
@@ -1985,7 +1985,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4240,
         "forks": 34531,
-        "stars": 325483,
+        "stars": 325484,
         "is_new": false
     },
     {
@@ -2003,7 +2003,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 287,
         "forks": 5601,
-        "stars": 63055,
+        "stars": 63057,
         "is_new": false
     },
     {
@@ -2048,7 +2048,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 92,
         "forks": 1157,
-        "stars": 21289,
+        "stars": 21291,
         "is_new": false
     },
     {
@@ -2291,7 +2291,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 100,
         "forks": 959,
-        "stars": 14205,
+        "stars": 14212,
         "is_new": false
     },
     {
