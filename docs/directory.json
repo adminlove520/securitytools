@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 665,
         "forks": 4150,
-        "stars": 64325,
+        "stars": 64326,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2522,
         "forks": 9921,
-        "stars": 156209,
+        "stars": 156213,
         "is_new": false
     },
     {
@@ -1274,7 +1274,7 @@
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
         "watchers": 135,
         "forks": 1052,
-        "stars": 15433,
+        "stars": 15434,
         "is_new": false
     },
     {
@@ -1364,7 +1364,7 @@
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "watchers": 173,
         "forks": 2419,
-        "stars": 24469,
+        "stars": 24470,
         "is_new": false
     },
     {
@@ -1660,8 +1660,8 @@
         "url": "https://github.com/sherlock-project/sherlock.git",
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1139,
-        "forks": 7118,
-        "stars": 62026,
+        "forks": 7120,
+        "stars": 62028,
         "is_new": false
     },
     {
@@ -1823,7 +1823,7 @@
         "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
         "watchers": 149,
         "forks": 530,
-        "stars": 18003,
+        "stars": 18004,
         "is_new": false
     },
     {
@@ -1903,7 +1903,7 @@
         "url": "https://github.com/mvt-project/mvt.git",
         "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
         "watchers": 256,
-        "forks": 1018,
+        "forks": 1019,
         "stars": 10671,
         "is_new": false
     },
@@ -1922,7 +1922,7 @@
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 419,
         "forks": 10823,
-        "stars": 56688,
+        "stars": 56689,
         "is_new": false
     },
     {
@@ -1985,7 +1985,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4246,
         "forks": 34555,
-        "stars": 325715,
+        "stars": 325712,
         "is_new": false
     },
     {
@@ -2003,7 +2003,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 284,
         "forks": 5611,
-        "stars": 63156,
+        "stars": 63157,
         "is_new": false
     },
     {
@@ -2282,7 +2282,7 @@
         "description": "\u267e Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI",
         "watchers": 46,
         "forks": 1071,
-        "stars": 16359,
+        "stars": 16360,
         "is_new": false
     },
     {
