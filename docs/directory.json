@@ -1022,7 +1022,7 @@
         "description": null,
         "watchers": 89,
         "forks": 518,
-        "stars": 2020,
+        "stars": 2021,
         "is_new": false
     },
     {
@@ -1076,7 +1076,7 @@
         "description": "A DNS reconnaissance tool for locating non-contiguous IP space.",
         "watchers": 55,
         "forks": 204,
-        "stars": 1639,
+        "stars": 1640,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 676,
         "forks": 2914,
-        "stars": 19931,
+        "stars": 19932,
         "is_new": false
     },
     {
@@ -1391,7 +1391,7 @@
         "description": "Fast web fuzzer written in Go",
         "watchers": 160,
         "forks": 1345,
-        "stars": 13247,
+        "stars": 13248,
         "is_new": false
     },
     {
@@ -1445,7 +1445,7 @@
         "description": "\ud83d\udd0d A collection of interesting, funny, and depressing search queries to plug into shodan.io \ud83d\udc69\u200d\ud83d\udcbb",
         "watchers": 187,
         "forks": 903,
-        "stars": 6060,
+        "stars": 6061,
         "is_new": false
     },
     {
@@ -1535,7 +1535,7 @@
         "description": "A curated list of awesome YARA rules, tools, and people.",
         "watchers": 176,
         "forks": 496,
-        "stars": 3660,
+        "stars": 3661,
         "is_new": false
     },
     {
@@ -1904,7 +1904,7 @@
         "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
         "watchers": 256,
         "forks": 1019,
-        "stars": 10676,
+        "stars": 10677,
         "is_new": false
     },
     {
@@ -1921,8 +1921,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 420,
-        "forks": 10915,
-        "stars": 56871,
+        "forks": 10916,
+        "stars": 56874,
         "is_new": false
     },
     {
@@ -1985,7 +1985,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4246,
         "forks": 34573,
-        "stars": 325837,
+        "stars": 325839,
         "is_new": false
     },
     {
@@ -2003,7 +2003,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 284,
         "forks": 5614,
-        "stars": 63207,
+        "stars": 63208,
         "is_new": false
     },
     {
@@ -2282,7 +2282,7 @@
         "description": "\u267e Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI",
         "watchers": 46,
         "forks": 1069,
-        "stars": 16376,
+        "stars": 16377,
         "is_new": false
     },
     {
@@ -2291,7 +2291,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 101,
         "forks": 977,
-        "stars": 14462,
+        "stars": 14463,
         "is_new": false
     },
     {
