@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 665,
         "forks": 4154,
-        "stars": 64353,
+        "stars": 64352,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2522,
         "forks": 9929,
-        "stars": 156414,
+        "stars": 156417,
         "is_new": false
     },
     {
@@ -653,7 +653,7 @@
         "description": "Open Cyber Threat Intelligence Platform",
         "watchers": 146,
         "forks": 981,
-        "stars": 6741,
+        "stars": 6742,
         "is_new": false
     },
     {
@@ -869,7 +869,7 @@
         "description": "Guide to securing and improving privacy on macOS",
         "watchers": 681,
         "forks": 1456,
-        "stars": 21435,
+        "stars": 21436,
         "is_new": false
     },
     {
@@ -977,7 +977,7 @@
         "description": "StalkPhish - The Phishing kits stalker, harvesting phishing kits for investigations.",
         "watchers": 27,
         "forks": 81,
-        "stars": 634,
+        "stars": 633,
         "is_new": false
     },
     {
@@ -1364,7 +1364,7 @@
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "watchers": 173,
         "forks": 2419,
-        "stars": 24484,
+        "stars": 24483,
         "is_new": false
     },
     {
@@ -1580,7 +1580,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Offensive Google framework.",
         "watchers": 522,
         "forks": 1346,
-        "stars": 16086,
+        "stars": 16085,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1139,
         "forks": 7131,
-        "stars": 62072,
+        "stars": 62071,
         "is_new": false
     },
     {
@@ -1670,7 +1670,7 @@
         "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
         "watchers": 121,
         "forks": 896,
-        "stars": 7977,
+        "stars": 7976,
         "is_new": false
     },
     {
@@ -1921,8 +1921,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 421,
-        "forks": 11015,
-        "stars": 57039,
+        "forks": 11016,
+        "stars": 57041,
         "is_new": false
     },
     {
@@ -1985,7 +1985,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4249,
         "forks": 34586,
-        "stars": 325982,
+        "stars": 325983,
         "is_new": false
     },
     {
@@ -2003,7 +2003,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 285,
         "forks": 5612,
-        "stars": 63258,
+        "stars": 63260,
         "is_new": false
     },
     {
@@ -2291,7 +2291,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 101,
         "forks": 977,
-        "stars": 14479,
+        "stars": 14478,
         "is_new": false
     },
     {
