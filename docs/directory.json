@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2523,
         "forks": 9937,
-        "stars": 156493,
+        "stars": 156496,
         "is_new": false
     },
     {
@@ -644,7 +644,7 @@
         "description": "A curated list of Awesome Threat Intelligence resources",
         "watchers": 570,
         "forks": 1511,
-        "stars": 8378,
+        "stars": 8379,
         "is_new": false
     },
     {
@@ -652,7 +652,7 @@
         "url": "https://github.com/OpenCTI-Platform/opencti.git",
         "description": "Open Cyber Threat Intelligence Platform",
         "watchers": 146,
-        "forks": 984,
+        "forks": 985,
         "stars": 6764,
         "is_new": false
     },
@@ -1022,7 +1022,7 @@
         "description": null,
         "watchers": 88,
         "forks": 520,
-        "stars": 2021,
+        "stars": 2022,
         "is_new": false
     },
     {
@@ -1184,7 +1184,7 @@
         "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
         "watchers": 367,
         "forks": 2347,
-        "stars": 13602,
+        "stars": 13603,
         "is_new": false
     },
     {
@@ -1274,7 +1274,7 @@
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
         "watchers": 135,
         "forks": 1054,
-        "stars": 15446,
+        "stars": 15447,
         "is_new": false
     },
     {
@@ -1283,7 +1283,7 @@
         "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
         "watchers": 650,
         "forks": 3093,
-        "stars": 23955,
+        "stars": 23956,
         "is_new": false
     },
     {
@@ -1614,9 +1614,9 @@
         "path": "projects/socials/instagram/Osintgram",
         "url": "https://github.com/Datalux/Osintgram.git",
         "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
-        "watchers": 202,
+        "watchers": 203,
         "forks": 2246,
-        "stars": 10105,
+        "stars": 10106,
         "is_new": false
     },
     {
@@ -1921,8 +1921,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 420,
-        "forks": 11124,
-        "stars": 57253,
+        "forks": 11125,
+        "stars": 57255,
         "is_new": false
     },
     {
@@ -2048,7 +2048,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 93,
         "forks": 1162,
-        "stars": 21371,
+        "stars": 21372,
         "is_new": false
     },
     {
@@ -2264,7 +2264,7 @@
         "description": ":art: Diagram as Code for prototyping cloud system architectures",
         "watchers": 405,
         "forks": 2578,
-        "stars": 40200,
+        "stars": 40199,
         "is_new": false
     },
     {
@@ -2327,7 +2327,7 @@
         "description": "\ud83d\udee1\ufe0f A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.",
         "watchers": 79,
         "forks": 455,
-        "stars": 6970,
+        "stars": 6971,
         "is_new": false
     },
     {
