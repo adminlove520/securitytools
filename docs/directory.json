@@ -230,7 +230,7 @@
         "description": "This publication is a collection of various common attack scenarios on Microsoft Entra ID (formerly known as Azure Active Directory) and how they can be mitigated or detected.",
         "watchers": 82,
         "forks": 330,
-        "stars": 2234,
+        "stars": 2233,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2525,
         "forks": 9943,
-        "stars": 156682,
+        "stars": 156686,
         "is_new": false
     },
     {
@@ -770,7 +770,7 @@
         "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
         "watchers": 412,
         "forks": 1497,
-        "stars": 17118,
+        "stars": 17119,
         "is_new": false
     },
     {
@@ -1274,7 +1274,7 @@
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
         "watchers": 136,
         "forks": 1056,
-        "stars": 15466,
+        "stars": 15468,
         "is_new": false
     },
     {
@@ -1373,7 +1373,7 @@
         "description": "w3af: web application attack and audit framework, the open source web vulnerability scanner.",
         "watchers": 195,
         "forks": 1224,
-        "stars": 4659,
+        "stars": 4660,
         "is_new": false
     },
     {
@@ -1580,7 +1580,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Offensive Google framework.",
         "watchers": 524,
         "forks": 1347,
-        "stars": 16117,
+        "stars": 16118,
         "is_new": false
     },
     {
@@ -1616,7 +1616,7 @@
         "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
         "watchers": 203,
         "forks": 2244,
-        "stars": 10118,
+        "stars": 10119,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1141,
         "forks": 7145,
-        "stars": 62120,
+        "stars": 62121,
         "is_new": false
     },
     {
@@ -1985,7 +1985,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4249,
         "forks": 34612,
-        "stars": 326270,
+        "stars": 326271,
         "is_new": false
     },
     {
@@ -2290,7 +2290,7 @@
         "url": "https://github.com/soxoj/maigret.git",
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 102,
-        "forks": 982,
+        "forks": 983,
         "stars": 14548,
         "is_new": false
     },
