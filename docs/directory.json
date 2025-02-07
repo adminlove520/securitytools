@@ -248,7 +248,7 @@
         "description": ":cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud",
         "watchers": 38,
         "forks": 226,
-        "stars": 1903,
+        "stars": 1904,
         "is_new": false
     },
     {
@@ -383,7 +383,7 @@
         "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
         "watchers": 241,
         "forks": 996,
-        "stars": 14933,
+        "stars": 14934,
         "is_new": false
     },
     {
@@ -490,7 +490,7 @@
         "url": "https://github.com/trimstray/the-book-of-secret-knowledge.git",
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2532,
-        "forks": 9972,
+        "forks": 9973,
         "stars": 157384,
         "is_new": false
     },
@@ -1382,7 +1382,7 @@
         "description": "Automatic SQL injection and database takeover tool",
         "watchers": 1100,
         "forks": 5781,
-        "stars": 33235,
+        "stars": 33236,
         "is_new": false
     },
     {
@@ -1463,7 +1463,7 @@
         "description": "Find leaked secrets via github search",
         "watchers": 92,
         "forks": 596,
-        "stars": 2875,
+        "stars": 2876,
         "is_new": false
     },
     {
@@ -1921,8 +1921,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 432,
-        "forks": 11997,
-        "stars": 58969,
+        "forks": 12000,
+        "stars": 58972,
         "is_new": false
     },
     {
@@ -1967,7 +1967,7 @@
         "description": "Linux/OSX/FreeBSD resource monitor",
         "watchers": 156,
         "forks": 410,
-        "stars": 10473,
+        "stars": 10474,
         "is_new": false
     },
     {
@@ -2003,7 +2003,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 284,
         "forks": 5650,
-        "stars": 63868,
+        "stars": 63867,
         "is_new": false
     },
     {
@@ -2030,7 +2030,7 @@
         "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
         "watchers": 222,
         "forks": 1739,
-        "stars": 11647,
+        "stars": 11648,
         "is_new": false
     },
     {
@@ -2039,7 +2039,7 @@
         "description": "Elegant Scraper and Crawler Framework for Golang",
         "watchers": 330,
         "forks": 1775,
-        "stars": 23697,
+        "stars": 23698,
         "is_new": false
     },
     {
