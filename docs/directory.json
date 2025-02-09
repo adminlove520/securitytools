@@ -257,7 +257,7 @@
         "description": "Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.",
         "watchers": 40,
         "forks": 259,
-        "stars": 1743,
+        "stars": 1744,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2533,
         "forks": 9982,
-        "stars": 157559,
+        "stars": 157560,
         "is_new": false
     },
     {
@@ -671,7 +671,7 @@
         "description": "MISP (core software) - Open Source Threat Intelligence and Sharing Platform",
         "watchers": 279,
         "forks": 1429,
-        "stars": 5508,
+        "stars": 5509,
         "is_new": false
     },
     {
@@ -1319,7 +1319,7 @@
         "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
         "watchers": 241,
         "forks": 2600,
-        "stars": 22060,
+        "stars": 22061,
         "is_new": false
     },
     {
@@ -1382,7 +1382,7 @@
         "description": "Automatic SQL injection and database takeover tool",
         "watchers": 1100,
         "forks": 5782,
-        "stars": 33257,
+        "stars": 33258,
         "is_new": false
     },
     {
@@ -1697,7 +1697,7 @@
         "description": "A OSINT tool to obtain a target's phone number just by having his email address",
         "watchers": 57,
         "forks": 265,
-        "stars": 2248,
+        "stars": 2249,
         "is_new": false
     },
     {
@@ -1921,8 +1921,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 439,
-        "forks": 12212,
-        "stars": 59397,
+        "forks": 12214,
+        "stars": 59398,
         "is_new": false
     },
     {
@@ -1931,7 +1931,7 @@
         "description": "A next-generation crawling and spidering framework.",
         "watchers": 90,
         "forks": 685,
-        "stars": 12993,
+        "stars": 12994,
         "is_new": false
     },
     {
@@ -1983,9 +1983,9 @@
         "path": "projects/devsec/tools/public-apis",
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
-        "watchers": 4256,
+        "watchers": 4257,
         "forks": 34696,
-        "stars": 327060,
+        "stars": 327062,
         "is_new": false
     },
     {
@@ -2003,7 +2003,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 285,
         "forks": 5655,
-        "stars": 63966,
+        "stars": 63970,
         "is_new": false
     },
     {
@@ -2030,7 +2030,7 @@
         "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
         "watchers": 222,
         "forks": 1741,
-        "stars": 11659,
+        "stars": 11660,
         "is_new": false
     },
     {
@@ -2282,7 +2282,7 @@
         "description": "\u267e Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI",
         "watchers": 45,
         "forks": 1095,
-        "stars": 16720,
+        "stars": 16722,
         "is_new": false
     },
     {
