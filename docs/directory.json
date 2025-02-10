@@ -148,7 +148,7 @@
         "url": "https://github.com/Azure/azure-policy.git",
         "description": "Repository for Azure Resource Policy built-in definitions and samples",
         "watchers": 143,
-        "forks": 1103,
+        "forks": 1104,
         "stars": 1539,
         "is_new": false
     },
@@ -158,7 +158,7 @@
         "description": "Resources for improving Customer Experience with Azure Network Security",
         "watchers": 51,
         "forks": 314,
-        "stars": 814,
+        "stars": 815,
         "is_new": false
     },
     {
@@ -382,7 +382,7 @@
         "url": "https://github.com/slackhq/nebula.git",
         "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
         "watchers": 241,
-        "forks": 999,
+        "forks": 1000,
         "stars": 15014,
         "is_new": false
     },
@@ -401,7 +401,7 @@
         "description": "dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",
         "watchers": 320,
         "forks": 1030,
-        "stars": 11734,
+        "stars": 11735,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2533,
         "forks": 9980,
-        "stars": 157650,
+        "stars": 157655,
         "is_new": false
     },
     {
@@ -653,7 +653,7 @@
         "description": "Open Cyber Threat Intelligence Platform",
         "watchers": 147,
         "forks": 1001,
-        "stars": 6925,
+        "stars": 6926,
         "is_new": false
     },
     {
@@ -725,7 +725,7 @@
         "description": "UNIX-like reverse engineering framework and command-line toolset",
         "watchers": 489,
         "forks": 3041,
-        "stars": 21126,
+        "stars": 21127,
         "is_new": false
     },
     {
@@ -1364,7 +1364,7 @@
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "watchers": 173,
         "forks": 2436,
-        "stars": 24634,
+        "stars": 24635,
         "is_new": false
     },
     {
@@ -1382,7 +1382,7 @@
         "description": "Automatic SQL injection and database takeover tool",
         "watchers": 1100,
         "forks": 5785,
-        "stars": 33267,
+        "stars": 33268,
         "is_new": false
     },
     {
@@ -1615,7 +1615,7 @@
         "url": "https://github.com/Datalux/Osintgram.git",
         "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
         "watchers": 204,
-        "forks": 2260,
+        "forks": 2261,
         "stars": 10172,
         "is_new": false
     },
@@ -1733,7 +1733,7 @@
         "description": "A collection of several hundred online tools for OSINT",
         "watchers": 146,
         "forks": 679,
-        "stars": 5805,
+        "stars": 5804,
         "is_new": false
     },
     {
@@ -1921,8 +1921,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 436,
-        "forks": 12345,
-        "stars": 59642,
+        "forks": 12346,
+        "stars": 59644,
         "is_new": false
     },
     {
@@ -1985,7 +1985,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4258,
         "forks": 34699,
-        "stars": 327137,
+        "stars": 327139,
         "is_new": false
     },
     {
@@ -2003,7 +2003,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 285,
         "forks": 5662,
-        "stars": 64039,
+        "stars": 64045,
         "is_new": false
     },
     {
@@ -2030,7 +2030,7 @@
         "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
         "watchers": 223,
         "forks": 1741,
-        "stars": 11665,
+        "stars": 11666,
         "is_new": false
     },
     {
