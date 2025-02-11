@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 666,
         "forks": 4172,
-        "stars": 64675,
+        "stars": 64676,
         "is_new": false
     },
     {
@@ -410,7 +410,7 @@
         "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
         "watchers": 242,
         "forks": 1806,
-        "stars": 17996,
+        "stars": 17997,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2535,
         "forks": 9988,
-        "stars": 157755,
+        "stars": 157756,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 677,
         "forks": 2931,
-        "stars": 20116,
+        "stars": 20117,
         "is_new": false
     },
     {
@@ -1670,7 +1670,7 @@
         "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
         "watchers": 122,
         "forks": 922,
-        "stars": 8228,
+        "stars": 8229,
         "is_new": false
     },
     {
@@ -1921,8 +1921,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 437,
-        "forks": 12464,
-        "stars": 59860,
+        "forks": 12465,
+        "stars": 59862,
         "is_new": false
     },
     {
@@ -1967,7 +1967,7 @@
         "description": "Linux/OSX/FreeBSD resource monitor",
         "watchers": 156,
         "forks": 412,
-        "stars": 10494,
+        "stars": 10495,
         "is_new": false
     },
     {
@@ -1985,7 +1985,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4258,
         "forks": 34718,
-        "stars": 327233,
+        "stars": 327234,
         "is_new": false
     },
     {
@@ -2003,7 +2003,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 285,
         "forks": 5669,
-        "stars": 64120,
+        "stars": 64121,
         "is_new": false
     },
     {
@@ -2021,7 +2021,7 @@
         "description": "Bot detection library that runs in the browser. Detects automation tools and frameworks. No server required, runs 100% on the client. MIT license, no usage restrictions.",
         "watchers": 26,
         "forks": 82,
-        "stars": 1136,
+        "stars": 1137,
         "is_new": false
     },
     {
@@ -2048,7 +2048,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 99,
         "forks": 1189,
-        "stars": 21949,
+        "stars": 21950,
         "is_new": false
     },
     {
