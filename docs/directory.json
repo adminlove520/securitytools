@@ -122,7 +122,7 @@
         "description": "Find exposed data in Azure with this public blob scanner",
         "watchers": 25,
         "forks": 54,
-        "stars": 324,
+        "stars": 325,
         "is_new": false
     },
     {
@@ -410,7 +410,7 @@
         "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
         "watchers": 242,
         "forks": 1807,
-        "stars": 18020,
+        "stars": 18021,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2535,
         "forks": 10003,
-        "stars": 158040,
+        "stars": 158046,
         "is_new": false
     },
     {
@@ -896,7 +896,7 @@
         "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
         "watchers": 580,
         "forks": 3298,
-        "stars": 18030,
+        "stars": 18031,
         "is_new": false
     },
     {
@@ -1112,7 +1112,7 @@
         "description": "Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.",
         "watchers": 112,
         "forks": 679,
-        "stars": 4392,
+        "stars": 4393,
         "is_new": false
     },
     {
@@ -1184,7 +1184,7 @@
         "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
         "watchers": 367,
         "forks": 2362,
-        "stars": 13705,
+        "stars": 13706,
         "is_new": false
     },
     {
@@ -1813,8 +1813,8 @@
         "url": "https://github.com/atenreiro/opensquat.git",
         "description": "The openSquat is an open-source tool for detecting domain look-alikes by searching for newly registered domains that might be impersonating legit domains and brands.",
         "watchers": 21,
-        "forks": 136,
-        "stars": 756,
+        "forks": 137,
+        "stars": 757,
         "is_new": false
     },
     {
@@ -1921,8 +1921,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 438,
-        "forks": 12848,
-        "stars": 60581,
+        "forks": 12849,
+        "stars": 60583,
         "is_new": false
     },
     {
@@ -1984,7 +1984,7 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4263,
-        "forks": 34732,
+        "forks": 34733,
         "stars": 327504,
         "is_new": false
     },
@@ -2281,7 +2281,7 @@
         "url": "https://github.com/Infisical/infisical.git",
         "description": "\u267e Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI",
         "watchers": 45,
-        "forks": 1100,
+        "forks": 1101,
         "stars": 16776,
         "is_new": false
     },
@@ -2327,7 +2327,7 @@
         "description": "\ud83d\udee1\ufe0f A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.",
         "watchers": 79,
         "forks": 456,
-        "stars": 7006,
+        "stars": 7007,
         "is_new": false
     },
     {
