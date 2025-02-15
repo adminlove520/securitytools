@@ -5,7 +5,7 @@
         "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
         "watchers": 351,
         "forks": 2855,
-        "stars": 10162,
+        "stars": 10163,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2535,
         "forks": 10009,
-        "stars": 158124,
+        "stars": 158126,
         "is_new": false
     },
     {
@@ -1120,8 +1120,8 @@
         "url": "https://github.com/Screetsec/Sudomy.git",
         "description": "Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting",
         "watchers": 34,
-        "forks": 386,
-        "stars": 2081,
+        "forks": 387,
+        "stars": 2082,
         "is_new": false
     },
     {
@@ -1670,7 +1670,7 @@
         "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
         "watchers": 122,
         "forks": 924,
-        "stars": 8270,
+        "stars": 8269,
         "is_new": false
     },
     {
@@ -1921,7 +1921,7 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 441,
-        "forks": 12944,
+        "forks": 12948,
         "stars": 60760,
         "is_new": false
     },
@@ -2003,7 +2003,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 286,
         "forks": 5688,
-        "stars": 64339,
+        "stars": 64341,
         "is_new": false
     },
     {
