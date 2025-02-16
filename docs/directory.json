@@ -536,7 +536,7 @@
         "description": "A collection of smart contract vulnerabilities along with prevention methods",
         "watchers": 41,
         "forks": 279,
-        "stars": 2036,
+        "stars": 2037,
         "is_new": false
     },
     {
@@ -599,7 +599,7 @@
         "description": "Loki - Simple IOC and YARA Scanner",
         "watchers": 185,
         "forks": 588,
-        "stars": 3464,
+        "stars": 3465,
         "is_new": false
     },
     {
@@ -653,7 +653,7 @@
         "description": "Open Cyber Threat Intelligence Platform",
         "watchers": 144,
         "forks": 1006,
-        "stars": 6956,
+        "stars": 6957,
         "is_new": false
     },
     {
@@ -923,7 +923,7 @@
         "description": "The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.",
         "watchers": 221,
         "forks": 1270,
-        "stars": 4798,
+        "stars": 4799,
         "is_new": false
     },
     {
@@ -950,7 +950,7 @@
         "description": "A completely free, open source and online course about Reverse Engineering iOS Applications.",
         "watchers": 117,
         "forks": 353,
-        "stars": 2708,
+        "stars": 2709,
         "is_new": false
     },
     {
@@ -1022,7 +1022,7 @@
         "description": null,
         "watchers": 88,
         "forks": 526,
-        "stars": 2040,
+        "stars": 2041,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 678,
         "forks": 2941,
-        "stars": 20171,
+        "stars": 20172,
         "is_new": false
     },
     {
@@ -1535,7 +1535,7 @@
         "description": "A curated list of awesome YARA rules, tools, and people.",
         "watchers": 176,
         "forks": 497,
-        "stars": 3681,
+        "stars": 3682,
         "is_new": false
     },
     {
@@ -1580,7 +1580,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Offensive Google framework.",
         "watchers": 524,
         "forks": 1352,
-        "stars": 16177,
+        "stars": 16178,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1142,
         "forks": 7190,
-        "stars": 62460,
+        "stars": 62462,
         "is_new": false
     },
     {
@@ -1733,7 +1733,7 @@
         "description": "A collection of several hundred online tools for OSINT",
         "watchers": 146,
         "forks": 681,
-        "stars": 5829,
+        "stars": 5830,
         "is_new": false
     },
     {
@@ -1921,8 +1921,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 442,
-        "forks": 13051,
-        "stars": 60942,
+        "forks": 13052,
+        "stars": 60944,
         "is_new": false
     },
     {
@@ -1985,7 +1985,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4265,
         "forks": 34746,
-        "stars": 327648,
+        "stars": 327649,
         "is_new": false
     },
     {
@@ -2030,7 +2030,7 @@
         "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
         "watchers": 224,
         "forks": 1752,
-        "stars": 11716,
+        "stars": 11717,
         "is_new": false
     },
     {
@@ -2282,7 +2282,7 @@
         "description": "\u267e Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI",
         "watchers": 45,
         "forks": 1101,
-        "stars": 16789,
+        "stars": 16790,
         "is_new": false
     },
     {
