@@ -41,7 +41,7 @@
         "description": "A browser extension for OSINT search",
         "watchers": 40,
         "forks": 157,
-        "stars": 1525,
+        "stars": 1526,
         "is_new": false
     },
     {
@@ -392,7 +392,7 @@
         "description": "An incredibly fast proxy checker & IP rotator with ease.",
         "watchers": 35,
         "forks": 202,
-        "stars": 1713,
+        "stars": 1714,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2530,
         "forks": 10018,
-        "stars": 158417,
+        "stars": 158420,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 678,
         "forks": 2942,
-        "stars": 20208,
+        "stars": 20209,
         "is_new": false
     },
     {
@@ -1183,7 +1183,7 @@
         "url": "https://github.com/smicallef/spiderfoot.git",
         "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
         "watchers": 367,
-        "forks": 2368,
+        "forks": 2369,
         "stars": 13738,
         "is_new": false
     },
@@ -1614,8 +1614,8 @@
         "path": "projects/socials/instagram/Osintgram",
         "url": "https://github.com/Datalux/Osintgram.git",
         "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
-        "watchers": 204,
-        "forks": 2271,
+        "watchers": 203,
+        "forks": 2272,
         "stars": 10220,
         "is_new": false
     },
@@ -1760,7 +1760,7 @@
         "description": "Collaborative Incident Response platform",
         "watchers": 30,
         "forks": 205,
-        "stars": 1133,
+        "stars": 1134,
         "is_new": false
     },
     {
@@ -1922,7 +1922,7 @@
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 443,
         "forks": 13316,
-        "stars": 61476,
+        "stars": 61478,
         "is_new": false
     },
     {
@@ -1985,7 +1985,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4265,
         "forks": 34755,
-        "stars": 327807,
+        "stars": 327811,
         "is_new": false
     },
     {
@@ -2003,7 +2003,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 285,
         "forks": 5698,
-        "stars": 64502,
+        "stars": 64503,
         "is_new": false
     },
     {
