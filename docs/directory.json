@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 667,
         "forks": 4190,
-        "stars": 65055,
+        "stars": 65056,
         "is_new": false
     },
     {
@@ -410,7 +410,7 @@
         "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
         "watchers": 243,
         "forks": 1809,
-        "stars": 18052,
+        "stars": 18051,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2534,
         "forks": 10039,
-        "stars": 158900,
+        "stars": 158902,
         "is_new": false
     },
     {
@@ -842,7 +842,7 @@
         "description": "WiFi security auditing tools suite",
         "watchers": 238,
         "forks": 991,
-        "stars": 5773,
+        "stars": 5774,
         "is_new": false
     },
     {
@@ -1184,7 +1184,7 @@
         "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
         "watchers": 367,
         "forks": 2373,
-        "stars": 13773,
+        "stars": 13774,
         "is_new": false
     },
     {
@@ -1363,7 +1363,7 @@
         "url": "https://github.com/aquasecurity/trivy.git",
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "watchers": 174,
-        "forks": 2444,
+        "forks": 2445,
         "stars": 24778,
         "is_new": false
     },
@@ -1616,7 +1616,7 @@
         "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
         "watchers": 204,
         "forks": 2282,
-        "stars": 10247,
+        "stars": 10250,
         "is_new": false
     },
     {
@@ -1841,7 +1841,7 @@
         "description": "An OOB interaction gathering server and client library",
         "watchers": 42,
         "forks": 383,
-        "stars": 3596,
+        "stars": 3597,
         "is_new": false
     },
     {
@@ -1921,8 +1921,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 454,
-        "forks": 13974,
-        "stars": 62455,
+        "forks": 13976,
+        "stars": 62457,
         "is_new": false
     },
     {
@@ -1985,7 +1985,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4265,
         "forks": 34795,
-        "stars": 328245,
+        "stars": 328248,
         "is_new": false
     },
     {
@@ -2003,7 +2003,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 290,
         "forks": 5731,
-        "stars": 64889,
+        "stars": 64890,
         "is_new": false
     },
     {
