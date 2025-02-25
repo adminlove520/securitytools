@@ -481,8 +481,8 @@
         "url": "https://github.com/andrewjkerr/security-cheatsheets.git",
         "description": "\ud83d\udd12 A collection of cheatsheets for various infosec tools and topics.",
         "watchers": 75,
-        "forks": 528,
-        "stars": 1295,
+        "forks": 529,
+        "stars": 1296,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2534,
         "forks": 10045,
-        "stars": 159117,
+        "stars": 159120,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 679,
         "forks": 2945,
-        "stars": 20290,
+        "stars": 20291,
         "is_new": false
     },
     {
@@ -1202,7 +1202,7 @@
         "description": "A Holistic OSINT and Threat Hunting Platform",
         "watchers": 16,
         "forks": 82,
-        "stars": 519,
+        "stars": 520,
         "is_new": false
     },
     {
@@ -1273,7 +1273,7 @@
         "url": "https://github.com/RustScan/RustScan.git",
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
         "watchers": 136,
-        "forks": 1069,
+        "forks": 1070,
         "stars": 15711,
         "is_new": false
     },
@@ -1364,7 +1364,7 @@
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "watchers": 174,
         "forks": 2447,
-        "stars": 24801,
+        "stars": 24802,
         "is_new": false
     },
     {
@@ -1895,7 +1895,7 @@
         "description": "Open-source offline translation library written in Python",
         "watchers": 55,
         "forks": 307,
-        "stars": 4187,
+        "stars": 4189,
         "is_new": false
     },
     {
@@ -1921,8 +1921,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 448,
-        "forks": 14322,
-        "stars": 62928,
+        "forks": 14325,
+        "stars": 62931,
         "is_new": false
     },
     {
@@ -1985,7 +1985,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4262,
         "forks": 34822,
-        "stars": 328427,
+        "stars": 328429,
         "is_new": false
     },
     {
