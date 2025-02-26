@@ -383,7 +383,7 @@
         "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
         "watchers": 240,
         "forks": 1004,
-        "stars": 15083,
+        "stars": 15084,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2535,
         "forks": 10050,
-        "stars": 159226,
+        "stars": 159231,
         "is_new": false
     },
     {
@@ -689,7 +689,7 @@
         "description": "Malwoverview is a first response tool used for threat hunting and offers intel information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, Malware Bazaar, ThreatFox, Triage, InQuest, VxExchange and IPInfo, and it is also able to scan Android devices against VT.",
         "watchers": 119,
         "forks": 457,
-        "stars": 3098,
+        "stars": 3099,
         "is_new": false
     },
     {
@@ -1274,7 +1274,7 @@
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
         "watchers": 136,
         "forks": 1070,
-        "stars": 15735,
+        "stars": 15736,
         "is_new": false
     },
     {
@@ -1319,7 +1319,7 @@
         "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
         "watchers": 243,
         "forks": 2622,
-        "stars": 22339,
+        "stars": 22340,
         "is_new": false
     },
     {
@@ -1660,7 +1660,7 @@
         "url": "https://github.com/sherlock-project/sherlock.git",
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1145,
-        "forks": 7224,
+        "forks": 7225,
         "stars": 62685,
         "is_new": false
     },
@@ -1921,8 +1921,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 449,
-        "forks": 14477,
-        "stars": 63155,
+        "forks": 14479,
+        "stars": 63159,
         "is_new": false
     },
     {
@@ -1931,7 +1931,7 @@
         "description": "A next-generation crawling and spidering framework.",
         "watchers": 90,
         "forks": 690,
-        "stars": 13085,
+        "stars": 13086,
         "is_new": false
     },
     {
@@ -1985,7 +1985,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4262,
         "forks": 34833,
-        "stars": 328536,
+        "stars": 328537,
         "is_new": false
     },
     {
@@ -2003,7 +2003,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 290,
         "forks": 5744,
-        "stars": 65095,
+        "stars": 65096,
         "is_new": false
     },
     {
@@ -2028,7 +2028,7 @@
         "path": "projects/platforms/wazuh",
         "url": "https://github.com/wazuh/wazuh",
         "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
-        "watchers": 224,
+        "watchers": 223,
         "forks": 1761,
         "stars": 11811,
         "is_new": false
