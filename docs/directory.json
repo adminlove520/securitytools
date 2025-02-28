@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 669,
         "forks": 4195,
-        "stars": 65193,
+        "stars": 65194,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2534,
         "forks": 10054,
-        "stars": 159370,
+        "stars": 159371,
         "is_new": false
     },
     {
@@ -590,7 +590,7 @@
         "description": "Incident Response Documentation made easy. Developed by Incident Responders for Incident Responders",
         "watchers": 44,
         "forks": 103,
-        "stars": 863,
+        "stars": 864,
         "is_new": false
     },
     {
@@ -770,7 +770,7 @@
         "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
         "watchers": 410,
         "forks": 1508,
-        "stars": 17275,
+        "stars": 17276,
         "is_new": false
     },
     {
@@ -797,7 +797,7 @@
         "description": "Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication. ",
         "watchers": 144,
         "forks": 1704,
-        "stars": 5675,
+        "stars": 5676,
         "is_new": false
     },
     {
@@ -1129,7 +1129,7 @@
         "url": "https://github.com/jivoi/awesome-osint.git",
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 679,
-        "forks": 2950,
+        "forks": 2951,
         "stars": 20319,
         "is_new": false
     },
@@ -1318,8 +1318,8 @@
         "url": "https://github.com/projectdiscovery/nuclei.git",
         "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
         "watchers": 243,
-        "forks": 2624,
-        "stars": 22365,
+        "forks": 2625,
+        "stars": 22366,
         "is_new": false
     },
     {
@@ -1921,8 +1921,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 449,
-        "forks": 14800,
-        "stars": 63559,
+        "forks": 14803,
+        "stars": 63563,
         "is_new": false
     },
     {
@@ -1985,7 +1985,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4262,
         "forks": 34854,
-        "stars": 328695,
+        "stars": 328697,
         "is_new": false
     },
     {
