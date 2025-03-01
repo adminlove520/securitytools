@@ -5,7 +5,7 @@
         "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
         "watchers": 350,
         "forks": 2868,
-        "stars": 10237,
+        "stars": 10239,
         "is_new": false
     },
     {
@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 669,
         "forks": 4198,
-        "stars": 65204,
+        "stars": 65206,
         "is_new": false
     },
     {
@@ -1112,7 +1112,7 @@
         "description": "Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.",
         "watchers": 112,
         "forks": 685,
-        "stars": 4448,
+        "stars": 4447,
         "is_new": false
     },
     {
@@ -1580,7 +1580,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Offensive Google framework.",
         "watchers": 525,
         "forks": 1364,
-        "stars": 16214,
+        "stars": 16213,
         "is_new": false
     },
     {
@@ -1823,7 +1823,7 @@
         "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
         "watchers": 148,
         "forks": 538,
-        "stars": 18313,
+        "stars": 18314,
         "is_new": false
     },
     {
@@ -1921,8 +1921,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 450,
-        "forks": 14931,
-        "stars": 63744,
+        "forks": 14935,
+        "stars": 63745,
         "is_new": false
     },
     {
