@@ -392,7 +392,7 @@
         "description": "An incredibly fast proxy checker & IP rotator with ease.",
         "watchers": 35,
         "forks": 203,
-        "stars": 1725,
+        "stars": 1726,
         "is_new": false
     },
     {
@@ -464,7 +464,7 @@
         "description": "Some setup scripts for security research tools.",
         "watchers": 292,
         "forks": 1904,
-        "stars": 8728,
+        "stars": 8729,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2535,
         "forks": 10062,
-        "stars": 159533,
+        "stars": 159535,
         "is_new": false
     },
     {
@@ -851,7 +851,7 @@
         "description": "OSX and iOS related security tools",
         "watchers": 71,
         "forks": 181,
-        "stars": 1378,
+        "stars": 1379,
         "is_new": false
     },
     {
@@ -1229,7 +1229,7 @@
         "description": "\ud83d\udd0e Find origin servers of websites behind CloudFlare by using Internet-wide scan data from Censys.",
         "watchers": 60,
         "forks": 365,
-        "stars": 2683,
+        "stars": 2684,
         "is_new": false
     },
     {
@@ -1256,7 +1256,7 @@
         "description": "Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.",
         "watchers": 50,
         "forks": 467,
-        "stars": 4198,
+        "stars": 4199,
         "is_new": false
     },
     {
@@ -1399,7 +1399,7 @@
         "url": "https://github.com/maurosoria/dirsearch.git",
         "description": "Web path scanner",
         "watchers": 308,
-        "forks": 2347,
+        "forks": 2348,
         "stars": 12605,
         "is_new": false
     },
@@ -1921,8 +1921,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 452,
-        "forks": 15072,
-        "stars": 63940,
+        "forks": 15074,
+        "stars": 63945,
         "is_new": false
     },
     {
@@ -1984,7 +1984,7 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4265,
-        "forks": 34873,
+        "forks": 34874,
         "stars": 328825,
         "is_new": false
     },
