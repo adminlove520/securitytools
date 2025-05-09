@@ -1,45 +1,55 @@
 name: Cleanup Repos
 
 on:
-  # 新的触发条件
   push:
     branches: ["main"]
   workflow_dispatch:
   schedule:
-    - cron: '0 */5 * * *'  # 每 5 小时触发一次
+    - cron: '0 */5 * * *'
   issues:
-    types: [opened]  # 有新 issue 提交时触发
+    types: [opened]
 
 jobs:
   cleanup:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
+    permissions:
+      actions: read  # 新增：授予读取 Actions 日志的权限
     steps:
       - name: checkout the repo
         uses: actions/checkout@v2
         with:
-          submodules: true  # 确保子模块被初始化和更新
-        id: checkout_step  # 标记步骤 ID 用于后续条件判断
-        continue-on-error: true  # 允许步骤失败但作业继续执行
+          submodules: true
+        id: checkout_step
+        continue-on-error: true
 
       - name: Extract failed repo URL
         if: steps.checkout_step.outcome == 'failure'
-        run: |
-          # 从 GitHub 日志中提取仓库 URL（匹配格式：fatal: repository 'https://xxx.git' not found）
-          $errorLog = Get-Content $GITHUB_WORKFLOW_LOG -Raw
-          $match = [regex]::Match($errorLog, "fatal: repository '([^']+)'")
-          if ($match.Success) {
-            $repoUrl = $match.Groups[1].Value
-            echo "REPO_URL=$repoUrl" | Out-File -FilePath $GITHUB_ENV -Encoding utf8
-          }
-        shell: pwsh  # 使用 PowerShell 解析日志
+        uses: actions/github-script@v6
+        with:
+          script: |
+            // 调用 GitHub API 下载作业日志
+            const logs = await github.rest.actions.downloadJobLogsForRun({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              run_id: context.runId,
+              job_id: context.jobId
+            });
+            // 解码日志为文本并提取 URL（匹配格式：fatal: repository 'https://xxx.git' not found）
+            const logText = new TextDecoder().decode(logs.data);
+            const match = logText.match(/fatal: repository '([^']+)'/);
+            if (match) {
+              core.exportVariable('REPO_URL', match[1]);  // 导出为环境变量供后续步骤使用
+            } else {
+              core.setFailed('未从日志中找到失败仓库的 URL');
+            }
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: 3.12
-        if: steps.checkout_step.outcome == 'failure'  # 仅当 checkout 失败时准备环境
+        if: steps.checkout_step.outcome == 'failure'
 
       - name: Run cleanup script
-        working-directory: ${{ github.workspace }}  # 确保工作目录为仓库根路径
-        run: python .github/scripts/cleanup_repos.py ${{ env.REPO_URL }}  # 传递提取的 URL 给脚本
-        if: steps.checkout_step.outcome == 'failure'  # 仅当 checkout 失败时执行清理
+        working-directory: ${{ github.workspace }}
+        run: python .github/scripts/cleanup_repos.py ${{ env.REPO_URL }}
+        if: steps.checkout_step.outcome == 'failure'
