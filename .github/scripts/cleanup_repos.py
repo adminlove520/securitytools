@@ -93,8 +93,8 @@ def main(location, project_link):
 if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser(description="Cleanup repositories based on issue details.")
-    parser.add_argument("--location", required=True, help="Location in collection")
-    parser.add_argument("--project-link", required=True, help="Project link")
+    parser.add_argument("--location", required=False, help="Location in collection")
+    parser.add_argument("--project-link", required=False, help="Project link")
     args = parser.parse_args()
 
     main(args.location, args.project_link)
