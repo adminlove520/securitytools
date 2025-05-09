@@ -64,10 +64,12 @@ jobs:
           git push origin main
         if: github.event_name == 'schedule' || github.event_name == 'issues'
 
-      # 新增：关闭触发的 Issue（仅当由 Issue 触发时执行）
+      # 替换为 actions-cool/issues-helper@v3 关闭 Issue
       - name: Close the issue
-        uses: actions-ecosystem/action-close-issue@v1
+        uses: actions-cool/issues-helper@v3
         with:
-          issue-number: ${{ github.event.issue.number }}  # 获取触发的 Issue 编号
-          comment: "项目已成功添加，此 Issue 自动关闭。"
-        if: github.event_name == 'issues'  # 仅 Issue 触发时关闭
+          actions: 'close-issue'  # 指定操作类型为关闭 Issue
+          token: ${{ secrets.GITHUB_TOKEN }}  # 传入 GitHub Token 权限
+          issue-number: ${{ github.event.issue.number }}  # 传入触发的 Issue 编号
+          body: "项目已成功添加，此 Issue 自动关闭。"  # 关闭时的评论内容
+        if: github.event_name == 'issues'  # 仅 Issue 触发时执行
