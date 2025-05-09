@@ -793,3 +793,7 @@
 	path = projects/IDA
 	url = https://github.com/HACK-THE-WORLD/IDAPluginList.git
 
+
+[submodule "projects/Web_Framework/ruoyi"]
+	path = projects/Web_Framework/ruoyi
+	url = https://github.com/kk12-30/ruoyi-Vue-tools.git
