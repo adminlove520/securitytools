@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      issues: write
+      issues: write  # 已有写权限，支持关闭 Issue
 
     steps:
       - name: Checkout repository
@@ -63,3 +63,11 @@ jobs:
           git commit -m "Cleanup 404 repositories, update files, and add .gitkeep"
           git push origin main
         if: github.event_name == 'schedule' || github.event_name == 'issues'
+
+      # 新增：关闭触发的 Issue（仅当由 Issue 触发时执行）
+      - name: Close the issue
+        uses: actions-ecosystem/action-close-issue@v1
+        with:
+          issue-number: ${{ github.event.issue.number }}  # 获取触发的 Issue 编号
+          comment: "项目已成功添加，此 Issue 自动关闭。"
+        if: github.event_name == 'issues'  # 仅 Issue 触发时关闭
