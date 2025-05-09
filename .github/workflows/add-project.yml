@@ -63,8 +63,3 @@ jobs:
           git commit -m "Cleanup 404 repositories, update files, and add .gitkeep"
           git push origin main
         if: github.event_name == 'schedule' || github.event_name == 'issues'
-
-      - name: Debug .gitmodules content
-        run: |
-          cat .gitmodules | grep "nuclei-templates"
-        if: github.event_name == 'issues'
