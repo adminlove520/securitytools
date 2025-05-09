@@ -2,6 +2,9 @@ name: Cleanup Repos
 
 on:
   # 新的触发条件
+  push:
+    branches: ["main"]
+  workflow_dispatch:
   schedule:
     - cron: '0 */5 * * *'  # 每 5 小时触发一次
   issues:
