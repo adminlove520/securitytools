@@ -31,8 +31,8 @@ jobs:
       - name: Cleanup 404 repositories & add submodule files
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          LOCATION: ${{ steps.parse_issue.outputs.location }}
-          PROJECT_LINK: ${{ steps.parse_issue.outputs.project_link }}
+          # LOCATION: ${{ steps.parse_issue.outputs.location }}
+          # PROJECT_LINK: ${{ steps.parse_issue.outputs.project_link }}
         run: |
           python .github/scripts/cleanup_repos.py
 
