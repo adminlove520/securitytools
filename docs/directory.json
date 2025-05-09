@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4280,
         "forks": 35751,
-        "stars": 338864,
+        "stars": 338863,
         "is_new": false
     },
     {
@@ -2364,6 +2364,15 @@
         "watchers": 5,
         "forks": 44,
         "stars": 397,
+        "is_new": false
+    },
+    {
+        "path": "projects/Web_Framework/ruoyi",
+        "url": "https://github.com/kk12-30/ruoyi-Vue-tools.git",
+        "description": "\u82e5\u4f9dVue\u6f0f\u6d1e\u68c0\u6d4b\u5de5\u5177",
+        "watchers": 2,
+        "forks": 7,
+        "stars": 109,
         "is_new": false
     }
 ]
