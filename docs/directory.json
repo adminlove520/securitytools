@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 672,
         "forks": 4258,
-        "stars": 66499,
+        "stars": 66500,
         "is_new": false
     },
     {
@@ -381,7 +381,7 @@
         "path": "projects/devsec/networking/nebula",
         "url": "https://github.com/slackhq/nebula.git",
         "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
-        "watchers": 243,
+        "watchers": 242,
         "forks": 1026,
         "stars": 15475,
         "is_new": false
@@ -401,7 +401,7 @@
         "description": "dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",
         "watchers": 321,
         "forks": 1046,
-        "stars": 12008,
+        "stars": 12009,
         "is_new": false
     },
     {
@@ -472,7 +472,7 @@
         "url": "https://github.com/pry0cc/axiom.git",
         "description": "The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!",
         "watchers": 92,
-        "forks": 676,
+        "forks": 677,
         "stars": 4212,
         "is_new": false
     },
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2577,
         "forks": 10560,
-        "stars": 168667,
+        "stars": 168671,
         "is_new": false
     },
     {
@@ -1436,7 +1436,7 @@
         "description": "EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.",
         "watchers": 143,
         "forks": 872,
-        "stars": 5283,
+        "stars": 5284,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 597,
-        "forks": 24911,
-        "stars": 90889,
+        "forks": 24912,
+        "stars": 90893,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 290,
         "forks": 6065,
-        "stars": 69190,
+        "stars": 69192,
         "is_new": false
     },
     {
@@ -2021,7 +2021,7 @@
         "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
         "watchers": 226,
         "forks": 1829,
-        "stars": 12349,
+        "stars": 12350,
         "is_new": false
     },
     {
@@ -2039,7 +2039,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 101,
         "forks": 1309,
-        "stars": 23960,
+        "stars": 23961,
         "is_new": false
     },
     {
