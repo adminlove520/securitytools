@@ -1,1 +1,2 @@
 2025-05-09 19:16:26 - 仓库URL: https://github.com/kk12-30/ruoyi-Vue-tools.git - 删除原因: 未在 .gitmodules 中找到对应子模块，清理失败
+2025-05-09 19:26:07 - 仓库URL: https://github.com/adysec/nuclei_poc.git - 删除原因: 仓库克隆失败，执行清理
