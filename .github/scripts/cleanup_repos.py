@@ -1,6 +1,7 @@
 import os
 import json
 import re
+import argparse  # 新增参数解析模块
 from github import Github
 import requests  # 注：若无需其他功能可移除 requests 导入
 
@@ -54,36 +55,33 @@ def update_directory_json(directory_json_path, repo_url):
     print(f"Updated directory.json: removed entry for {repo_url}")
 
 def main():
-    # 使用相对路径获取项目根目录
+    # 新增：解析命令行传入的仓库 URL
+    parser = argparse.ArgumentParser(description='Clean up failed repository submodule')
+    parser.add_argument('repo_url', type=str, help='URL of the failed repository')
+    args = parser.parse_args()
+    target_url = args.repo_url
+
     root_dir = os.path.abspath(os.getcwd())
     gitmodules_path = os.path.join(root_dir, '.gitmodules')
     directory_json_path = os.path.join(root_dir, 'docs', 'directory.json')
-
-    print(f"尝试查找 .gitmodules 文件路径: {gitmodules_path}")
-    print(f"尝试查找 directory.json 文件路径: {directory_json_path}")
 
     if not os.path.exists(gitmodules_path) or not os.path.exists(directory_json_path):
         print("Either .gitmodules or directory.json does not exist.")
         return
 
-    # 从 directory.json 中读取数据
-    with open(directory_json_path, 'r') as f:
-        data = json.load(f)
-
+    # 从 .gitmodules 中查找匹配的子模块
     with open(gitmodules_path, 'r') as f:
         content = f.read()
-
     pattern = re.compile(r'\[submodule "(.*?)"\]\n\tpath = (.*?)\n\turl = (.*?)\n')
     matches = pattern.findall(content)
 
-    for repo_info in data:
-        project_link = repo_info['url']
-        for repo_name, submodule_path, repo_url in matches:
-            if repo_url == project_link:  # 移除仓库存在检查，直接处理
-                print(f"Repository {repo_url} 克隆失败，执行清理...")
-                remove_submodule(submodule_path)
-                update_gitmodules(gitmodules_path, repo_name)
-                update_directory_json(directory_json_path, repo_url)
+    for repo_name, submodule_path, repo_url in matches:
+        if repo_url == target_url:  # 直接匹配传入的 URL
+            print(f"Repository {repo_url} 克隆失败，执行清理...")
+            remove_submodule(submodule_path)
+            update_gitmodules(gitmodules_path, repo_name)
+            update_directory_json(directory_json_path, repo_url)
+            break  # 找到后退出循环
 
 if __name__ == "__main__":
     main()

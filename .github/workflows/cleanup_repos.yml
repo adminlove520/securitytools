@@ -21,6 +21,18 @@ jobs:
         id: checkout_step  # 标记步骤 ID 用于后续条件判断
         continue-on-error: true  # 允许步骤失败但作业继续执行
 
+      - name: Extract failed repo URL
+        if: steps.checkout_step.outcome == 'failure'
+        run: |
+          # 从 GitHub 日志中提取仓库 URL（匹配格式：fatal: repository 'https://xxx.git' not found）
+          $errorLog = Get-Content $GITHUB_WORKFLOW_LOG -Raw
+          $match = [regex]::Match($errorLog, "fatal: repository '([^']+)'")
+          if ($match.Success) {
+            $repoUrl = $match.Groups[1].Value
+            echo "REPO_URL=$repoUrl" | Out-File -FilePath $GITHUB_ENV -Encoding utf8
+          }
+        shell: pwsh  # 使用 PowerShell 解析日志
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -28,6 +40,6 @@ jobs:
         if: steps.checkout_step.outcome == 'failure'  # 仅当 checkout 失败时准备环境
 
       - name: Run cleanup script
-        working-directory: ./
-        run: python .\securitytools\.github\scripts\cleanup_repos.py
+        working-directory: ${{ github.workspace }}  # 确保工作目录为仓库根路径
+        run: python .github/scripts/cleanup_repos.py ${{ env.REPO_URL }}  # 传递提取的 URL 给脚本
         if: steps.checkout_step.outcome == 'failure'  # 仅当 checkout 失败时执行清理
