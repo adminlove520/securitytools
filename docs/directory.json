@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2577,
         "forks": 10560,
-        "stars": 168664,
+        "stars": 168665,
         "is_new": false
     },
     {
@@ -1184,7 +1184,7 @@
         "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
         "watchers": 374,
         "forks": 2428,
-        "stars": 14322,
+        "stars": 14323,
         "is_new": false
     },
     {
@@ -1912,7 +1912,7 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 597,
-        "forks": 24911,
+        "forks": 24910,
         "stars": 90885,
         "is_new": false
     },
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4280,
         "forks": 35751,
-        "stars": 338862,
+        "stars": 338864,
         "is_new": false
     },
     {
@@ -2364,6 +2364,15 @@
         "watchers": 5,
         "forks": 44,
         "stars": 397,
+        "is_new": false
+    },
+    {
+        "path": "projects/Web_Framework/ruoyi",
+        "url": "https://github.com/kk12-30/ruoyi-Vue-tools.git",
+        "description": "\u82e5\u4f9dVue\u6f0f\u6d1e\u68c0\u6d4b\u5de5\u5177",
+        "watchers": 2,
+        "forks": 7,
+        "stars": 109,
         "is_new": false
     }
 ]
