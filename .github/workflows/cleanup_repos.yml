@@ -8,7 +8,7 @@ on:
     - cron: '0 23 * * *'  # 每周日午夜运行
 
 jobs:
-  add-project:
+  cleanup-project:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -35,12 +35,10 @@ jobs:
           PROJECT_LINK: ${{ steps.parse_issue.outputs.project_link }}
         run: |
           python .github/scripts/cleanup_repos.py
-        if: github.event_name == 'schedule' || github.event_name == 'issues'
 
       - name: Add .gitkeep files
         run: |
           python .github/scripts/add_gitkeep.py
-        if: github.event_name == 'schedule' || github.event_name == 'issues'
 
       - name: Commit changes
         run: |
