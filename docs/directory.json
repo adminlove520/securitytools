@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 672,
         "forks": 4258,
-        "stars": 66510,
+        "stars": 66511,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 687,
         "forks": 3041,
-        "stars": 21222,
+        "stars": 21223,
         "is_new": false
     },
     {
@@ -1166,7 +1166,7 @@
         "description": "ExifTool meta information reader/writer",
         "watchers": 64,
         "forks": 346,
-        "stars": 3707,
+        "stars": 3706,
         "is_new": false
     },
     {
@@ -1579,7 +1579,7 @@
         "url": "https://github.com/mxrch/GHunt.git",
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Offensive Google framework.",
         "watchers": 527,
-        "forks": 1388,
+        "forks": 1389,
         "stars": 16465,
         "is_new": false
     },
@@ -1670,7 +1670,7 @@
         "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
         "watchers": 123,
         "forks": 992,
-        "stars": 8726,
+        "stars": 8727,
         "is_new": false
     },
     {
@@ -1913,7 +1913,7 @@
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 597,
         "forks": 24975,
-        "stars": 91038,
+        "stars": 91042,
         "is_new": false
     },
     {
@@ -1975,8 +1975,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4280,
-        "forks": 35758,
-        "stars": 338914,
+        "forks": 35759,
+        "stars": 338915,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 290,
         "forks": 6069,
-        "stars": 69222,
+        "stars": 69224,
         "is_new": false
     },
     {
@@ -2021,7 +2021,7 @@
         "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
         "watchers": 226,
         "forks": 1828,
-        "stars": 12351,
+        "stars": 12352,
         "is_new": false
     },
     {
@@ -2030,7 +2030,7 @@
         "description": "Elegant Scraper and Crawler Framework for Golang",
         "watchers": 327,
         "forks": 1796,
-        "stars": 24125,
+        "stars": 24126,
         "is_new": false
     },
     {
@@ -2174,7 +2174,7 @@
         "description": "Canarytokens helps track activity and actions on your network.",
         "watchers": 43,
         "forks": 266,
-        "stars": 1838,
+        "stars": 1839,
         "is_new": false
     },
     {
