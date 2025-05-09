@@ -19,4 +19,12 @@ body:
       placeholder: https://github.com/joshhighet/newproject
     validations:
       required: true
+  - type: input
+    id: description
+    attributes:
+      label: project description
+      description: a short description of the project
+      placeholder: a project that does something
+    validations:
+      required: false
   

@@ -114,10 +114,11 @@ def update_issue_comment(token, owner, repo, issue_number, issue_title, location
     issue = repo.get_issue(number=issue_number)
     
     comment_body = f"{message}\n"
-    if message == "已成功将{issue_title} 添加至SecurityTools, 欢迎您的投稿":
-        comment_body += f"欢迎访问: https://www.dfyxsec.com\n"
+    if message.startswith("已成功将"):
+        comment_body += f"欢迎访问隐侠安全客栈: https://www.dfyxsec.com 以进行工具投稿\n"
+        comment_body += f"欢迎访问公众号: ![东方隐侠安全团队](./mp.png)以进行工具投稿\n"
         comment_body += f"项目位置: {location}\n"
-        comment_body += "<p style='text-align: right;'>---东方隐侠安全团队·SecurityTools</p>"  # 使用 HTML 标签实现右对齐
+        comment_body += "<p style='text-align: right;'>---东方隐侠安全团队·SecurityTools</p>"
     
     issue.create_comment(comment_body)
     print("Issue 更新成功")
@@ -156,7 +157,7 @@ def main():
             issue_title = issue_details['title']
 
             # 更新 Issue 评论
-            message = f"已成功将{issue_title} 添加至SecurityTools\n项目位置: {location}\n感谢您的投稿~\n欢迎访问https://www.dfyxsec.com\n<p style='text-align: right;'>---东方隐侠安全团队·SecurityTools</p>"
+            message = f"已成功将{issue_title} 添加至SecurityTools\n项目位置: {location}\n感谢您的投稿~\n欢迎访问隐侠安全客栈: https://www.dfyxsec.com 以进行工具投稿\n欢迎访问公众号: ![东方隐侠安全团队](./mp.png)以进行工具投稿\n<p style='text-align: right;'>---东方隐侠安全团队·SecurityTools</p>"
             update_issue_comment(token, owner, repo, issue_number, issue_title, location, message)
 
             # 设置输出变量
