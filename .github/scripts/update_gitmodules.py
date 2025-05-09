@@ -23,6 +23,7 @@ def parse_issue_body(body):
     lines = body.split('\n')
     location = None
     project_link = None
+    description = None  # 新增变量存储描述
     for i in range(len(lines)):
         line = lines[i].strip()
         if line == '### location in collection':
@@ -37,10 +38,16 @@ def parse_issue_body(body):
                 if next_line:
                     project_link = next_line
                     break
+        elif line == '### project description':  # 新增解析逻辑
+            for j in range(i + 1, len(lines)):
+                next_line = lines[j].strip()
+                if next_line:
+                    description = next_line
+                    break
     if not location or not project_link:
         print("Failed to parse issue body.")
         sys.exit(1)
-    return location, project_link
+    return location, project_link, description  # 返回新增的 description
 
 def check_submodule_exists(location, project_link):
     gitmodules_path = '.gitmodules'
