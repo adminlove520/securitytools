@@ -779,9 +779,6 @@
 	path = projects/scanning/secrets/keyhacks
 	url = https://github.com/streaak/keyhacks.git
 
-[submodule "projects/scanning/vulns/nuclei-templates"]
-	path = projects/scanning/vulns/nuclei-templates
-	url = https://github.com/20142995/nuclei-templates.git
 
 [submodule "projects/scanning/vulns/nuclei_poc"]
 	path = projects/scanning/vulns/nuclei_poc
@@ -799,6 +796,3 @@
 	path = projects/IDA
 	url = https://github.com/HACK-THE-WORLD/IDAPluginList.git
 
-[submodule "project/framworks/vue"]
-	path = project/framworks/vue
-	url = https://github.com/kk12-30/vue-router.git

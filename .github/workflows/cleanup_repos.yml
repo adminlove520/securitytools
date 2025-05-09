@@ -12,6 +12,7 @@ on:
 jobs:
   cleanup:
     runs-on: ubuntu-latest
+    if: false 
     permissions:
       actions: read  # 确保有权限读取日志
     steps:
