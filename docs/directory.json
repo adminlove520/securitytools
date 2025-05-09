@@ -1800,15 +1800,6 @@
     "is_new": false
   },
   {
-    "path": "projects/recon/docs/web-recon",
-    "url": "https://github.com/pr0xh4ck/web-recon.git",
-    "description": "All About Web Recon & OSINT",
-    "watchers": 5,
-    "forks": 18,
-    "stars": 114,
-    "is_new": false
-  },
-  {
     "path": "projects/phishing/detect/opensquat",
     "url": "https://github.com/atenreiro/opensquat.git",
     "description": "The openSquat is an open-source tool for detecting domain look-alikes by searching for newly registered domains that might be impersonating legit domains and brands.",
