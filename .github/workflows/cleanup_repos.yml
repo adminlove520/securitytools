@@ -1,51 +1,30 @@
-name: cleanup_repos as 404
+name: Cleanup Repos
 
 on:
-  push:
-    branches: ["main"]
-  workflow_dispatch:
+  # 新的触发条件
   schedule:
-    - cron: '0 23 * * *'  # 每周日午夜运行
+    - cron: '0 */5 * * *'  # 每 5 小时触发一次
+  issues:
+    types: [opened]  # 有新 issue 提交时触发
 
 jobs:
-  cleanup-project:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      issues: write
-
+  cleanup:
+    runs-on: windows-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: checkout the repo
+        uses: actions/checkout@v2
+        with:
+          submodules: true  # 确保子模块被初始化和更新
+        id: checkout_step  # 标记步骤 ID 用于后续条件判断
+        continue-on-error: true  # 允许步骤失败但作业继续执行
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: 3.12
+        if: steps.checkout_step.outcome == 'failure'  # 仅当 checkout 失败时准备环境
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install PyGithub
-
-      - name: Cleanup 404 repositories & add submodule files
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # LOCATION: ${{ steps.parse_issue.outputs.location }}
-          # PROJECT_LINK: ${{ steps.parse_issue.outputs.project_link }}
-        run: |
-          python .github/scripts/cleanup_repos.py
-
-      - name: Add .gitkeep files
-        run: |
-          python .github/scripts/add_gitkeep.py
-
-      - name: Commit changes
-        run: |
-          git config user.name ProjectBot
-          git config user.email projectbot@yourdomain.com
-          git add .gitmodules
-          git add projects/
-          git add -A
-          git commit -m "Cleanup 404 repositories, update files, and add .gitkeep"
-          git push origin main
+      - name: Run cleanup script
+        working-directory: ./
+        run: python .\securitytools\.github\scripts\cleanup_repos.py
+        if: steps.checkout_step.outcome == 'failure'  # 仅当 checkout 失败时执行清理
