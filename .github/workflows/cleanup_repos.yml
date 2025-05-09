@@ -1,6 +1,9 @@
 name: cleanup_repos as 404
 
 on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
   schedule:
     - cron: '0 23 * * *'  # 每周日午夜运行
 
