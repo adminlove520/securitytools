@@ -13,7 +13,7 @@ jobs:
   cleanup:
     runs-on: ubuntu-latest
     permissions:
-      actions: read  # 新增：授予读取 Actions 日志的权限
+      actions: read  # 确保有权限读取日志
     steps:
       - name: checkout the repo
         uses: actions/checkout@v2
@@ -27,18 +27,17 @@ jobs:
         uses: actions/github-script@v6
         with:
           script: |
-            // 调用 GitHub API 下载作业日志
-            const logs = await github.rest.actions.downloadJobLogsForRun({
+            // 调用正确的 API 方法下载作业日志（无 ForRun 后缀）
+            const logs = await github.rest.actions.downloadJobLogs({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              run_id: context.runId,
-              job_id: context.jobId
+              job_id: context.jobId  // 仅需 job_id 参数
             });
-            // 解码日志为文本并提取 URL（匹配格式：fatal: repository 'https://xxx.git' not found）
+            // 解码日志为文本并提取 URL
             const logText = new TextDecoder().decode(logs.data);
             const match = logText.match(/fatal: repository '([^']+)'/);
             if (match) {
-              core.exportVariable('REPO_URL', match[1]);  // 导出为环境变量供后续步骤使用
+              core.exportVariable('REPO_URL', match[1]);
             } else {
               core.setFailed('未从日志中找到失败仓库的 URL');
             }
