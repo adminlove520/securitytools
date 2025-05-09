@@ -798,3 +798,7 @@
 [submodule "projects/IDA"]
 	path = projects/IDA
 	url = https://github.com/HACK-THE-WORLD/IDAPluginList.git
+
+[submodule "project/framworks/vue"]
+	path = project/framworks/vue
+	url = https://github.com/kk12-30/vue-router.git
