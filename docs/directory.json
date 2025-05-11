@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2578,
         "forks": 10569,
-        "stars": 168884,
+        "stars": 168885,
         "is_new": false
     },
     {
@@ -923,7 +923,7 @@
         "description": "The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.",
         "watchers": 223,
         "forks": 1283,
-        "stars": 4900,
+        "stars": 4901,
         "is_new": false
     },
     {
@@ -966,9 +966,9 @@
         "path": "projects/phishing/detect/phishing_catcher",
         "url": "https://github.com/x0rz/phishing_catcher.git",
         "description": "Phishing catcher using Certstream",
-        "watchers": 85,
+        "watchers": 86,
         "forks": 361,
-        "stars": 1744,
+        "stars": 1745,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 687,
         "forks": 3042,
-        "stars": 21250,
+        "stars": 21251,
         "is_new": false
     },
     {
@@ -1669,7 +1669,7 @@
         "url": "https://github.com/megadose/holehe.git",
         "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
         "watchers": 123,
-        "forks": 994,
+        "forks": 995,
         "stars": 8740,
         "is_new": false
     },
@@ -1913,7 +1913,7 @@
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 600,
         "forks": 25175,
-        "stars": 91564,
+        "stars": 91570,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4282,
         "forks": 35775,
-        "stars": 339055,
+        "stars": 339056,
         "is_new": false
     },
     {
@@ -2030,7 +2030,7 @@
         "description": "Elegant Scraper and Crawler Framework for Golang",
         "watchers": 327,
         "forks": 1797,
-        "stars": 24134,
+        "stars": 24135,
         "is_new": false
     },
     {
