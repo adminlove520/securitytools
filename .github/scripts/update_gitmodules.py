@@ -113,15 +113,15 @@ def update_issue_comment(token, owner, repo, issue_number, issue_title, location
     repo = g.get_repo(f"{owner}/{repo}")
     issue = repo.get_issue(number=issue_number)
     
-    comment_body = f"{message}\n"
-    if message.startswith("已成功将"):
-        comment_body += f"欢迎访问隐侠安全客栈: https://www.dfyxsec.com 以进行工具投稿\n"
-        comment_body += f"欢迎通过公众号: ![东方隐侠安全团队](https://github.com/adminlove520/securitytools/blob/main/.github/scripts/mp.png?raw=true)以进行工具投稿\n"
-        comment_body += f"项目位置: {location}\n"
-        comment_body += "<p style='text-align: right;'>---东方隐侠安全团队·SecurityTools</p>"
+    # comment_body = f"{message}\n"
+    # if message.startswith("已成功将"):
+    #     comment_body += f"欢迎访问隐侠安全客栈: https://www.dfyxsec.com 以进行工具投稿\n"
+    #     comment_body += f"欢迎通过公众号: ![东方隐侠安全团队](https://github.com/adminlove520/securitytools/blob/main/.github/scripts/mp.png?raw=true)以进行工具投稿\n"
+    #     comment_body += f"项目位置: {location}\n"
+    #     comment_body += "<p style='text-align: right;'>---东方隐侠安全团队·SecurityTools</p>"
     
-    issue.create_comment(comment_body)
-    print("Issue 更新成功")
+    # issue.create_comment(comment_body)
+    # print("Issue 更新成功")
 
 def main():
     token = os.getenv('GITHUB_TOKEN')
