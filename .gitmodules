@@ -793,3 +793,7 @@
 
 
 
+
+[submodule "projects/Web_Framework/ruoyi"]
+	path = projects/Web_Framework/ruoyi
+	url = https://github.com/kk12-30/ruoyi-Vue-tools.git
