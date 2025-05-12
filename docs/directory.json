@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2580,
         "forks": 10576,
-        "stars": 168978,
+        "stars": 168979,
         "is_new": false
     },
     {
@@ -644,7 +644,7 @@
         "description": "A curated list of Awesome Threat Intelligence resources",
         "watchers": 575,
         "forks": 1558,
-        "stars": 8763,
+        "stars": 8764,
         "is_new": false
     },
     {
@@ -887,7 +887,7 @@
         "description": "\ud83d\udcf1 objection - runtime mobile exploration",
         "watchers": 158,
         "forks": 886,
-        "stars": 8069,
+        "stars": 8070,
         "is_new": false
     },
     {
@@ -1067,7 +1067,7 @@
         "description": "Passive hostname, domain and IP lookup tool for non-robots",
         "watchers": 17,
         "forks": 55,
-        "stars": 1052,
+        "stars": 1059,
         "is_new": false
     },
     {
@@ -1391,7 +1391,7 @@
         "description": "Fast web fuzzer written in Go",
         "watchers": 162,
         "forks": 1382,
-        "stars": 13930,
+        "stars": 13931,
         "is_new": false
     },
     {
@@ -1949,7 +1949,7 @@
         "description": "Rapidly Search and Hunt through Windows Forensic Artefacts",
         "watchers": 55,
         "forks": 275,
-        "stars": 3136,
+        "stars": 3137,
         "is_new": false
     },
     {
@@ -1975,8 +1975,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4282,
-        "forks": 35791,
-        "stars": 339137,
+        "forks": 35792,
+        "stars": 339142,
         "is_new": false
     },
     {
