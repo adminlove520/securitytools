@@ -1274,7 +1274,7 @@
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
         "watchers": 141,
         "forks": 1101,
-        "stars": 16374,
+        "stars": 16375,
         "is_new": false
     },
     {
@@ -2030,7 +2030,7 @@
         "description": "Elegant Scraper and Crawler Framework for Golang",
         "watchers": 327,
         "forks": 1797,
-        "stars": 24138,
+        "stars": 24137,
         "is_new": false
     },
     {
@@ -2355,6 +2355,15 @@
         "watchers": 5,
         "forks": 44,
         "stars": 397,
+        "is_new": false
+    },
+    {
+        "path": "projects/Web_Framework/ruoyi",
+        "url": "https://github.com/kk12-30/ruoyi-Vue-tools.git",
+        "description": "\u82e5\u4f9dVue\u6f0f\u6d1e\u68c0\u6d4b\u5de5\u5177",
+        "watchers": 2,
+        "forks": 7,
+        "stars": 109,
         "is_new": false
     }
 ]
