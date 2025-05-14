@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 674,
         "forks": 4269,
-        "stars": 66615,
+        "stars": 66616,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2582,
         "forks": 10586,
-        "stars": 169161,
+        "stars": 169162,
         "is_new": false
     },
     {
@@ -1256,7 +1256,7 @@
         "description": "Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.",
         "watchers": 49,
         "forks": 474,
-        "stars": 4344,
+        "stars": 4345,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 608,
-        "forks": 25585,
-        "stars": 93321,
+        "forks": 25589,
+        "stars": 93330,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4281,
         "forks": 35817,
-        "stars": 339330,
+        "stars": 339331,
         "is_new": false
     },
     {
