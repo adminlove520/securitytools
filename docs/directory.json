@@ -5,7 +5,7 @@
         "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
         "watchers": 351,
         "forks": 2908,
-        "stars": 10549,
+        "stars": 10550,
         "is_new": false
     },
     {
@@ -363,9 +363,9 @@
         "path": "projects/devsec/lab/Ventoy",
         "url": "https://github.com/ventoy/Ventoy.git",
         "description": "A new bootable USB solution.",
-        "watchers": 674,
+        "watchers": 675,
         "forks": 4271,
-        "stars": 66631,
+        "stars": 66633,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2580,
         "forks": 10589,
-        "stars": 169238,
+        "stars": 169240,
         "is_new": false
     },
     {
@@ -896,7 +896,7 @@
         "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
         "watchers": 584,
         "forks": 3361,
-        "stars": 18602,
+        "stars": 18603,
         "is_new": false
     },
     {
@@ -931,8 +931,8 @@
         "url": "https://github.com/OWASP/owasp-mstg.git",
         "description": "The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).",
         "watchers": 421,
-        "forks": 2429,
-        "stars": 12202,
+        "forks": 2430,
+        "stars": 12203,
         "is_new": false
     },
     {
@@ -1094,7 +1094,7 @@
         "description": "DNS Enumeration Script",
         "watchers": 95,
         "forks": 555,
-        "stars": 2769,
+        "stars": 2770,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 686,
         "forks": 3045,
-        "stars": 21294,
+        "stars": 21295,
         "is_new": false
     },
     {
@@ -1382,7 +1382,7 @@
         "description": "Automatic SQL injection and database takeover tool",
         "watchers": 1102,
         "forks": 5888,
-        "stars": 34138,
+        "stars": 34139,
         "is_new": false
     },
     {
@@ -1895,7 +1895,7 @@
         "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
         "watchers": 261,
         "forks": 1065,
-        "stars": 11183,
+        "stars": 11184,
         "is_new": false
     },
     {
@@ -1913,7 +1913,7 @@
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 612,
         "forks": 25753,
-        "stars": 93967,
+        "stars": 93971,
         "is_new": false
     },
     {
@@ -1921,7 +1921,7 @@
         "url": "https://github.com/projectdiscovery/katana.git",
         "description": "A next-generation crawling and spidering framework.",
         "watchers": 89,
-        "forks": 728,
+        "forks": 729,
         "stars": 13688,
         "is_new": false
     },
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4280,
         "forks": 35847,
-        "stars": 339586,
+        "stars": 339588,
         "is_new": false
     },
     {
@@ -2273,7 +2273,7 @@
         "description": "Infisical is the open-source platform for secrets management, internal PKI, and SSH access.",
         "watchers": 47,
         "forks": 1169,
-        "stars": 17721,
+        "stars": 17722,
         "is_new": false
     },
     {
