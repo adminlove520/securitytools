@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 675,
         "forks": 4272,
-        "stars": 66644,
+        "stars": 66645,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2580,
         "forks": 10593,
-        "stars": 169340,
+        "stars": 169343,
         "is_new": false
     },
     {
@@ -896,7 +896,7 @@
         "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
         "watchers": 584,
         "forks": 3362,
-        "stars": 18609,
+        "stars": 18610,
         "is_new": false
     },
     {
@@ -1128,9 +1128,9 @@
         "path": "projects/recon/docs/awesome-osint",
         "url": "https://github.com/jivoi/awesome-osint.git",
         "description": ":scream: A curated list of amazingly awesome OSINT",
-        "watchers": 686,
+        "watchers": 687,
         "forks": 3048,
-        "stars": 21306,
+        "stars": 21307,
         "is_new": false
     },
     {
@@ -1184,7 +1184,7 @@
         "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
         "watchers": 374,
         "forks": 2437,
-        "stars": 14366,
+        "stars": 14367,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1150,
         "forks": 7474,
-        "stars": 64413,
+        "stars": 64414,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 614,
-        "forks": 25920,
-        "stars": 94602,
+        "forks": 25921,
+        "stars": 94609,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4283,
         "forks": 35897,
-        "stars": 340182,
+        "stars": 340189,
         "is_new": false
     },
     {
@@ -2039,7 +2039,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 101,
         "forks": 1314,
-        "stars": 24056,
+        "stars": 24057,
         "is_new": false
     },
     {
@@ -2282,7 +2282,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 110,
         "forks": 1052,
-        "stars": 15263,
+        "stars": 15262,
         "is_new": false
     },
     {
