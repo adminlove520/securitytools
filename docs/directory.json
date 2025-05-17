@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 677,
         "forks": 4273,
-        "stars": 66665,
+        "stars": 66666,
         "is_new": false
     },
     {
@@ -490,8 +490,8 @@
         "url": "https://github.com/trimstray/the-book-of-secret-knowledge.git",
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2582,
-        "forks": 10598,
-        "stars": 169418,
+        "forks": 10599,
+        "stars": 169419,
         "is_new": false
     },
     {
@@ -941,7 +941,7 @@
         "description": "iOS Logs, Events, And Plist Parser",
         "watchers": 30,
         "forks": 180,
-        "stars": 875,
+        "stars": 876,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 687,
         "forks": 3048,
-        "stars": 21314,
+        "stars": 21315,
         "is_new": false
     },
     {
@@ -1616,7 +1616,7 @@
         "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
         "watchers": 212,
         "forks": 2378,
-        "stars": 10724,
+        "stars": 10725,
         "is_new": false
     },
     {
@@ -1697,7 +1697,7 @@
         "description": "A OSINT tool to obtain a target's phone number just by having his email address",
         "watchers": 57,
         "forks": 270,
-        "stars": 2323,
+        "stars": 2324,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 615,
-        "forks": 26052,
-        "stars": 95120,
+        "forks": 26056,
+        "stars": 95124,
         "is_new": false
     },
     {
@@ -1948,7 +1948,7 @@
         "url": "https://github.com/WithSecureLabs/chainsaw.git",
         "description": "Rapidly Search and Hunt through Windows Forensic Artefacts",
         "watchers": 55,
-        "forks": 274,
+        "forks": 275,
         "stars": 3146,
         "is_new": false
     },
@@ -1975,8 +1975,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4296,
-        "forks": 35997,
-        "stars": 341573,
+        "forks": 35998,
+        "stars": 341588,
         "is_new": false
     },
     {
@@ -1993,8 +1993,8 @@
         "url": "https://github.com/louislam/uptime-kuma.git",
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 292,
-        "forks": 6109,
-        "stars": 69571,
+        "forks": 6110,
+        "stars": 69572,
         "is_new": false
     },
     {
@@ -2039,7 +2039,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 101,
         "forks": 1316,
-        "stars": 24068,
+        "stars": 24069,
         "is_new": false
     },
     {
