@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 677,
         "forks": 4279,
-        "stars": 66807,
+        "stars": 66812,
         "is_new": false
     },
     {
@@ -770,7 +770,7 @@
         "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
         "watchers": 409,
         "forks": 1528,
-        "stars": 17595,
+        "stars": 17596,
         "is_new": false
     },
     {
@@ -932,7 +932,7 @@
         "description": "The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).",
         "watchers": 419,
         "forks": 2432,
-        "stars": 12212,
+        "stars": 12213,
         "is_new": false
     },
     {
@@ -986,7 +986,7 @@
         "description": "Generate Professional Phishing Emails Fast And Easy",
         "watchers": 45,
         "forks": 206,
-        "stars": 1224,
+        "stars": 1225,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 687,
         "forks": 3049,
-        "stars": 21330,
+        "stars": 21331,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 616,
-        "forks": 26181,
-        "stars": 95555,
+        "forks": 26183,
+        "stars": 95561,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4286,
         "forks": 36103,
-        "stars": 342944,
+        "stars": 342958,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 293,
         "forks": 6114,
-        "stars": 69602,
+        "stars": 69603,
         "is_new": false
     },
     {
@@ -2039,7 +2039,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 101,
         "forks": 1316,
-        "stars": 24080,
+        "stars": 24081,
         "is_new": false
     },
     {
