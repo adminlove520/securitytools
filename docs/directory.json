@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 678,
         "forks": 4290,
-        "stars": 67081,
+        "stars": 67083,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2581,
         "forks": 10610,
-        "stars": 169599,
+        "stars": 169600,
         "is_new": false
     },
     {
@@ -1067,7 +1067,7 @@
         "description": "Passive hostname, domain and IP lookup tool for non-robots",
         "watchers": 18,
         "forks": 65,
-        "stars": 1478,
+        "stars": 1479,
         "is_new": false
     },
     {
@@ -1256,7 +1256,7 @@
         "description": "Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.",
         "watchers": 49,
         "forks": 474,
-        "stars": 4358,
+        "stars": 4359,
         "is_new": false
     },
     {
@@ -1363,8 +1363,8 @@
         "url": "https://github.com/aquasecurity/trivy.git",
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "watchers": 176,
-        "forks": 2552,
-        "stars": 26760,
+        "forks": 2553,
+        "stars": 26761,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1150,
         "forks": 7501,
-        "stars": 64778,
+        "stars": 64788,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 616,
-        "forks": 26341,
-        "stars": 96026,
+        "forks": 26344,
+        "stars": 96032,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4291,
         "forks": 36194,
-        "stars": 344349,
+        "stars": 344357,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 293,
         "forks": 6121,
-        "stars": 69654,
+        "stars": 69655,
         "is_new": false
     },
     {
@@ -2237,7 +2237,7 @@
         "description": "A tool to quickly identify relevant, publicly-available open source intelligence (\"OSINT\") tools and resources, saving valuable time during investigations, research, and analysis.",
         "watchers": 8,
         "forks": 117,
-        "stars": 694,
+        "stars": 695,
         "is_new": false
     },
     {
@@ -2273,7 +2273,7 @@
         "description": "Infisical is the open-source platform for secrets management, internal PKI, and SSH access.",
         "watchers": 47,
         "forks": 1171,
-        "stars": 17755,
+        "stars": 17756,
         "is_new": false
     },
     {
