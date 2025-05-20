@@ -302,7 +302,7 @@
         "description": "An authoritative list of awesome devsecops tools with the help from community experiments and contributions.",
         "watchers": 249,
         "forks": 1022,
-        "stars": 4886,
+        "stars": 4887,
         "is_new": false
     },
     {
@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 678,
         "forks": 4294,
-        "stars": 67326,
+        "stars": 67327,
         "is_new": false
     },
     {
@@ -401,7 +401,7 @@
         "description": "dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",
         "watchers": 320,
         "forks": 1048,
-        "stars": 12034,
+        "stars": 12035,
         "is_new": false
     },
     {
@@ -932,7 +932,7 @@
         "description": "The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).",
         "watchers": 419,
         "forks": 2432,
-        "stars": 12215,
+        "stars": 12216,
         "is_new": false
     },
     {
@@ -1067,7 +1067,7 @@
         "description": "Passive hostname, domain and IP lookup tool for non-robots",
         "watchers": 18,
         "forks": 65,
-        "stars": 1481,
+        "stars": 1482,
         "is_new": false
     },
     {
@@ -1121,7 +1121,7 @@
         "description": "Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting",
         "watchers": 34,
         "forks": 398,
-        "stars": 2156,
+        "stars": 2157,
         "is_new": false
     },
     {
@@ -1220,7 +1220,7 @@
         "description": "AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.",
         "watchers": 100,
         "forks": 922,
-        "stars": 5464,
+        "stars": 5465,
         "is_new": false
     },
     {
@@ -1274,7 +1274,7 @@
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
         "watchers": 141,
         "forks": 1105,
-        "stars": 16449,
+        "stars": 16450,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1153,
         "forks": 7524,
-        "stars": 65311,
+        "stars": 65313,
         "is_new": false
     },
     {
@@ -1696,7 +1696,7 @@
         "url": "https://github.com/martinvigo/email2phonenumber.git",
         "description": "A OSINT tool to obtain a target's phone number just by having his email address",
         "watchers": 57,
-        "forks": 270,
+        "forks": 269,
         "stars": 2326,
         "is_new": false
     },
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 621,
-        "forks": 26529,
-        "stars": 96569,
+        "forks": 26531,
+        "stars": 96572,
         "is_new": false
     },
     {
@@ -1958,7 +1958,7 @@
         "description": "Linux/OSX/FreeBSD resource monitor",
         "watchers": 159,
         "forks": 417,
-        "stars": 10630,
+        "stars": 10631,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4294,
         "forks": 36252,
-        "stars": 345122,
+        "stars": 345131,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 294,
         "forks": 6122,
-        "stars": 69682,
+        "stars": 69680,
         "is_new": false
     },
     {
@@ -2255,7 +2255,7 @@
         "description": ":art: Diagram as Code for prototyping cloud system architectures",
         "watchers": 407,
         "forks": 2624,
-        "stars": 40851,
+        "stars": 40852,
         "is_new": false
     },
     {
@@ -2272,8 +2272,8 @@
         "url": "https://github.com/Infisical/infisical.git",
         "description": "Infisical is the open-source platform for secrets management, internal PKI, and SSH access.",
         "watchers": 47,
-        "forks": 1173,
-        "stars": 17767,
+        "forks": 1174,
+        "stars": 17768,
         "is_new": false
     },
     {
