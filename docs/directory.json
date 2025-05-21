@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 678,
         "forks": 4304,
-        "stars": 67508,
+        "stars": 67510,
         "is_new": false
     },
     {
@@ -383,7 +383,7 @@
         "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
         "watchers": 243,
         "forks": 1032,
-        "stars": 15527,
+        "stars": 15528,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2581,
         "forks": 10620,
-        "stars": 169755,
+        "stars": 169752,
         "is_new": false
     },
     {
@@ -1391,7 +1391,7 @@
         "description": "Fast web fuzzer written in Go",
         "watchers": 164,
         "forks": 1386,
-        "stars": 13986,
+        "stars": 13987,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1154,
         "forks": 7531,
-        "stars": 65483,
+        "stars": 65484,
         "is_new": false
     },
     {
@@ -1669,7 +1669,7 @@
         "url": "https://github.com/megadose/holehe.git",
         "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
         "watchers": 123,
-        "forks": 1003,
+        "forks": 1004,
         "stars": 8790,
         "is_new": false
     },
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 623,
-        "forks": 26686,
-        "stars": 97043,
+        "forks": 26687,
+        "stars": 97048,
         "is_new": false
     },
     {
@@ -1975,8 +1975,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4297,
-        "forks": 36314,
-        "stars": 345815,
+        "forks": 36316,
+        "stars": 345819,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 293,
         "forks": 6129,
-        "stars": 69733,
+        "stars": 69734,
         "is_new": false
     },
     {
