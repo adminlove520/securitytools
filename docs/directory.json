@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2581,
         "forks": 10625,
-        "stars": 169926,
+        "stars": 169927,
         "is_new": false
     },
     {
@@ -1022,7 +1022,7 @@
         "description": null,
         "watchers": 90,
         "forks": 567,
-        "stars": 2296,
+        "stars": 2297,
         "is_new": false
     },
     {
@@ -1112,7 +1112,7 @@
         "description": "Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.",
         "watchers": 113,
         "forks": 728,
-        "stars": 4664,
+        "stars": 4665,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 689,
         "forks": 3053,
-        "stars": 21389,
+        "stars": 21390,
         "is_new": false
     },
     {
@@ -1273,7 +1273,7 @@
         "url": "https://github.com/RustScan/RustScan.git",
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
         "watchers": 141,
-        "forks": 1108,
+        "forks": 1109,
         "stars": 16490,
         "is_new": false
     },
@@ -1363,7 +1363,7 @@
         "url": "https://github.com/aquasecurity/trivy.git",
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "watchers": 175,
-        "forks": 2563,
+        "forks": 2564,
         "stars": 26858,
         "is_new": false
     },
@@ -1382,7 +1382,7 @@
         "description": "Automatic SQL injection and database takeover tool",
         "watchers": 1103,
         "forks": 5895,
-        "stars": 34221,
+        "stars": 34222,
         "is_new": false
     },
     {
@@ -1886,7 +1886,7 @@
         "description": "Open-source offline translation library written in Python",
         "watchers": 55,
         "forks": 329,
-        "stars": 4468,
+        "stars": 4469,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 633,
-        "forks": 27016,
-        "stars": 97807,
+        "forks": 27020,
+        "stars": 97811,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 293,
         "forks": 6135,
-        "stars": 69808,
+        "stars": 69810,
         "is_new": false
     },
     {
@@ -2254,7 +2254,7 @@
         "url": "https://github.com/mingrammer/diagrams.git",
         "description": ":art: Diagram as Code for prototyping cloud system architectures",
         "watchers": 407,
-        "forks": 2625,
+        "forks": 2624,
         "stars": 40881,
         "is_new": false
     },
