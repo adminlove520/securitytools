@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 678,
         "forks": 4318,
-        "stars": 67748,
+        "stars": 67749,
         "is_new": false
     },
     {
@@ -410,7 +410,7 @@
         "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
         "watchers": 245,
         "forks": 1845,
-        "stars": 18539,
+        "stars": 18540,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2581,
         "forks": 10627,
-        "stars": 170029,
+        "stars": 170032,
         "is_new": false
     },
     {
@@ -644,7 +644,7 @@
         "description": "A curated list of Awesome Threat Intelligence resources",
         "watchers": 576,
         "forks": 1563,
-        "stars": 8811,
+        "stars": 8813,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 689,
         "forks": 3057,
-        "stars": 21402,
+        "stars": 21403,
         "is_new": false
     },
     {
@@ -1409,7 +1409,7 @@
         "description": "CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 180 other CMSs",
         "watchers": 73,
         "forks": 509,
-        "stars": 2428,
+        "stars": 2429,
         "is_new": false
     },
     {
@@ -1625,7 +1625,7 @@
         "description": "Know the dangers of credential reuse attacks.",
         "watchers": 99,
         "forks": 412,
-        "stars": 2058,
+        "stars": 2057,
         "is_new": false
     },
     {
@@ -1660,8 +1660,8 @@
         "url": "https://github.com/sherlock-project/sherlock.git",
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1155,
-        "forks": 7539,
-        "stars": 65593,
+        "forks": 7540,
+        "stars": 65595,
         "is_new": false
     },
     {
@@ -1913,7 +1913,7 @@
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 633,
         "forks": 27159,
-        "stars": 98132,
+        "stars": 98134,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4302,
         "forks": 36407,
-        "stars": 346671,
+        "stars": 346673,
         "is_new": false
     },
     {
@@ -2029,7 +2029,7 @@
         "url": "https://github.com/gocolly/colly",
         "description": "Elegant Scraper and Crawler Framework for Golang",
         "watchers": 326,
-        "forks": 1798,
+        "forks": 1797,
         "stars": 24196,
         "is_new": false
     },
