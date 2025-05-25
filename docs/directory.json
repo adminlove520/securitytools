@@ -67,7 +67,7 @@
         "url": "https://github.com/NetSPI/MicroBurst.git",
         "description": "A collection of scripts for assessing Microsoft Azure security",
         "watchers": 56,
-        "forks": 320,
+        "forks": 321,
         "stars": 2167,
         "is_new": false
     },
@@ -94,7 +94,7 @@
         "url": "https://github.com/Azure/Stormspotter.git",
         "description": "Azure Red Team tool for graphing Azure and Azure Active Directory objects",
         "watchers": 53,
-        "forks": 206,
+        "forks": 207,
         "stars": 1603,
         "is_new": false
     },
@@ -175,7 +175,7 @@
         "url": "https://github.com/nccgroup/azucar.git",
         "description": "Security auditing tool for Azure environments",
         "watchers": 32,
-        "forks": 114,
+        "forks": 115,
         "stars": 579,
         "is_new": false
     },
@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 679,
         "forks": 4326,
-        "stars": 67886,
+        "stars": 67890,
         "is_new": false
     },
     {
@@ -1363,7 +1363,7 @@
         "url": "https://github.com/aquasecurity/trivy.git",
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "watchers": 175,
-        "forks": 2565,
+        "forks": 2566,
         "stars": 26876,
         "is_new": false
     },
@@ -1580,7 +1580,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Offensive Google framework.",
         "watchers": 527,
         "forks": 1391,
-        "stars": 16529,
+        "stars": 16530,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1155,
         "forks": 7543,
-        "stars": 65629,
+        "stars": 65630,
         "is_new": false
     },
     {
@@ -1777,7 +1777,7 @@
         "url": "https://github.com/hausec/PowerZure.git",
         "description": "PowerShell framework to assess Azure security",
         "watchers": 39,
-        "forks": 172,
+        "forks": 173,
         "stars": 1188,
         "is_new": false
     },
@@ -1814,7 +1814,7 @@
         "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
         "watchers": 147,
         "forks": 554,
-        "stars": 18939,
+        "stars": 18940,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 635,
-        "forks": 27282,
-        "stars": 98433,
+        "forks": 27283,
+        "stars": 98437,
         "is_new": false
     },
     {
@@ -1922,7 +1922,7 @@
         "description": "A next-generation crawling and spidering framework.",
         "watchers": 89,
         "forks": 730,
-        "stars": 13718,
+        "stars": 13719,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4301,
         "forks": 36436,
-        "stars": 346901,
+        "stars": 346907,
         "is_new": false
     },
     {
@@ -2039,7 +2039,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 101,
         "forks": 1327,
-        "stars": 24168,
+        "stars": 24167,
         "is_new": false
     },
     {
