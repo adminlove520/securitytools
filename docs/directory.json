@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 679,
         "forks": 4330,
-        "stars": 68021,
+        "stars": 68023,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2581,
         "forks": 10631,
-        "stars": 170234,
+        "stars": 170236,
         "is_new": false
     },
     {
@@ -1363,7 +1363,7 @@
         "url": "https://github.com/aquasecurity/trivy.git",
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "watchers": 175,
-        "forks": 2567,
+        "forks": 2568,
         "stars": 26889,
         "is_new": false
     },
@@ -1616,7 +1616,7 @@
         "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
         "watchers": 211,
         "forks": 2376,
-        "stars": 10761,
+        "stars": 10762,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1155,
         "forks": 7545,
-        "stars": 65672,
+        "stars": 65673,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 636,
-        "forks": 27460,
-        "stars": 98897,
+        "forks": 27464,
+        "stars": 98901,
         "is_new": false
     },
     {
@@ -1931,7 +1931,7 @@
         "description": "The web browser built for scraping",
         "watchers": 18,
         "forks": 56,
-        "stars": 1187,
+        "stars": 1188,
         "is_new": false
     },
     {
@@ -1975,8 +1975,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4304,
-        "forks": 36483,
-        "stars": 347247,
+        "forks": 36484,
+        "stars": 347248,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 295,
         "forks": 6146,
-        "stars": 69933,
+        "stars": 69934,
         "is_new": false
     },
     {
@@ -2272,7 +2272,7 @@
         "url": "https://github.com/Infisical/infisical.git",
         "description": "Infisical is the open-source platform for secrets management, internal PKI, and SSH access.",
         "watchers": 47,
-        "forks": 1181,
+        "forks": 1182,
         "stars": 17803,
         "is_new": false
     },
@@ -2318,7 +2318,7 @@
         "description": "\ud83d\udee1\ufe0f A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.",
         "watchers": 78,
         "forks": 468,
-        "stars": 7311,
+        "stars": 7312,
         "is_new": false
     },
     {
