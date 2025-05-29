@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 679,
         "forks": 4350,
-        "stars": 68170,
+        "stars": 68169,
         "is_new": false
     },
     {
@@ -401,7 +401,7 @@
         "description": "dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",
         "watchers": 317,
         "forks": 1049,
-        "stars": 12073,
+        "stars": 12074,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2591,
         "forks": 10679,
-        "stars": 170884,
+        "stars": 170889,
         "is_new": false
     },
     {
@@ -1139,7 +1139,7 @@
         "description": "Collections of tools and methods created to aid in OSINT collection",
         "watchers": 118,
         "forks": 431,
-        "stars": 3039,
+        "stars": 3040,
         "is_new": false
     },
     {
@@ -1364,7 +1364,7 @@
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "watchers": 175,
         "forks": 2567,
-        "stars": 26941,
+        "stars": 26942,
         "is_new": false
     },
     {
@@ -1445,7 +1445,7 @@
         "description": "\ud83d\udd0d A collection of interesting, funny, and depressing search queries to plug into shodan.io \ud83d\udc69\u200d\ud83d\udcbb",
         "watchers": 188,
         "forks": 931,
-        "stars": 6405,
+        "stars": 6406,
         "is_new": false
     },
     {
@@ -1517,7 +1517,7 @@
         "description": null,
         "watchers": 9,
         "forks": 31,
-        "stars": 110,
+        "stars": 111,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1156,
         "forks": 7558,
-        "stars": 65759,
+        "stars": 65758,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 640,
-        "forks": 28029,
-        "stars": 101029,
+        "forks": 28032,
+        "stars": 101039,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4305,
         "forks": 36586,
-        "stars": 347906,
+        "stars": 347908,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 295,
         "forks": 6164,
-        "stars": 70089,
+        "stars": 70088,
         "is_new": false
     },
     {
@@ -2273,7 +2273,7 @@
         "description": "Infisical is the open-source platform for secrets management, internal PKI, and SSH access.",
         "watchers": 47,
         "forks": 1182,
-        "stars": 17823,
+        "stars": 17824,
         "is_new": false
     },
     {
