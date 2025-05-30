@@ -1274,7 +1274,7 @@
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
         "watchers": 141,
         "forks": 1117,
-        "stars": 16547,
+        "stars": 16549,
         "is_new": false
     },
     {
@@ -1391,7 +1391,7 @@
         "description": "Fast web fuzzer written in Go",
         "watchers": 164,
         "forks": 1390,
-        "stars": 14038,
+        "stars": 14039,
         "is_new": false
     },
     {
@@ -1553,7 +1553,7 @@
         "description": "Main Sigma Rule Repository",
         "watchers": 352,
         "forks": 2348,
-        "stars": 9254,
+        "stars": 9255,
         "is_new": false
     },
     {
@@ -1571,7 +1571,7 @@
         "description": "Python library for accurately querying username and email usage on online platforms",
         "watchers": 35,
         "forks": 192,
-        "stars": 1590,
+        "stars": 1591,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1156,
         "forks": 7561,
-        "stars": 65780,
+        "stars": 65781,
         "is_new": false
     },
     {
@@ -1679,7 +1679,7 @@
         "description": "Python library for accurately querying username and email usage on online platforms",
         "watchers": 35,
         "forks": 192,
-        "stars": 1590,
+        "stars": 1591,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 639,
-        "forks": 28200,
-        "stars": 101588,
+        "forks": 28204,
+        "stars": 101590,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4305,
         "forks": 36604,
-        "stars": 348064,
+        "stars": 348066,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 295,
         "forks": 6166,
-        "stars": 70124,
+        "stars": 70127,
         "is_new": false
     },
     {
