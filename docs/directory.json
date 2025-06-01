@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2600,
         "forks": 10751,
-        "stars": 171951,
+        "stars": 171956,
         "is_new": false
     },
     {
@@ -769,7 +769,7 @@
         "url": "https://github.com/bettercap/bettercap.git",
         "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
         "watchers": 410,
-        "forks": 1533,
+        "forks": 1534,
         "stars": 17652,
         "is_new": false
     },
@@ -1183,7 +1183,7 @@
         "url": "https://github.com/smicallef/spiderfoot.git",
         "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
         "watchers": 375,
-        "forks": 2445,
+        "forks": 2446,
         "stars": 14499,
         "is_new": false
     },
@@ -1399,7 +1399,7 @@
         "url": "https://github.com/maurosoria/dirsearch.git",
         "description": "Web path scanner",
         "watchers": 308,
-        "forks": 2375,
+        "forks": 2376,
         "stars": 12945,
         "is_new": false
     },
@@ -1553,7 +1553,7 @@
         "description": "Main Sigma Rule Repository",
         "watchers": 352,
         "forks": 2347,
-        "stars": 9259,
+        "stars": 9260,
         "is_new": false
     },
     {
@@ -1660,8 +1660,8 @@
         "url": "https://github.com/sherlock-project/sherlock.git",
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1155,
-        "forks": 7563,
-        "stars": 65815,
+        "forks": 7564,
+        "stars": 65816,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 647,
-        "forks": 28491,
-        "stars": 102158,
+        "forks": 28490,
+        "stars": 102160,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4304,
         "forks": 36630,
-        "stars": 348437,
+        "stars": 348440,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 295,
         "forks": 6177,
-        "stars": 70185,
+        "stars": 70187,
         "is_new": false
     },
     {
@@ -2021,7 +2021,7 @@
         "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
         "watchers": 226,
         "forks": 1856,
-        "stars": 12554,
+        "stars": 12555,
         "is_new": false
     },
     {
@@ -2281,7 +2281,7 @@
         "url": "https://github.com/soxoj/maigret.git",
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 112,
-        "forks": 1061,
+        "forks": 1062,
         "stars": 15362,
         "is_new": false
     },
