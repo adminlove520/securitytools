@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2603,
         "forks": 10773,
-        "stars": 172288,
+        "stars": 172291,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1155,
         "forks": 7566,
-        "stars": 65851,
+        "stars": 65853,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 647,
-        "forks": 28799,
-        "stars": 103053,
+        "forks": 28801,
+        "stars": 103058,
         "is_new": false
     },
     {
@@ -1975,8 +1975,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4304,
-        "forks": 36670,
-        "stars": 348856,
+        "forks": 36669,
+        "stars": 348857,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 295,
         "forks": 6189,
-        "stars": 70297,
+        "stars": 70301,
         "is_new": false
     },
     {
@@ -2273,7 +2273,7 @@
         "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
         "watchers": 47,
         "forks": 1185,
-        "stars": 17858,
+        "stars": 17859,
         "is_new": false
     },
     {
