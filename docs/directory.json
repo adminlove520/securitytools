@@ -410,7 +410,7 @@
         "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
         "watchers": 245,
         "forks": 1852,
-        "stars": 18596,
+        "stars": 18597,
         "is_new": false
     },
     {
@@ -489,9 +489,9 @@
         "path": "projects/docs/the-book-of-secret-knowledge",
         "url": "https://github.com/trimstray/the-book-of-secret-knowledge.git",
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-        "watchers": 2603,
+        "watchers": 2604,
         "forks": 10780,
-        "stars": 172421,
+        "stars": 172423,
         "is_new": false
     },
     {
@@ -1283,7 +1283,7 @@
         "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
         "watchers": 653,
         "forks": 3128,
-        "stars": 24529,
+        "stars": 24530,
         "is_new": false
     },
     {
@@ -1659,9 +1659,9 @@
         "path": "projects/socials/recon/sherlock",
         "url": "https://github.com/sherlock-project/sherlock.git",
         "description": "Hunt down social media accounts by username across social networks",
-        "watchers": 1154,
+        "watchers": 1155,
         "forks": 7567,
-        "stars": 65874,
+        "stars": 65875,
         "is_new": false
     },
     {
@@ -1832,7 +1832,7 @@
         "description": "An OOB interaction gathering server and client library",
         "watchers": 42,
         "forks": 392,
-        "stars": 3794,
+        "stars": 3795,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 651,
-        "forks": 28981,
-        "stars": 103575,
+        "forks": 28984,
+        "stars": 103580,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4306,
         "forks": 36694,
-        "stars": 349032,
+        "stars": 349035,
         "is_new": false
     },
     {
@@ -2039,7 +2039,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 102,
         "forks": 1330,
-        "stars": 24299,
+        "stars": 24300,
         "is_new": false
     },
     {
