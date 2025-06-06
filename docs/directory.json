@@ -157,7 +157,7 @@
         "url": "https://github.com/Azure/Azure-Network-Security.git",
         "description": "Resources for improving Customer Experience with Azure Network Security",
         "watchers": 51,
-        "forks": 324,
+        "forks": 325,
         "stars": 839,
         "is_new": false
     },
@@ -392,7 +392,7 @@
         "description": "An incredibly fast proxy checker & IP rotator with ease.",
         "watchers": 35,
         "forks": 206,
-        "stars": 1848,
+        "stars": 1849,
         "is_new": false
     },
     {
@@ -410,7 +410,7 @@
         "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
         "watchers": 245,
         "forks": 1855,
-        "stars": 18604,
+        "stars": 18605,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2608,
         "forks": 10792,
-        "stars": 172654,
+        "stars": 172655,
         "is_new": false
     },
     {
@@ -1040,7 +1040,7 @@
         "description": "Clusters and elements to attach to MISP events or attributes (like threat actors)",
         "watchers": 49,
         "forks": 271,
-        "stars": 563,
+        "stars": 564,
         "is_new": false
     },
     {
@@ -1121,7 +1121,7 @@
         "description": "Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting",
         "watchers": 35,
         "forks": 397,
-        "stars": 2167,
+        "stars": 2168,
         "is_new": false
     },
     {
@@ -1670,7 +1670,7 @@
         "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
         "watchers": 124,
         "forks": 1010,
-        "stars": 8853,
+        "stars": 8854,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 653,
-        "forks": 29301,
-        "stars": 104444,
+        "forks": 29305,
+        "stars": 104452,
         "is_new": false
     },
     {
@@ -1931,7 +1931,7 @@
         "description": "The web browser built for scraping",
         "watchers": 18,
         "forks": 58,
-        "stars": 1196,
+        "stars": 1197,
         "is_new": false
     },
     {
@@ -1975,8 +1975,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4311,
-        "forks": 36750,
-        "stars": 349542,
+        "forks": 36751,
+        "stars": 349543,
         "is_new": false
     },
     {
@@ -2039,7 +2039,7 @@
         "description": "The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
         "watchers": 103,
         "forks": 1332,
-        "stars": 24328,
+        "stars": 24329,
         "is_new": false
     },
     {
