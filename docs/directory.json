@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2613,
         "forks": 10823,
-        "stars": 173144,
+        "stars": 173145,
         "is_new": false
     },
     {
@@ -869,7 +869,7 @@
         "description": "Community guide to securing and improving privacy on macOS.",
         "watchers": 677,
         "forks": 1462,
-        "stars": 21835,
+        "stars": 21836,
         "is_new": false
     },
     {
@@ -1274,7 +1274,7 @@
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
         "watchers": 143,
         "forks": 1126,
-        "stars": 16642,
+        "stars": 16643,
         "is_new": false
     },
     {
@@ -1391,7 +1391,7 @@
         "description": "Fast web fuzzer written in Go",
         "watchers": 163,
         "forks": 1399,
-        "stars": 14101,
+        "stars": 14102,
         "is_new": false
     },
     {
@@ -1436,7 +1436,7 @@
         "description": "EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.",
         "watchers": 143,
         "forks": 879,
-        "stars": 5325,
+        "stars": 5326,
         "is_new": false
     },
     {
@@ -1616,7 +1616,7 @@
         "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
         "watchers": 212,
         "forks": 2414,
-        "stars": 10866,
+        "stars": 10867,
         "is_new": false
     },
     {
@@ -1913,7 +1913,7 @@
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 665,
         "forks": 30085,
-        "stars": 106347,
+        "stars": 106352,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4312,
         "forks": 36882,
-        "stars": 350823,
+        "stars": 350825,
         "is_new": false
     },
     {
@@ -1993,7 +1993,7 @@
         "url": "https://github.com/louislam/uptime-kuma.git",
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 296,
-        "forks": 6230,
+        "forks": 6229,
         "stars": 70630,
         "is_new": false
     },
@@ -2327,7 +2327,7 @@
         "description": "Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.",
         "watchers": 107,
         "forks": 1104,
-        "stars": 5539,
+        "stars": 5540,
         "is_new": false
     },
     {
