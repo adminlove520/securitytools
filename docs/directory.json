@@ -284,7 +284,7 @@
         "description": "This repository contains a collection of cheatsheets I have put together for tools related to pentesting organizations that leverage cloud providers.",
         "watchers": 101,
         "forks": 535,
-        "stars": 2704,
+        "stars": 2705,
         "is_new": false
     },
     {
@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 678,
         "forks": 4367,
-        "stars": 68547,
+        "stars": 68545,
         "is_new": false
     },
     {
@@ -770,7 +770,7 @@
         "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
         "watchers": 411,
         "forks": 1535,
-        "stars": 17699,
+        "stars": 17700,
         "is_new": false
     },
     {
@@ -895,7 +895,7 @@
         "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF.git",
         "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
         "watchers": 586,
-        "forks": 3376,
+        "forks": 3375,
         "stars": 18795,
         "is_new": false
     },
@@ -1911,9 +1911,9 @@
         "path": "projects/platforms/n8n",
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "watchers": 665,
-        "forks": 30268,
-        "stars": 106756,
+        "watchers": 666,
+        "forks": 30270,
+        "stars": 106764,
         "is_new": false
     },
     {
@@ -1975,8 +1975,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4314,
-        "forks": 36895,
-        "stars": 350993,
+        "forks": 36896,
+        "stars": 350994,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 294,
         "forks": 6233,
-        "stars": 70668,
+        "stars": 70669,
         "is_new": false
     },
     {
@@ -2282,7 +2282,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 112,
         "forks": 1071,
-        "stars": 15413,
+        "stars": 15414,
         "is_new": false
     },
     {
