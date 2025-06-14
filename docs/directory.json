@@ -462,9 +462,9 @@
         "path": "projects/devsec/tools/ctf-tools",
         "url": "https://github.com/zardus/ctf-tools.git",
         "description": "Some setup scripts for security research tools.",
-        "watchers": 292,
+        "watchers": 293,
         "forks": 1910,
-        "stars": 8927,
+        "stars": 8928,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2618,
         "forks": 10833,
-        "stars": 173416,
+        "stars": 173418,
         "is_new": false
     },
     {
@@ -706,7 +706,7 @@
         "url": "https://github.com/tylerha97/awesome-reversing.git",
         "description": "A curated list of awesome reversing resources",
         "watchers": 197,
-        "forks": 583,
+        "forks": 584,
         "stars": 4276,
         "is_new": false
     },
@@ -896,7 +896,7 @@
         "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
         "watchers": 587,
         "forks": 3377,
-        "stars": 18804,
+        "stars": 18805,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 690,
         "forks": 3074,
-        "stars": 21609,
+        "stars": 21610,
         "is_new": false
     },
     {
@@ -1283,7 +1283,7 @@
         "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
         "watchers": 653,
         "forks": 3136,
-        "stars": 24566,
+        "stars": 24567,
         "is_new": false
     },
     {
@@ -1427,7 +1427,7 @@
         "description": "Take a list of domains and probe for working HTTP and HTTPS servers",
         "watchers": 46,
         "forks": 528,
-        "stars": 3008,
+        "stars": 3009,
         "is_new": false
     },
     {
@@ -1436,7 +1436,7 @@
         "description": "EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.",
         "watchers": 143,
         "forks": 879,
-        "stars": 5326,
+        "stars": 5327,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1154,
         "forks": 7590,
-        "stars": 66050,
+        "stars": 66051,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 665,
-        "forks": 30572,
-        "stars": 107414,
+        "forks": 30577,
+        "stars": 107419,
         "is_new": false
     },
     {
@@ -1922,7 +1922,7 @@
         "description": "A next-generation crawling and spidering framework.",
         "watchers": 91,
         "forks": 746,
-        "stars": 13807,
+        "stars": 13808,
         "is_new": false
     },
     {
@@ -2200,8 +2200,8 @@
         "url": "https://github.com/cipher387/Dorks-collections-list.git",
         "description": "List of Github repositories and articles with list of dorks for different search engines",
         "watchers": 46,
-        "forks": 353,
-        "stars": 2317,
+        "forks": 354,
+        "stars": 2318,
         "is_new": false
     },
     {
@@ -2282,7 +2282,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 112,
         "forks": 1070,
-        "stars": 15431,
+        "stars": 15432,
         "is_new": false
     },
     {
