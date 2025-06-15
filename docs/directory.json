@@ -248,7 +248,7 @@
         "description": ":cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud",
         "watchers": 39,
         "forks": 245,
-        "stars": 2037,
+        "stars": 2038,
         "is_new": false
     },
     {
@@ -427,7 +427,7 @@
         "url": "https://github.com/rofl0r/microsocks.git",
         "description": "tiny, portable SOCKS5 server with very moderate resource usage",
         "watchers": 40,
-        "forks": 299,
+        "forks": 300,
         "stars": 1760,
         "is_new": false
     },
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2618,
         "forks": 10836,
-        "stars": 173525,
+        "stars": 173526,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 691,
         "forks": 3075,
-        "stars": 21624,
+        "stars": 21625,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1154,
         "forks": 7591,
-        "stars": 66064,
+        "stars": 66065,
         "is_new": false
     },
     {
@@ -1913,7 +1913,7 @@
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 667,
         "forks": 30715,
-        "stars": 107690,
+        "stars": 107694,
         "is_new": false
     },
     {
@@ -1975,8 +1975,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4317,
-        "forks": 36937,
-        "stars": 351403,
+        "forks": 36936,
+        "stars": 351406,
         "is_new": false
     },
     {
