@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2620,
         "forks": 10838,
-        "stars": 173611,
+        "stars": 173615,
         "is_new": false
     },
     {
@@ -1129,7 +1129,7 @@
         "url": "https://github.com/jivoi/awesome-osint.git",
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 691,
-        "forks": 3078,
+        "forks": 3079,
         "stars": 21634,
         "is_new": false
     },
@@ -1886,7 +1886,7 @@
         "description": "Open-source offline translation library written in Python",
         "watchers": 55,
         "forks": 336,
-        "stars": 4538,
+        "stars": 4539,
         "is_new": false
     },
     {
@@ -1895,7 +1895,7 @@
         "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
         "watchers": 261,
         "forks": 1075,
-        "stars": 11269,
+        "stars": 11270,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 670,
-        "forks": 30914,
-        "stars": 108058,
+        "forks": 30917,
+        "stars": 108066,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4316,
         "forks": 36948,
-        "stars": 351555,
+        "stars": 351554,
         "is_new": false
     },
     {
@@ -2273,7 +2273,7 @@
         "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
         "watchers": 48,
         "forks": 1199,
-        "stars": 18004,
+        "stars": 18005,
         "is_new": false
     },
     {
