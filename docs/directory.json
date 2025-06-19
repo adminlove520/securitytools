@@ -104,7 +104,7 @@
         "description": "Collection of KQL queries",
         "watchers": 90,
         "forks": 364,
-        "stars": 1537,
+        "stars": 1538,
         "is_new": false
     },
     {
@@ -490,8 +490,8 @@
         "url": "https://github.com/trimstray/the-book-of-secret-knowledge.git",
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2624,
-        "forks": 10849,
-        "stars": 173863,
+        "forks": 10850,
+        "stars": 173865,
         "is_new": false
     },
     {
@@ -770,7 +770,7 @@
         "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
         "watchers": 412,
         "forks": 1537,
-        "stars": 17724,
+        "stars": 17725,
         "is_new": false
     },
     {
@@ -1229,7 +1229,7 @@
         "description": "\ud83d\udd0e Find origin servers of websites behind CloudFlare by using Internet-wide scan data from Censys.",
         "watchers": 59,
         "forks": 365,
-        "stars": 2750,
+        "stars": 2751,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 674,
-        "forks": 31441,
-        "stars": 109182,
+        "forks": 31442,
+        "stars": 109188,
         "is_new": false
     },
     {
@@ -2327,7 +2327,7 @@
         "description": "Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.",
         "watchers": 108,
         "forks": 1105,
-        "stars": 5550,
+        "stars": 5551,
         "is_new": false
     },
     {
