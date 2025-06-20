@@ -490,7 +490,7 @@
         "url": "https://github.com/trimstray/the-book-of-secret-knowledge.git",
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2625,
-        "forks": 10856,
+        "forks": 10855,
         "stars": 173948,
         "is_new": false
     },
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 694,
         "forks": 3081,
-        "stars": 21684,
+        "stars": 21685,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 676,
-        "forks": 31616,
-        "stars": 109650,
+        "forks": 31617,
+        "stars": 109659,
         "is_new": false
     },
     {
@@ -1975,8 +1975,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4316,
-        "forks": 37002,
-        "stars": 351978,
+        "forks": 37003,
+        "stars": 351979,
         "is_new": false
     },
     {
