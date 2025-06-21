@@ -248,7 +248,7 @@
         "description": ":cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud",
         "watchers": 39,
         "forks": 246,
-        "stars": 2041,
+        "stars": 2042,
         "is_new": false
     },
     {
@@ -266,7 +266,7 @@
         "description": "Multi-Cloud Security Auditing Tool",
         "watchers": 140,
         "forks": 1115,
-        "stars": 7194,
+        "stars": 7195,
         "is_new": false
     },
     {
@@ -725,7 +725,7 @@
         "description": "UNIX-like reverse engineering framework and command-line toolset",
         "watchers": 491,
         "forks": 3084,
-        "stars": 21842,
+        "stars": 21843,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 695,
         "forks": 3082,
-        "stars": 21701,
+        "stars": 21702,
         "is_new": false
     },
     {
@@ -1274,7 +1274,7 @@
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
         "watchers": 143,
         "forks": 1131,
-        "stars": 16712,
+        "stars": 16713,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 677,
-        "forks": 31760,
-        "stars": 110163,
+        "forks": 31761,
+        "stars": 110171,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4317,
         "forks": 37009,
-        "stars": 352059,
+        "stars": 352060,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 291,
         "forks": 6267,
-        "stars": 71042,
+        "stars": 71043,
         "is_new": false
     },
     {
@@ -2326,7 +2326,7 @@
         "url": "https://github.com/streaak/keyhacks.git",
         "description": "Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.",
         "watchers": 108,
-        "forks": 1105,
+        "forks": 1106,
         "stars": 5551,
         "is_new": false
     },
