@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 679,
         "forks": 4377,
-        "stars": 68818,
+        "stars": 68819,
         "is_new": false
     },
     {
@@ -392,7 +392,7 @@
         "description": "An incredibly fast proxy checker & IP rotator with ease.",
         "watchers": 35,
         "forks": 206,
-        "stars": 1860,
+        "stars": 1861,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2627,
         "forks": 10871,
-        "stars": 174286,
+        "stars": 174287,
         "is_new": false
     },
     {
@@ -536,7 +536,7 @@
         "description": "A collection of smart contract vulnerabilities along with prevention methods",
         "watchers": 42,
         "forks": 290,
-        "stars": 2160,
+        "stars": 2161,
         "is_new": false
     },
     {
@@ -1184,7 +1184,7 @@
         "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
         "watchers": 377,
         "forks": 2474,
-        "stars": 14670,
+        "stars": 14671,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 683,
-        "forks": 32279,
-        "stars": 111628,
+        "forks": 32282,
+        "stars": 111627,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4323,
         "forks": 37054,
-        "stars": 352873,
+        "stars": 352882,
         "is_new": false
     },
     {
@@ -2273,7 +2273,7 @@
         "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
         "watchers": 48,
         "forks": 1207,
-        "stars": 18114,
+        "stars": 18115,
         "is_new": false
     },
     {
