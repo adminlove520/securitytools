@@ -158,7 +158,7 @@
         "description": "Resources for improving Customer Experience with Azure Network Security",
         "watchers": 53,
         "forks": 341,
-        "stars": 890,
+        "stars": 891,
         "is_new": false
     },
     {
@@ -401,7 +401,7 @@
         "description": "dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",
         "watchers": 315,
         "forks": 1056,
-        "stars": 12190,
+        "stars": 12191,
         "is_new": false
     },
     {
@@ -725,7 +725,7 @@
         "description": "UNIX-like reverse engineering framework and command-line toolset",
         "watchers": 491,
         "forks": 3084,
-        "stars": 21869,
+        "stars": 21870,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 697,
         "forks": 3086,
-        "stars": 21759,
+        "stars": 21760,
         "is_new": false
     },
     {
@@ -1553,7 +1553,7 @@
         "description": "Main Sigma Rule Repository",
         "watchers": 351,
         "forks": 2358,
-        "stars": 9332,
+        "stars": 9333,
         "is_new": false
     },
     {
@@ -1913,7 +1913,7 @@
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 692,
         "forks": 32791,
-        "stars": 112730,
+        "stars": 112732,
         "is_new": false
     },
     {
@@ -1975,7 +1975,7 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4323,
-        "forks": 37116,
+        "forks": 37117,
         "stars": 353683,
         "is_new": false
     },
