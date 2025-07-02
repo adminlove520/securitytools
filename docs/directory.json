@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2629,
         "forks": 10900,
-        "stars": 175009,
+        "stars": 175010,
         "is_new": false
     },
     {
@@ -914,7 +914,7 @@
         "description": "An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.",
         "watchers": 109,
         "forks": 352,
-        "stars": 3229,
+        "stars": 3230,
         "is_new": false
     },
     {
@@ -1184,7 +1184,7 @@
         "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
         "watchers": 378,
         "forks": 2477,
-        "stars": 14728,
+        "stars": 14727,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 703,
-        "forks": 33600,
-        "stars": 114348,
+        "forks": 33603,
+        "stars": 114351,
         "is_new": false
     },
     {
@@ -1993,8 +1993,8 @@
         "url": "https://github.com/louislam/uptime-kuma.git",
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 291,
-        "forks": 6316,
-        "stars": 71435,
+        "forks": 6317,
+        "stars": 71434,
         "is_new": false
     },
     {
@@ -2021,7 +2021,7 @@
         "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
         "watchers": 225,
         "forks": 1896,
-        "stars": 12807,
+        "stars": 12808,
         "is_new": false
     },
     {
@@ -2039,7 +2039,7 @@
         "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring\u2014all for free or enjoy our SaaS plan!",
         "watchers": 103,
         "forks": 1355,
-        "stars": 24639,
+        "stars": 24641,
         "is_new": false
     },
     {
