@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 679,
         "forks": 4388,
-        "stars": 68994,
+        "stars": 68995,
         "is_new": false
     },
     {
@@ -489,9 +489,9 @@
         "path": "projects/docs/the-book-of-secret-knowledge",
         "url": "https://github.com/trimstray/the-book-of-secret-knowledge.git",
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-        "watchers": 2629,
+        "watchers": 2628,
         "forks": 10902,
-        "stars": 175107,
+        "stars": 175108,
         "is_new": false
     },
     {
@@ -545,7 +545,7 @@
         "description": "Docker Cheat Sheet",
         "watchers": 739,
         "forks": 4655,
-        "stars": 22316,
+        "stars": 22317,
         "is_new": false
     },
     {
@@ -653,7 +653,7 @@
         "description": "Open Cyber Threat Intelligence Platform",
         "watchers": 144,
         "forks": 1071,
-        "stars": 7452,
+        "stars": 7453,
         "is_new": false
     },
     {
@@ -1760,7 +1760,7 @@
         "description": "Collaborative Incident Response platform",
         "watchers": 30,
         "forks": 234,
-        "stars": 1212,
+        "stars": 1213,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 705,
-        "forks": 33772,
-        "stars": 114695,
+        "forks": 33776,
+        "stars": 114696,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4325,
         "forks": 37190,
-        "stars": 354648,
+        "stars": 354649,
         "is_new": false
     },
     {
