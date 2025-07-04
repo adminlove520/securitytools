@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 681,
         "forks": 4388,
-        "stars": 69013,
+        "stars": 69012,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2627,
         "forks": 10903,
-        "stars": 175193,
+        "stars": 175195,
         "is_new": false
     },
     {
@@ -1103,7 +1103,7 @@
         "description": "HostHunter a recon tool for discovering hostnames using OSINT techniques.",
         "watchers": 45,
         "forks": 193,
-        "stars": 1132,
+        "stars": 1133,
         "is_new": false
     },
     {
@@ -1670,7 +1670,7 @@
         "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
         "watchers": 126,
         "forks": 1026,
-        "stars": 8977,
+        "stars": 8978,
         "is_new": false
     },
     {
@@ -1813,7 +1813,7 @@
         "url": "https://github.com/FiloSottile/age.git",
         "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
         "watchers": 149,
-        "forks": 553,
+        "forks": 552,
         "stars": 19164,
         "is_new": false
     },
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 706,
-        "forks": 33913,
-        "stars": 114993,
+        "forks": 33916,
+        "stars": 114997,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4326,
         "forks": 37207,
-        "stars": 354775,
+        "stars": 354777,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 292,
         "forks": 6331,
-        "stars": 71515,
+        "stars": 71516,
         "is_new": false
     },
     {
@@ -2020,7 +2020,7 @@
         "url": "https://github.com/wazuh/wazuh",
         "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
         "watchers": 225,
-        "forks": 1898,
+        "forks": 1897,
         "stars": 12828,
         "is_new": false
     },
@@ -2039,7 +2039,7 @@
         "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring\u2014all for free or enjoy our SaaS plan!",
         "watchers": 103,
         "forks": 1357,
-        "stars": 24653,
+        "stars": 24654,
         "is_new": false
     },
     {
@@ -2273,7 +2273,7 @@
         "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
         "watchers": 49,
         "forks": 1229,
-        "stars": 18476,
+        "stars": 18481,
         "is_new": false
     },
     {
