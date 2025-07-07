@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 682,
         "forks": 4389,
-        "stars": 69070,
+        "stars": 69071,
         "is_new": false
     },
     {
@@ -490,8 +490,8 @@
         "url": "https://github.com/trimstray/the-book-of-secret-knowledge.git",
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2627,
-        "forks": 10922,
-        "stars": 175532,
+        "forks": 10921,
+        "stars": 175536,
         "is_new": false
     },
     {
@@ -1184,7 +1184,7 @@
         "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
         "watchers": 378,
         "forks": 2483,
-        "stars": 14755,
+        "stars": 14756,
         "is_new": false
     },
     {
@@ -1436,7 +1436,7 @@
         "description": "EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.",
         "watchers": 143,
         "forks": 884,
-        "stars": 5356,
+        "stars": 5357,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 712,
-        "forks": 34354,
-        "stars": 115823,
+        "forks": 34357,
+        "stars": 115827,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4330,
         "forks": 37249,
-        "stars": 355201,
+        "stars": 355202,
         "is_new": false
     },
     {
@@ -2174,7 +2174,7 @@
         "description": "Canarytokens helps track activity and actions on your network.",
         "watchers": 43,
         "forks": 266,
-        "stars": 1864,
+        "stars": 1865,
         "is_new": false
     },
     {
