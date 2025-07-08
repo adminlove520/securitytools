@@ -12,7 +12,7 @@
         "path": "projects/adversarysim/platforms/caldera",
         "url": "https://github.com/mitre/caldera.git",
         "description": "Automated Adversary Emulation Platform",
-        "watchers": 179,
+        "watchers": 180,
         "forks": 1187,
         "stars": 6257,
         "is_new": false
@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 684,
         "forks": 4392,
-        "stars": 69090,
+        "stars": 69091,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2627,
         "forks": 10933,
-        "stars": 175646,
+        "stars": 175651,
         "is_new": false
     },
     {
@@ -1670,7 +1670,7 @@
         "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
         "watchers": 127,
         "forks": 1028,
-        "stars": 9003,
+        "stars": 9004,
         "is_new": false
     },
     {
@@ -1706,7 +1706,7 @@
         "description": ":snake: - Crawler on tor network sites, searching for keywords.",
         "watchers": 7,
         "forks": 16,
-        "stars": 144,
+        "stars": 145,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 716,
-        "forks": 34537,
-        "stars": 116191,
+        "forks": 34541,
+        "stars": 116196,
         "is_new": false
     },
     {
@@ -1921,7 +1921,7 @@
         "url": "https://github.com/projectdiscovery/katana.git",
         "description": "A next-generation crawling and spidering framework.",
         "watchers": 91,
-        "forks": 757,
+        "forks": 758,
         "stars": 13906,
         "is_new": false
     },
@@ -1975,8 +1975,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4331,
-        "forks": 37277,
-        "stars": 355331,
+        "forks": 37278,
+        "stars": 355333,
         "is_new": false
     },
     {
