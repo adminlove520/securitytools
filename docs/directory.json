@@ -490,8 +490,8 @@
         "url": "https://github.com/trimstray/the-book-of-secret-knowledge.git",
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2627,
-        "forks": 10944,
-        "stars": 175816,
+        "forks": 10943,
+        "stars": 175817,
         "is_new": false
     },
     {
@@ -1274,7 +1274,7 @@
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
         "watchers": 142,
         "forks": 1139,
-        "stars": 16835,
+        "stars": 16836,
         "is_new": false
     },
     {
@@ -1363,7 +1363,7 @@
         "url": "https://github.com/aquasecurity/trivy.git",
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "watchers": 176,
-        "forks": 2619,
+        "forks": 2620,
         "stars": 27449,
         "is_new": false
     },
@@ -1660,7 +1660,7 @@
         "url": "https://github.com/sherlock-project/sherlock.git",
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1157,
-        "forks": 7656,
+        "forks": 7657,
         "stars": 66557,
         "is_new": false
     },
@@ -1814,7 +1814,7 @@
         "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
         "watchers": 148,
         "forks": 552,
-        "stars": 19198,
+        "stars": 19199,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 717,
-        "forks": 34920,
-        "stars": 116926,
+        "forks": 34922,
+        "stars": 116930,
         "is_new": false
     },
     {
@@ -1975,8 +1975,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4335,
-        "forks": 37307,
-        "stars": 355594,
+        "forks": 37308,
+        "stars": 355596,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 294,
         "forks": 6349,
-        "stars": 71730,
+        "stars": 71731,
         "is_new": false
     },
     {
