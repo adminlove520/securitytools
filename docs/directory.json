@@ -490,8 +490,8 @@
         "url": "https://github.com/trimstray/the-book-of-secret-knowledge.git",
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2627,
-        "forks": 10949,
-        "stars": 175907,
+        "forks": 10950,
+        "stars": 175908,
         "is_new": false
     },
     {
@@ -842,7 +842,7 @@
         "description": "WiFi security auditing tools suite",
         "watchers": 245,
         "forks": 1069,
-        "stars": 6169,
+        "stars": 6170,
         "is_new": false
     },
     {
@@ -1182,7 +1182,7 @@
         "path": "projects/recon/platforms/spiderfoot",
         "url": "https://github.com/smicallef/spiderfoot.git",
         "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
-        "watchers": 378,
+        "watchers": 379,
         "forks": 2490,
         "stars": 14787,
         "is_new": false
@@ -1814,7 +1814,7 @@
         "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
         "watchers": 148,
         "forks": 552,
-        "stars": 19205,
+        "stars": 19207,
         "is_new": false
     },
     {
@@ -1913,7 +1913,7 @@
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 720,
         "forks": 35077,
-        "stars": 117272,
+        "stars": 117273,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4336,
         "forks": 37320,
-        "stars": 355703,
+        "stars": 355706,
         "is_new": false
     },
     {
