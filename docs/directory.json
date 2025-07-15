@@ -472,7 +472,7 @@
         "url": "https://github.com/pry0cc/axiom.git",
         "description": "The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!",
         "watchers": 92,
-        "forks": 691,
+        "forks": 692,
         "stars": 4256,
         "is_new": false
     },
@@ -599,7 +599,7 @@
         "description": "Loki - Simple IOC and YARA Scanner",
         "watchers": 186,
         "forks": 604,
-        "stars": 3585,
+        "stars": 3586,
         "is_new": false
     },
     {
@@ -1067,7 +1067,7 @@
         "description": "Passive hostname, domain and IP lookup tool for non-robots",
         "watchers": 15,
         "forks": 68,
-        "stars": 1549,
+        "stars": 1550,
         "is_new": false
     },
     {
@@ -1129,7 +1129,7 @@
         "url": "https://github.com/jivoi/awesome-osint.git",
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 700,
-        "forks": 3106,
+        "forks": 3107,
         "stars": 21978,
         "is_new": false
     },
@@ -1660,8 +1660,8 @@
         "url": "https://github.com/sherlock-project/sherlock.git",
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1156,
-        "forks": 7680,
-        "stars": 66669,
+        "forks": 7681,
+        "stars": 66671,
         "is_new": false
     },
     {
@@ -1813,8 +1813,8 @@
         "url": "https://github.com/FiloSottile/age.git",
         "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
         "watchers": 148,
-        "forks": 554,
-        "stars": 19247,
+        "forks": 555,
+        "stars": 19248,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 722,
-        "forks": 35668,
-        "stars": 118480,
+        "forks": 35671,
+        "stars": 118485,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4340,
         "forks": 37388,
-        "stars": 356421,
+        "stars": 356422,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 297,
         "forks": 6374,
-        "stars": 71914,
+        "stars": 71915,
         "is_new": false
     },
     {
@@ -2254,7 +2254,7 @@
         "url": "https://github.com/mingrammer/diagrams.git",
         "description": ":art: Diagram as Code for prototyping cloud system architectures",
         "watchers": 406,
-        "forks": 2645,
+        "forks": 2646,
         "stars": 41174,
         "is_new": false
     },
@@ -2282,7 +2282,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 114,
         "forks": 1089,
-        "stars": 15590,
+        "stars": 15591,
         "is_new": false
     },
     {
