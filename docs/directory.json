@@ -266,7 +266,7 @@
         "description": "Multi-Cloud Security Auditing Tool",
         "watchers": 140,
         "forks": 1129,
-        "stars": 7236,
+        "stars": 7235,
         "is_new": false
     },
     {
@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 681,
         "forks": 4401,
-        "stars": 69246,
+        "stars": 69247,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2643,
         "forks": 11143,
-        "stars": 178497,
+        "stars": 178502,
         "is_new": false
     },
     {
@@ -536,7 +536,7 @@
         "description": "A collection of smart contract vulnerabilities along with prevention methods",
         "watchers": 42,
         "forks": 288,
-        "stars": 2170,
+        "stars": 2169,
         "is_new": false
     },
     {
@@ -932,7 +932,7 @@
         "description": "The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP Mobile Security Weakness Enumeration (MASWE) weaknesses, which are in alignment with the OWASP MASVS.",
         "watchers": 419,
         "forks": 2465,
-        "stars": 12371,
+        "stars": 12372,
         "is_new": false
     },
     {
@@ -1013,7 +1013,7 @@
         "description": "Collection of example YARA-L rules for use within Google Security Operations",
         "watchers": 42,
         "forks": 106,
-        "stars": 419,
+        "stars": 420,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 700,
         "forks": 3117,
-        "stars": 22003,
+        "stars": 22004,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1159,
         "forks": 7696,
-        "stars": 66950,
+        "stars": 66952,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 730,
-        "forks": 36038,
-        "stars": 119729,
+        "forks": 36040,
+        "stars": 119739,
         "is_new": false
     },
     {
@@ -1975,8 +1975,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4344,
-        "forks": 37416,
-        "stars": 356788,
+        "forks": 37417,
+        "stars": 356795,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 297,
         "forks": 6385,
-        "stars": 72038,
+        "stars": 72040,
         "is_new": false
     },
     {
@@ -2030,7 +2030,7 @@
         "description": "Elegant Scraper and Crawler Framework for Golang",
         "watchers": 327,
         "forks": 1812,
-        "stars": 24450,
+        "stars": 24451,
         "is_new": false
     },
     {
@@ -2273,7 +2273,7 @@
         "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
         "watchers": 51,
         "forks": 1259,
-        "stars": 18861,
+        "stars": 18862,
         "is_new": false
     },
     {
@@ -2282,7 +2282,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 115,
         "forks": 1110,
-        "stars": 16041,
+        "stars": 16049,
         "is_new": false
     },
     {
