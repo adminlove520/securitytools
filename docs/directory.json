@@ -364,7 +364,7 @@
         "url": "https://github.com/ventoy/Ventoy.git",
         "description": "A new bootable USB solution.",
         "watchers": 681,
-        "forks": 4401,
+        "forks": 4402,
         "stars": 69271,
         "is_new": false
     },
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2642,
         "forks": 11148,
-        "stars": 178675,
+        "stars": 178679,
         "is_new": false
     },
     {
@@ -1166,7 +1166,7 @@
         "description": "ExifTool meta information reader/writer",
         "watchers": 63,
         "forks": 361,
-        "stars": 3852,
+        "stars": 3851,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1159,
         "forks": 7697,
-        "stars": 67001,
+        "stars": 67003,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 732,
-        "forks": 36230,
-        "stars": 120382,
+        "forks": 36232,
+        "stars": 120388,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4341,
         "forks": 37436,
-        "stars": 356925,
+        "stars": 356926,
         "is_new": false
     },
     {
@@ -2282,7 +2282,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 119,
         "forks": 1125,
-        "stars": 16465,
+        "stars": 16473,
         "is_new": false
     },
     {
