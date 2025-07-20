@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2644,
         "forks": 11160,
-        "stars": 178970,
+        "stars": 178972,
         "is_new": false
     },
     {
@@ -1382,7 +1382,7 @@
         "description": "Automatic SQL injection and database takeover tool",
         "watchers": 1105,
         "forks": 5966,
-        "stars": 34819,
+        "stars": 34820,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1159,
         "forks": 7704,
-        "stars": 67082,
+        "stars": 67083,
         "is_new": false
     },
     {
@@ -1886,7 +1886,7 @@
         "description": "Open-source offline translation library written in Python",
         "watchers": 54,
         "forks": 343,
-        "stars": 4631,
+        "stars": 4632,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 736,
-        "forks": 36523,
-        "stars": 121543,
+        "forks": 36527,
+        "stars": 121551,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4341,
         "forks": 37466,
-        "stars": 357177,
+        "stars": 357179,
         "is_new": false
     },
     {
@@ -2038,7 +2038,7 @@
         "url": "https://github.com/dgtlmoon/changedetection.io",
         "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring\u2014all for free or enjoy our SaaS plan!",
         "watchers": 103,
-        "forks": 1370,
+        "forks": 1369,
         "stars": 24822,
         "is_new": false
     },
@@ -2273,7 +2273,7 @@
         "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
         "watchers": 52,
         "forks": 1258,
-        "stars": 18881,
+        "stars": 18883,
         "is_new": false
     },
     {
@@ -2281,8 +2281,8 @@
         "url": "https://github.com/soxoj/maigret.git",
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 120,
-        "forks": 1141,
-        "stars": 16941,
+        "forks": 1142,
+        "stars": 16943,
         "is_new": false
     },
     {
