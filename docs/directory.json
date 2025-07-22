@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 680,
         "forks": 4408,
-        "stars": 69340,
+        "stars": 69341,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2644,
         "forks": 11172,
-        "stars": 179233,
+        "stars": 179238,
         "is_new": false
     },
     {
@@ -518,7 +518,7 @@
         "description": "A list of cyber-chef recipes and curated links",
         "watchers": 92,
         "forks": 270,
-        "stars": 2117,
+        "stars": 2118,
         "is_new": false
     },
     {
@@ -725,7 +725,7 @@
         "description": "UNIX-like reverse engineering framework and command-line toolset",
         "watchers": 491,
         "forks": 3089,
-        "stars": 21981,
+        "stars": 21982,
         "is_new": false
     },
     {
@@ -1166,7 +1166,7 @@
         "description": "ExifTool meta information reader/writer",
         "watchers": 63,
         "forks": 361,
-        "stars": 3860,
+        "stars": 3861,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1159,
         "forks": 7713,
-        "stars": 67125,
+        "stars": 67126,
         "is_new": false
     },
     {
@@ -1832,7 +1832,7 @@
         "description": "An OOB interaction gathering server and client library",
         "watchers": 41,
         "forks": 407,
-        "stars": 3856,
+        "stars": 3857,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 741,
-        "forks": 36880,
-        "stars": 122500,
+        "forks": 36883,
+        "stars": 122499,
         "is_new": false
     },
     {
@@ -1974,9 +1974,9 @@
         "path": "projects/devsec/tools/public-apis",
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
-        "watchers": 4342,
+        "watchers": 4343,
         "forks": 37504,
-        "stars": 357455,
+        "stars": 357459,
         "is_new": false
     },
     {
@@ -2021,7 +2021,7 @@
         "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
         "watchers": 226,
         "forks": 1911,
-        "stars": 12961,
+        "stars": 12962,
         "is_new": false
     },
     {
