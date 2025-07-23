@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2644,
         "forks": 11177,
-        "stars": 179368,
+        "stars": 179370,
         "is_new": false
     },
     {
@@ -1012,7 +1012,7 @@
         "url": "https://github.com/chronicle/detection-rules.git",
         "description": "Collection of example YARA-L rules for use within Google Security Operations",
         "watchers": 42,
-        "forks": 108,
+        "forks": 109,
         "stars": 425,
         "is_new": false
     },
@@ -1184,7 +1184,7 @@
         "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
         "watchers": 380,
         "forks": 2517,
-        "stars": 14898,
+        "stars": 14899,
         "is_new": false
     },
     {
@@ -1553,7 +1553,7 @@
         "description": "Main Sigma Rule Repository",
         "watchers": 350,
         "forks": 2383,
-        "stars": 9460,
+        "stars": 9461,
         "is_new": false
     },
     {
@@ -1616,7 +1616,7 @@
         "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
         "watchers": 213,
         "forks": 2441,
-        "stars": 11059,
+        "stars": 11061,
         "is_new": false
     },
     {
@@ -1670,7 +1670,7 @@
         "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
         "watchers": 127,
         "forks": 1032,
-        "stars": 9077,
+        "stars": 9078,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 745,
-        "forks": 37036,
-        "stars": 122880,
+        "forks": 37037,
+        "stars": 122888,
         "is_new": false
     },
     {
@@ -1922,7 +1922,7 @@
         "description": "A next-generation crawling and spidering framework.",
         "watchers": 92,
         "forks": 765,
-        "stars": 13949,
+        "stars": 13950,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4342,
         "forks": 37514,
-        "stars": 357589,
+        "stars": 357590,
         "is_new": false
     },
     {
@@ -2273,7 +2273,7 @@
         "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
         "watchers": 52,
         "forks": 1261,
-        "stars": 18918,
+        "stars": 18917,
         "is_new": false
     },
     {
@@ -2318,7 +2318,7 @@
         "description": "\ud83d\udee1\ufe0f A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.",
         "watchers": 78,
         "forks": 483,
-        "stars": 7471,
+        "stars": 7472,
         "is_new": false
     },
     {
