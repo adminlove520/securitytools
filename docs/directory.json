@@ -41,7 +41,7 @@
         "description": "A browser extension for OSINT search",
         "watchers": 38,
         "forks": 169,
-        "stars": 1636,
+        "stars": 1637,
         "is_new": false
     },
     {
@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 680,
         "forks": 4408,
-        "stars": 69369,
+        "stars": 69370,
         "is_new": false
     },
     {
@@ -383,7 +383,7 @@
         "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
         "watchers": 240,
         "forks": 1047,
-        "stars": 15858,
+        "stars": 15859,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2645,
         "forks": 11179,
-        "stars": 179491,
+        "stars": 179495,
         "is_new": false
     },
     {
@@ -1363,7 +1363,7 @@
         "url": "https://github.com/aquasecurity/trivy.git",
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "watchers": 177,
-        "forks": 2637,
+        "forks": 2638,
         "stars": 27652,
         "is_new": false
     },
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 748,
-        "forks": 37217,
-        "stars": 123257,
+        "forks": 37218,
+        "stars": 123264,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4343,
         "forks": 37519,
-        "stars": 357683,
+        "stars": 357686,
         "is_new": false
     },
     {
@@ -2273,7 +2273,7 @@
         "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
         "watchers": 52,
         "forks": 1263,
-        "stars": 18931,
+        "stars": 18932,
         "is_new": false
     },
     {
@@ -2282,7 +2282,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 118,
         "forks": 1152,
-        "stars": 17027,
+        "stars": 17028,
         "is_new": false
     },
     {
