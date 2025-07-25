@@ -5,7 +5,7 @@
         "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
         "watchers": 351,
         "forks": 2938,
-        "stars": 10788,
+        "stars": 10789,
         "is_new": false
     },
     {
@@ -410,7 +410,7 @@
         "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
         "watchers": 243,
         "forks": 1881,
-        "stars": 18856,
+        "stars": 18858,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2645,
         "forks": 11188,
-        "stars": 179606,
+        "stars": 179609,
         "is_new": false
     },
     {
@@ -581,7 +581,7 @@
         "description": "A framework for developing alerting and detection strategies for incident response.",
         "watchers": 303,
         "forks": 128,
-        "stars": 769,
+        "stars": 770,
         "is_new": false
     },
     {
@@ -725,7 +725,7 @@
         "description": "UNIX-like reverse engineering framework and command-line toolset",
         "watchers": 491,
         "forks": 3092,
-        "stars": 21989,
+        "stars": 21990,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 699,
         "forks": 3123,
-        "stars": 22089,
+        "stars": 22090,
         "is_new": false
     },
     {
@@ -1382,7 +1382,7 @@
         "description": "Automatic SQL injection and database takeover tool",
         "watchers": 1105,
         "forks": 5971,
-        "stars": 34858,
+        "stars": 34859,
         "is_new": false
     },
     {
@@ -1391,7 +1391,7 @@
         "description": "Fast web fuzzer written in Go",
         "watchers": 163,
         "forks": 1426,
-        "stars": 14365,
+        "stars": 14366,
         "is_new": false
     },
     {
@@ -1616,7 +1616,7 @@
         "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
         "watchers": 213,
         "forks": 2444,
-        "stars": 11068,
+        "stars": 11070,
         "is_new": false
     },
     {
@@ -1643,7 +1643,7 @@
         "description": "Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email",
         "watchers": 126,
         "forks": 548,
-        "stars": 4541,
+        "stars": 4542,
         "is_new": false
     },
     {
@@ -1660,8 +1660,8 @@
         "url": "https://github.com/sherlock-project/sherlock.git",
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1160,
-        "forks": 7725,
-        "stars": 67291,
+        "forks": 7727,
+        "stars": 67292,
         "is_new": false
     },
     {
@@ -1670,7 +1670,7 @@
         "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
         "watchers": 128,
         "forks": 1035,
-        "stars": 9087,
+        "stars": 9088,
         "is_new": false
     },
     {
@@ -1733,7 +1733,7 @@
         "description": "A collection of several hundred online tools for OSINT",
         "watchers": 156,
         "forks": 765,
-        "stars": 6669,
+        "stars": 6670,
         "is_new": false
     },
     {
@@ -1886,7 +1886,7 @@
         "description": "Open-source offline translation library written in Python",
         "watchers": 54,
         "forks": 344,
-        "stars": 4651,
+        "stars": 4652,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 745,
-        "forks": 37373,
-        "stars": 123601,
+        "forks": 37374,
+        "stars": 123604,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4345,
         "forks": 37529,
-        "stars": 357811,
+        "stars": 357812,
         "is_new": false
     },
     {
