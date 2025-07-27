@@ -4,7 +4,7 @@
         "url": "https://github.com/redcanaryco/atomic-red-team.git",
         "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
         "watchers": 351,
-        "forks": 2938,
+        "forks": 2937,
         "stars": 10791,
         "is_new": false
     },
@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 680,
         "forks": 4412,
-        "stars": 69407,
+        "stars": 69408,
         "is_new": false
     },
     {
@@ -671,7 +671,7 @@
         "description": "MISP (core software) - Open Source Threat Intelligence and Sharing Platform",
         "watchers": 281,
         "forks": 1480,
-        "stars": 5816,
+        "stars": 5817,
         "is_new": false
     },
     {
@@ -797,7 +797,7 @@
         "description": "Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication. ",
         "watchers": 144,
         "forks": 1741,
-        "stars": 5934,
+        "stars": 5935,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 698,
         "forks": 3123,
-        "stars": 22100,
+        "stars": 22101,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 749,
-        "forks": 37618,
-        "stars": 124144,
+        "forks": 37619,
+        "stars": 124146,
         "is_new": false
     },
     {
@@ -1931,7 +1931,7 @@
         "description": "The web browser built for scraping",
         "watchers": 19,
         "forks": 60,
-        "stars": 1245,
+        "stars": 1246,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4348,
         "forks": 37568,
-        "stars": 358025,
+        "stars": 358026,
         "is_new": false
     },
     {
@@ -2039,7 +2039,7 @@
         "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring\u2014all for free or enjoy our SaaS plan!",
         "watchers": 104,
         "forks": 1393,
-        "stars": 25184,
+        "stars": 25185,
         "is_new": false
     },
     {
@@ -2273,7 +2273,7 @@
         "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
         "watchers": 55,
         "forks": 1281,
-        "stars": 19373,
+        "stars": 19382,
         "is_new": false
     },
     {
