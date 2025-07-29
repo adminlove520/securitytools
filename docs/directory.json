@@ -490,8 +490,8 @@
         "url": "https://github.com/trimstray/the-book-of-secret-knowledge.git",
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2645,
-        "forks": 11207,
-        "stars": 180074,
+        "forks": 11208,
+        "stars": 180076,
         "is_new": false
     },
     {
@@ -1274,7 +1274,7 @@
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
         "watchers": 145,
         "forks": 1157,
-        "stars": 17348,
+        "stars": 17350,
         "is_new": false
     },
     {
@@ -1553,7 +1553,7 @@
         "description": "Main Sigma Rule Repository",
         "watchers": 350,
         "forks": 2389,
-        "stars": 9472,
+        "stars": 9474,
         "is_new": false
     },
     {
@@ -1660,7 +1660,7 @@
         "url": "https://github.com/sherlock-project/sherlock.git",
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1162,
-        "forks": 7753,
+        "forks": 7754,
         "stars": 67584,
         "is_new": false
     },
@@ -1832,7 +1832,7 @@
         "description": "An OOB interaction gathering server and client library",
         "watchers": 41,
         "forks": 408,
-        "stars": 3866,
+        "stars": 3867,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 754,
-        "forks": 37949,
-        "stars": 124890,
+        "forks": 37951,
+        "stars": 124896,
         "is_new": false
     },
     {
@@ -1975,8 +1975,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4348,
-        "forks": 37586,
-        "stars": 358262,
+        "forks": 37585,
+        "stars": 358265,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 297,
         "forks": 6438,
-        "stars": 72469,
+        "stars": 72471,
         "is_new": false
     },
     {
@@ -2039,7 +2039,7 @@
         "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring\u2014all for free or enjoy our SaaS plan!",
         "watchers": 105,
         "forks": 1412,
-        "stars": 25664,
+        "stars": 25665,
         "is_new": false
     },
     {
@@ -2272,8 +2272,8 @@
         "url": "https://github.com/Infisical/infisical.git",
         "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
         "watchers": 54,
-        "forks": 1295,
-        "stars": 19583,
+        "forks": 1296,
+        "stars": 19584,
         "is_new": false
     },
     {
