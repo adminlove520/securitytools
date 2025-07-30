@@ -383,7 +383,7 @@
         "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
         "watchers": 241,
         "forks": 1053,
-        "stars": 15895,
+        "stars": 15896,
         "is_new": false
     },
     {
@@ -472,7 +472,7 @@
         "url": "https://github.com/pry0cc/axiom.git",
         "description": "The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!",
         "watchers": 92,
-        "forks": 696,
+        "forks": 697,
         "stars": 4262,
         "is_new": false
     },
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2647,
         "forks": 11215,
-        "stars": 180196,
+        "stars": 180197,
         "is_new": false
     },
     {
@@ -725,7 +725,7 @@
         "description": "UNIX-like reverse engineering framework and command-line toolset",
         "watchers": 491,
         "forks": 3093,
-        "stars": 22008,
+        "stars": 22009,
         "is_new": false
     },
     {
@@ -1616,7 +1616,7 @@
         "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
         "watchers": 213,
         "forks": 2449,
-        "stars": 11085,
+        "stars": 11086,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 760,
-        "forks": 38130,
-        "stars": 125264,
+        "forks": 38131,
+        "stars": 125268,
         "is_new": false
     },
     {
@@ -1922,7 +1922,7 @@
         "description": "A next-generation crawling and spidering framework.",
         "watchers": 92,
         "forks": 773,
-        "stars": 13982,
+        "stars": 13981,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4350,
         "forks": 37593,
-        "stars": 358362,
+        "stars": 358363,
         "is_new": false
     },
     {
@@ -2255,7 +2255,7 @@
         "description": ":art: Diagram as Code for prototyping cloud system architectures",
         "watchers": 406,
         "forks": 2654,
-        "stars": 41240,
+        "stars": 41239,
         "is_new": false
     },
     {
@@ -2281,7 +2281,7 @@
         "url": "https://github.com/soxoj/maigret.git",
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 117,
-        "forks": 1157,
+        "forks": 1158,
         "stars": 17081,
         "is_new": false
     },
