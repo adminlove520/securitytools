@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 681,
         "forks": 4421,
-        "stars": 69533,
+        "stars": 69534,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2649,
         "forks": 11244,
-        "stars": 180493,
+        "stars": 180494,
         "is_new": false
     },
     {
@@ -887,7 +887,7 @@
         "description": "\ud83d\udcf1 objection - runtime mobile exploration",
         "watchers": 159,
         "forks": 912,
-        "stars": 8328,
+        "stars": 8329,
         "is_new": false
     },
     {
@@ -1364,7 +1364,7 @@
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "watchers": 177,
         "forks": 2646,
-        "stars": 27743,
+        "stars": 27744,
         "is_new": false
     },
     {
@@ -1553,7 +1553,7 @@
         "description": "Main Sigma Rule Repository",
         "watchers": 351,
         "forks": 2392,
-        "stars": 9483,
+        "stars": 9484,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 762,
-        "forks": 38394,
-        "stars": 125935,
+        "forks": 38395,
+        "stars": 125937,
         "is_new": false
     },
     {
@@ -1975,8 +1975,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4350,
-        "forks": 37635,
-        "stars": 358597,
+        "forks": 37634,
+        "stars": 358599,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 297,
         "forks": 6459,
-        "stars": 72621,
+        "stars": 72623,
         "is_new": false
     },
     {
@@ -2020,7 +2020,7 @@
         "url": "https://github.com/wazuh/wazuh",
         "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
         "watchers": 226,
-        "forks": 1923,
+        "forks": 1924,
         "stars": 13030,
         "is_new": false
     },
@@ -2039,7 +2039,7 @@
         "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring\u2014all for free or enjoy our SaaS plan!",
         "watchers": 107,
         "forks": 1418,
-        "stars": 25821,
+        "stars": 25822,
         "is_new": false
     },
     {
@@ -2282,7 +2282,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 117,
         "forks": 1165,
-        "stars": 17102,
+        "stars": 17103,
         "is_new": false
     },
     {
