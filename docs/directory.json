@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2653,
         "forks": 11266,
-        "stars": 180876,
+        "stars": 180877,
         "is_new": false
     },
     {
@@ -896,7 +896,7 @@
         "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
         "watchers": 594,
         "forks": 3436,
-        "stars": 19173,
+        "stars": 19174,
         "is_new": false
     },
     {
@@ -914,7 +914,7 @@
         "description": "An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.",
         "watchers": 108,
         "forks": 354,
-        "stars": 3253,
+        "stars": 3254,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1164,
         "forks": 7787,
-        "stars": 67772,
+        "stars": 67773,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 762,
-        "forks": 38648,
-        "stars": 126395,
+        "forks": 38652,
+        "stars": 126400,
         "is_new": false
     },
     {
@@ -1975,8 +1975,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4352,
-        "forks": 37668,
-        "stars": 358878,
+        "forks": 37670,
+        "stars": 358896,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 296,
         "forks": 6459,
-        "stars": 72703,
+        "stars": 72704,
         "is_new": false
     },
     {
