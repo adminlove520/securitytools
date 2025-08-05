@@ -363,9 +363,9 @@
         "path": "projects/devsec/lab/Ventoy",
         "url": "https://github.com/ventoy/Ventoy.git",
         "description": "A new bootable USB solution.",
-        "watchers": 681,
+        "watchers": 680,
         "forks": 4426,
-        "stars": 69612,
+        "stars": 69613,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2649,
         "forks": 11286,
-        "stars": 181138,
+        "stars": 181142,
         "is_new": false
     },
     {
@@ -535,7 +535,7 @@
         "url": "https://github.com/kadenzipfel/smart-contract-attack-vectors.git",
         "description": "A collection of smart contract vulnerabilities along with prevention methods",
         "watchers": 42,
-        "forks": 289,
+        "forks": 290,
         "stars": 2184,
         "is_new": false
     },
@@ -896,7 +896,7 @@
         "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
         "watchers": 594,
         "forks": 3439,
-        "stars": 19187,
+        "stars": 19188,
         "is_new": false
     },
     {
@@ -1112,7 +1112,7 @@
         "description": "Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.",
         "watchers": 117,
         "forks": 754,
-        "stars": 4879,
+        "stars": 4880,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 699,
         "forks": 3138,
-        "stars": 22193,
+        "stars": 22194,
         "is_new": false
     },
     {
@@ -1184,7 +1184,7 @@
         "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
         "watchers": 379,
         "forks": 2544,
-        "stars": 14991,
+        "stars": 14994,
         "is_new": false
     },
     {
@@ -1895,7 +1895,7 @@
         "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
         "watchers": 264,
         "forks": 1095,
-        "stars": 11466,
+        "stars": 11467,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 762,
-        "forks": 38934,
-        "stars": 127026,
+        "forks": 38939,
+        "stars": 127028,
         "is_new": false
     },
     {
@@ -1975,8 +1975,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4352,
-        "forks": 37745,
-        "stars": 359758,
+        "forks": 37746,
+        "stars": 359767,
         "is_new": false
     },
     {
@@ -2273,7 +2273,7 @@
         "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
         "watchers": 55,
         "forks": 1303,
-        "stars": 19692,
+        "stars": 19693,
         "is_new": false
     },
     {
