@@ -490,8 +490,8 @@
         "url": "https://github.com/trimstray/the-book-of-secret-knowledge.git",
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2649,
-        "forks": 11293,
-        "stars": 181267,
+        "forks": 11294,
+        "stars": 181269,
         "is_new": false
     },
     {
@@ -724,7 +724,7 @@
         "url": "https://github.com/radareorg/radare2.git",
         "description": "UNIX-like reverse engineering framework and command-line toolset",
         "watchers": 491,
-        "forks": 3095,
+        "forks": 3094,
         "stars": 22038,
         "is_new": false
     },
@@ -770,7 +770,7 @@
         "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
         "watchers": 413,
         "forks": 1554,
-        "stars": 17943,
+        "stars": 17944,
         "is_new": false
     },
     {
@@ -896,7 +896,7 @@
         "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
         "watchers": 594,
         "forks": 3444,
-        "stars": 19194,
+        "stars": 19195,
         "is_new": false
     },
     {
@@ -1183,7 +1183,7 @@
         "url": "https://github.com/smicallef/spiderfoot.git",
         "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
         "watchers": 379,
-        "forks": 2550,
+        "forks": 2549,
         "stars": 15000,
         "is_new": false
     },
@@ -1319,7 +1319,7 @@
         "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
         "watchers": 248,
         "forks": 2843,
-        "stars": 24252,
+        "stars": 24253,
         "is_new": false
     },
     {
@@ -1463,7 +1463,7 @@
         "description": "Find leaked secrets via github search",
         "watchers": 90,
         "forks": 605,
-        "stars": 3022,
+        "stars": 3023,
         "is_new": false
     },
     {
@@ -1616,7 +1616,7 @@
         "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
         "watchers": 213,
         "forks": 2461,
-        "stars": 11134,
+        "stars": 11135,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1164,
         "forks": 7800,
-        "stars": 67852,
+        "stars": 67853,
         "is_new": false
     },
     {
@@ -1911,9 +1911,9 @@
         "path": "projects/platforms/n8n",
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "watchers": 760,
-        "forks": 39107,
-        "stars": 127365,
+        "watchers": 759,
+        "forks": 39110,
+        "stars": 127369,
         "is_new": false
     },
     {
@@ -2273,7 +2273,7 @@
         "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
         "watchers": 55,
         "forks": 1307,
-        "stars": 19710,
+        "stars": 19711,
         "is_new": false
     },
     {
