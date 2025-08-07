@@ -401,7 +401,7 @@
         "description": "dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",
         "watchers": 316,
         "forks": 1062,
-        "stars": 12343,
+        "stars": 12344,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 699,
         "forks": 3139,
-        "stars": 22213,
+        "stars": 22212,
         "is_new": false
     },
     {
@@ -1274,7 +1274,7 @@
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
         "watchers": 146,
         "forks": 1170,
-        "stars": 17626,
+        "stars": 17627,
         "is_new": false
     },
     {
@@ -1283,7 +1283,7 @@
         "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
         "watchers": 653,
         "forks": 3152,
-        "stars": 24719,
+        "stars": 24720,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1164,
         "forks": 7803,
-        "stars": 67863,
+        "stars": 67864,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 760,
-        "forks": 39274,
-        "stars": 127703,
+        "forks": 39275,
+        "stars": 127707,
         "is_new": false
     },
     {
@@ -2273,7 +2273,7 @@
         "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
         "watchers": 55,
         "forks": 1308,
-        "stars": 19726,
+        "stars": 19727,
         "is_new": false
     },
     {
