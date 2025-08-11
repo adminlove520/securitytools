@@ -68,7 +68,7 @@
         "description": "A collection of scripts for assessing Microsoft Azure security",
         "watchers": 58,
         "forks": 328,
-        "stars": 2219,
+        "stars": 2220,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2650,
         "forks": 11329,
-        "stars": 181858,
+        "stars": 181860,
         "is_new": false
     },
     {
@@ -1220,7 +1220,7 @@
         "description": "AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.",
         "watchers": 103,
         "forks": 946,
-        "stars": 5637,
+        "stars": 5638,
         "is_new": false
     },
     {
@@ -1643,7 +1643,7 @@
         "description": "Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email",
         "watchers": 125,
         "forks": 551,
-        "stars": 4564,
+        "stars": 4565,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1166,
         "forks": 7827,
-        "stars": 67936,
+        "stars": 67937,
         "is_new": false
     },
     {
@@ -1706,7 +1706,7 @@
         "description": ":snake: - Crawler on tor network sites, searching for keywords.",
         "watchers": 7,
         "forks": 17,
-        "stars": 145,
+        "stars": 146,
         "is_new": false
     },
     {
@@ -1732,7 +1732,7 @@
         "url": "https://github.com/cipher387/osint_stuff_tool_collection.git",
         "description": "A collection of several hundred online tools for OSINT",
         "watchers": 157,
-        "forks": 782,
+        "forks": 783,
         "stars": 6745,
         "is_new": false
     },
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 769,
-        "forks": 39728,
-        "stars": 128780,
+        "forks": 39730,
+        "stars": 128786,
         "is_new": false
     },
     {
@@ -1948,7 +1948,7 @@
         "url": "https://github.com/WithSecureLabs/chainsaw.git",
         "description": "Rapidly Search and Hunt through Windows Forensic Artefacts",
         "watchers": 56,
-        "forks": 292,
+        "forks": 293,
         "stars": 3240,
         "is_new": false
     },
@@ -1975,7 +1975,7 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4350,
-        "forks": 37855,
+        "forks": 37856,
         "stars": 360764,
         "is_new": false
     },
@@ -2039,7 +2039,7 @@
         "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring\u2014all for free or enjoy our SaaS plan!",
         "watchers": 107,
         "forks": 1434,
-        "stars": 26044,
+        "stars": 26045,
         "is_new": false
     },
     {
