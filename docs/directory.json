@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 682,
         "forks": 4436,
-        "stars": 69794,
+        "stars": 69795,
         "is_new": false
     },
     {
@@ -374,7 +374,7 @@
         "description": "Various Dockerfiles I use on the desktop and on servers.",
         "watchers": 428,
         "forks": 2548,
-        "stars": 13891,
+        "stars": 13892,
         "is_new": false
     },
     {
@@ -383,7 +383,7 @@
         "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
         "watchers": 241,
         "forks": 1059,
-        "stars": 15996,
+        "stars": 15997,
         "is_new": false
     },
     {
@@ -490,8 +490,8 @@
         "url": "https://github.com/trimstray/the-book-of-secret-knowledge.git",
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2650,
-        "forks": 11333,
-        "stars": 181998,
+        "forks": 11334,
+        "stars": 182000,
         "is_new": false
     },
     {
@@ -725,7 +725,7 @@
         "description": "UNIX-like reverse engineering framework and command-line toolset",
         "watchers": 491,
         "forks": 3096,
-        "stars": 22087,
+        "stars": 22088,
         "is_new": false
     },
     {
@@ -931,7 +931,7 @@
         "url": "https://github.com/OWASP/owasp-mstg.git",
         "description": "The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP Mobile Security Weakness Enumeration (MASWE) weaknesses, which are in alignment with the OWASP MASVS.",
         "watchers": 418,
-        "forks": 2481,
+        "forks": 2482,
         "stars": 12421,
         "is_new": false
     },
@@ -1697,7 +1697,7 @@
         "description": "A OSINT tool to obtain a target's phone number just by having his email address",
         "watchers": 57,
         "forks": 281,
-        "stars": 2384,
+        "stars": 2385,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 769,
-        "forks": 39875,
-        "stars": 129091,
+        "forks": 39876,
+        "stars": 129095,
         "is_new": false
     },
     {
@@ -1975,8 +1975,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4349,
-        "forks": 37875,
-        "stars": 360923,
+        "forks": 37876,
+        "stars": 360925,
         "is_new": false
     },
     {
@@ -2021,7 +2021,7 @@
         "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
         "watchers": 225,
         "forks": 1935,
-        "stars": 13098,
+        "stars": 13099,
         "is_new": false
     },
     {
