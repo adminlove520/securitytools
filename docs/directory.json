@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2649,
         "forks": 11340,
-        "stars": 182133,
+        "stars": 182136,
         "is_new": false
     },
     {
@@ -579,7 +579,7 @@
         "path": "projects/incidentresponse/alerting-detection-strategy-framework",
         "url": "https://github.com/palantir/alerting-detection-strategy-framework.git",
         "description": "A framework for developing alerting and detection strategies for incident response.",
-        "watchers": 302,
+        "watchers": 301,
         "forks": 129,
         "stars": 780,
         "is_new": false
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 704,
         "forks": 3145,
-        "stars": 22268,
+        "stars": 22269,
         "is_new": false
     },
     {
@@ -1697,7 +1697,7 @@
         "description": "A OSINT tool to obtain a target's phone number just by having his email address",
         "watchers": 57,
         "forks": 287,
-        "stars": 2429,
+        "stars": 2430,
         "is_new": false
     },
     {
@@ -1733,7 +1733,7 @@
         "description": "A collection of several hundred online tools for OSINT",
         "watchers": 157,
         "forks": 783,
-        "stars": 6754,
+        "stars": 6755,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 772,
-        "forks": 39990,
-        "stars": 129380,
+        "forks": 39991,
+        "stars": 129383,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4349,
         "forks": 37893,
-        "stars": 361101,
+        "stars": 361103,
         "is_new": false
     },
     {
