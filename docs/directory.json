@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2650,
         "forks": 11346,
-        "stars": 182266,
+        "stars": 182268,
         "is_new": false
     },
     {
@@ -725,7 +725,7 @@
         "description": "UNIX-like reverse engineering framework and command-line toolset",
         "watchers": 492,
         "forks": 3097,
-        "stars": 22099,
+        "stars": 22100,
         "is_new": false
     },
     {
@@ -1274,7 +1274,7 @@
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
         "watchers": 148,
         "forks": 1177,
-        "stars": 17737,
+        "stars": 17738,
         "is_new": false
     },
     {
@@ -1616,7 +1616,7 @@
         "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
         "watchers": 213,
         "forks": 2468,
-        "stars": 11163,
+        "stars": 11164,
         "is_new": false
     },
     {
@@ -1814,7 +1814,7 @@
         "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
         "watchers": 148,
         "forks": 561,
-        "stars": 19466,
+        "stars": 19467,
         "is_new": false
     },
     {
@@ -1832,7 +1832,7 @@
         "description": "An OOB interaction gathering server and client library",
         "watchers": 41,
         "forks": 411,
-        "stars": 3884,
+        "stars": 3885,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 777,
-        "forks": 40130,
-        "stars": 129696,
+        "forks": 40131,
+        "stars": 129701,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4351,
         "forks": 37916,
-        "stars": 361284,
+        "stars": 361286,
         "is_new": false
     },
     {
@@ -2172,9 +2172,9 @@
         "path": "projects/platforms/honeypots/canarytokens",
         "url": "https://github.com/thinkst/canarytokens",
         "description": "Canarytokens helps track activity and actions on your network.",
-        "watchers": 43,
+        "watchers": 44,
         "forks": 266,
-        "stars": 1906,
+        "stars": 1907,
         "is_new": false
     },
     {
