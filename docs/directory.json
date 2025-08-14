@@ -1912,7 +1912,7 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 772,
-        "forks": 40000,
+        "forks": 40001,
         "stars": 129393,
         "is_new": false
     },
@@ -2373,6 +2373,15 @@
         "watchers": 14,
         "forks": 106,
         "stars": 1154,
+        "is_new": false
+    },
+    {
+        "path": "projects/20250814/PrivacyCheckGo",
+        "url": "https://github.com/winezer0/PrivacyCheckGo",
+        "description": "Privacy Check Go",
+        "watchers": 0,
+        "forks": 0,
+        "stars": 9,
         "is_new": false
     }
 ]
