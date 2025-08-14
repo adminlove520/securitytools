@@ -801,3 +801,7 @@
 [submodule "project/20250814/autoswagge"]
 	path = project/20250814/autoswagge
 	url = https://github.com/intruder-io/autoswagger
+
+[submodule "projects/20250814/PrivacyCheckGo"]
+	path = projects/20250814/PrivacyCheckGo
+	url = https://github.com/winezer0/PrivacyCheckGo
