@@ -797,3 +797,7 @@
 [submodule "projects/Web_Framework/ruoyi"]
 	path = projects/Web_Framework/ruoyi
 	url = https://github.com/kk12-30/ruoyi-Vue-tools.git
+
+[submodule "project/20250814/autoswagge"]
+	path = project/20250814/autoswagge
+	url = https://github.com/intruder-io/autoswagger
