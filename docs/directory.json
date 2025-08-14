@@ -14,7 +14,7 @@
         "description": "Automated Adversary Emulation Platform",
         "watchers": 180,
         "forks": 1210,
-        "stars": 6346,
+        "stars": 6347,
         "is_new": false
     },
     {
@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 682,
         "forks": 4439,
-        "stars": 69817,
+        "stars": 69820,
         "is_new": false
     },
     {
@@ -463,7 +463,7 @@
         "url": "https://github.com/zardus/ctf-tools.git",
         "description": "Some setup scripts for security research tools.",
         "watchers": 292,
-        "forks": 1910,
+        "forks": 1909,
         "stars": 9008,
         "is_new": false
     },
@@ -490,8 +490,8 @@
         "url": "https://github.com/trimstray/the-book-of-secret-knowledge.git",
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2649,
-        "forks": 11340,
-        "stars": 182136,
+        "forks": 11341,
+        "stars": 182142,
         "is_new": false
     },
     {
@@ -770,7 +770,7 @@
         "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
         "watchers": 413,
         "forks": 1556,
-        "stars": 17974,
+        "stars": 17975,
         "is_new": false
     },
     {
@@ -887,7 +887,7 @@
         "description": "\ud83d\udcf1 objection - runtime mobile exploration",
         "watchers": 158,
         "forks": 916,
-        "stars": 8364,
+        "stars": 8365,
         "is_new": false
     },
     {
@@ -904,7 +904,7 @@
         "url": "https://github.com/den4uk/andriller.git",
         "description": "\ud83d\udcf1 Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.",
         "watchers": 51,
-        "forks": 231,
+        "forks": 232,
         "stars": 1456,
         "is_new": false
     },
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 704,
         "forks": 3145,
-        "stars": 22269,
+        "stars": 22270,
         "is_new": false
     },
     {
@@ -1139,7 +1139,7 @@
         "description": "Collections of tools and methods created to aid in OSINT collection",
         "watchers": 116,
         "forks": 443,
-        "stars": 3134,
+        "stars": 3135,
         "is_new": false
     },
     {
@@ -1166,7 +1166,7 @@
         "description": "ExifTool meta information reader/writer",
         "watchers": 62,
         "forks": 370,
-        "stars": 3923,
+        "stars": 3924,
         "is_new": false
     },
     {
@@ -1228,7 +1228,7 @@
         "url": "https://github.com/christophetd/CloudFlair.git",
         "description": "\ud83d\udd0e Find origin servers of websites behind CloudFlare by using Internet-wide scan data from Censys.",
         "watchers": 59,
-        "forks": 375,
+        "forks": 374,
         "stars": 2879,
         "is_new": false
     },
@@ -1319,7 +1319,7 @@
         "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
         "watchers": 247,
         "forks": 2849,
-        "stars": 24326,
+        "stars": 24327,
         "is_new": false
     },
     {
@@ -1381,7 +1381,7 @@
         "url": "https://github.com/sqlmapproject/sqlmap.git",
         "description": "Automatic SQL injection and database takeover tool",
         "watchers": 1105,
-        "forks": 5985,
+        "forks": 5986,
         "stars": 35000,
         "is_new": false
     },
@@ -1643,7 +1643,7 @@
         "description": "Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email",
         "watchers": 125,
         "forks": 554,
-        "stars": 4596,
+        "stars": 4597,
         "is_new": false
     },
     {
@@ -1660,7 +1660,7 @@
         "url": "https://github.com/sherlock-project/sherlock.git",
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1167,
-        "forks": 7832,
+        "forks": 7833,
         "stars": 67975,
         "is_new": false
     },
@@ -1697,7 +1697,7 @@
         "description": "A OSINT tool to obtain a target's phone number just by having his email address",
         "watchers": 57,
         "forks": 287,
-        "stars": 2430,
+        "stars": 2432,
         "is_new": false
     },
     {
@@ -1732,7 +1732,7 @@
         "url": "https://github.com/cipher387/osint_stuff_tool_collection.git",
         "description": "A collection of several hundred online tools for OSINT",
         "watchers": 157,
-        "forks": 783,
+        "forks": 784,
         "stars": 6755,
         "is_new": false
     },
@@ -1814,7 +1814,7 @@
         "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
         "watchers": 148,
         "forks": 561,
-        "stars": 19461,
+        "stars": 19460,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 772,
-        "forks": 39991,
-        "stars": 129383,
+        "forks": 40000,
+        "stars": 129393,
         "is_new": false
     },
     {
@@ -1975,8 +1975,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4349,
-        "forks": 37893,
-        "stars": 361103,
+        "forks": 37895,
+        "stars": 361113,
         "is_new": false
     },
     {
@@ -1993,8 +1993,8 @@
         "url": "https://github.com/louislam/uptime-kuma.git",
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 296,
-        "forks": 6510,
-        "stars": 73175,
+        "forks": 6511,
+        "stars": 73181,
         "is_new": false
     },
     {
@@ -2021,7 +2021,7 @@
         "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
         "watchers": 225,
         "forks": 1935,
-        "stars": 13110,
+        "stars": 13111,
         "is_new": false
     },
     {
@@ -2039,7 +2039,7 @@
         "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring\u2014all for free or enjoy our SaaS plan!",
         "watchers": 107,
         "forks": 1441,
-        "stars": 26112,
+        "stars": 26117,
         "is_new": false
     },
     {
@@ -2318,7 +2318,7 @@
         "description": "\ud83d\udee1\ufe0f A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.",
         "watchers": 78,
         "forks": 487,
-        "stars": 7538,
+        "stars": 7539,
         "is_new": false
     },
     {
@@ -2364,6 +2364,15 @@
         "watchers": 2,
         "forks": 13,
         "stars": 188,
+        "is_new": false
+    },
+    {
+        "path": "project/20250814/autoswagge",
+        "url": "https://github.com/intruder-io/autoswagger",
+        "description": "Autoswagger by Intruder - detect API auth weaknesses",
+        "watchers": 14,
+        "forks": 106,
+        "stars": 1154,
         "is_new": false
     }
 ]
