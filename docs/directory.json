@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 682,
         "forks": 4438,
-        "stars": 69852,
+        "stars": 69851,
         "is_new": false
     },
     {
@@ -383,7 +383,7 @@
         "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
         "watchers": 241,
         "forks": 1060,
-        "stars": 16023,
+        "stars": 16024,
         "is_new": false
     },
     {
@@ -489,9 +489,9 @@
         "path": "projects/docs/the-book-of-secret-knowledge",
         "url": "https://github.com/trimstray/the-book-of-secret-knowledge.git",
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-        "watchers": 2652,
+        "watchers": 2653,
         "forks": 11351,
-        "stars": 182395,
+        "stars": 182399,
         "is_new": false
     },
     {
@@ -724,7 +724,7 @@
         "url": "https://github.com/radareorg/radare2.git",
         "description": "UNIX-like reverse engineering framework and command-line toolset",
         "watchers": 492,
-        "forks": 3099,
+        "forks": 3100,
         "stars": 22107,
         "is_new": false
     },
@@ -1615,7 +1615,7 @@
         "url": "https://github.com/Datalux/Osintgram.git",
         "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
         "watchers": 213,
-        "forks": 2470,
+        "forks": 2471,
         "stars": 11166,
         "is_new": false
     },
@@ -1886,7 +1886,7 @@
         "description": "Open-source offline translation library written in Python",
         "watchers": 56,
         "forks": 347,
-        "stars": 4732,
+        "stars": 4733,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 777,
-        "forks": 40251,
-        "stars": 129976,
+        "forks": 40252,
+        "stars": 129977,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4353,
         "forks": 37928,
-        "stars": 361420,
+        "stars": 361421,
         "is_new": false
     },
     {
@@ -2021,7 +2021,7 @@
         "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
         "watchers": 225,
         "forks": 1935,
-        "stars": 13123,
+        "stars": 13124,
         "is_new": false
     },
     {
