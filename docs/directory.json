@@ -1128,9 +1128,9 @@
         "path": "projects/recon/docs/awesome-osint",
         "url": "https://github.com/jivoi/awesome-osint.git",
         "description": ":scream: A curated list of amazingly awesome OSINT",
-        "watchers": 705,
+        "watchers": 706,
         "forks": 3151,
-        "stars": 22312,
+        "stars": 22313,
         "is_new": false
     },
     {
@@ -1445,7 +1445,7 @@
         "description": "\ud83d\udd0d A collection of interesting, funny, and depressing search queries to plug into shodan.io \ud83d\udc69\u200d\ud83d\udcbb",
         "watchers": 186,
         "forks": 943,
-        "stars": 6594,
+        "stars": 6595,
         "is_new": false
     },
     {
@@ -1580,7 +1580,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Offensive Google framework.",
         "watchers": 531,
         "forks": 1436,
-        "stars": 16774,
+        "stars": 16775,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 779,
-        "forks": 40361,
-        "stars": 130210,
+        "forks": 40363,
+        "stars": 130217,
         "is_new": false
     },
     {
@@ -1975,7 +1975,7 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4351,
-        "forks": 37949,
+        "forks": 37950,
         "stars": 361555,
         "is_new": false
     },
@@ -2039,7 +2039,7 @@
         "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring\u2014all for free or enjoy our SaaS plan!",
         "watchers": 108,
         "forks": 1447,
-        "stars": 26182,
+        "stars": 26184,
         "is_new": false
     },
     {
