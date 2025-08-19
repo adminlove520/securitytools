@@ -364,8 +364,8 @@
         "url": "https://github.com/ventoy/Ventoy.git",
         "description": "A new bootable USB solution.",
         "watchers": 684,
-        "forks": 4442,
-        "stars": 69964,
+        "forks": 4443,
+        "stars": 69966,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2654,
         "forks": 11383,
-        "stars": 182913,
+        "stars": 182915,
         "is_new": false
     },
     {
@@ -581,7 +581,7 @@
         "description": "A framework for developing alerting and detection strategies for incident response.",
         "watchers": 301,
         "forks": 129,
-        "stars": 780,
+        "stars": 781,
         "is_new": false
     },
     {
@@ -644,7 +644,7 @@
         "description": "A curated list of Awesome Threat Intelligence resources",
         "watchers": 583,
         "forks": 1599,
-        "stars": 9121,
+        "stars": 9122,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1169,
         "forks": 7861,
-        "stars": 68091,
+        "stars": 68092,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 784,
-        "forks": 40686,
-        "stars": 130988,
+        "forks": 40687,
+        "stars": 130992,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4352,
         "forks": 37990,
-        "stars": 361910,
+        "stars": 361913,
         "is_new": false
     },
     {
@@ -2273,7 +2273,7 @@
         "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
         "watchers": 54,
         "forks": 1320,
-        "stars": 19812,
+        "stars": 19813,
         "is_new": false
     },
     {
