@@ -374,7 +374,7 @@
         "description": "Various Dockerfiles I use on the desktop and on servers.",
         "watchers": 428,
         "forks": 2544,
-        "stars": 13894,
+        "stars": 13895,
         "is_new": false
     },
     {
@@ -1283,7 +1283,7 @@
         "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
         "watchers": 655,
         "forks": 3152,
-        "stars": 24773,
+        "stars": 24774,
         "is_new": false
     },
     {
@@ -1319,7 +1319,7 @@
         "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
         "watchers": 248,
         "forks": 2862,
-        "stars": 24434,
+        "stars": 24435,
         "is_new": false
     },
     {
@@ -1418,7 +1418,7 @@
         "description": "A Tool for Domain Flyovers",
         "watchers": 134,
         "forks": 902,
-        "stars": 5835,
+        "stars": 5836,
         "is_new": false
     },
     {
@@ -1912,7 +1912,7 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 781,
-        "forks": 40797,
+        "forks": 40798,
         "stars": 131289,
         "is_new": false
     },
@@ -1957,8 +1957,8 @@
         "url": "https://github.com/aristocratos/bpytop.git",
         "description": "Linux/OSX/FreeBSD resource monitor",
         "watchers": 159,
-        "forks": 419,
-        "stars": 10717,
+        "forks": 420,
+        "stars": 10716,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4352,
         "forks": 37997,
-        "stars": 362033,
+        "stars": 362034,
         "is_new": false
     },
     {
