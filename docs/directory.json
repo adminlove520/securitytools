@@ -338,7 +338,7 @@
         "description": "The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.",
         "watchers": 236,
         "forks": 1037,
-        "stars": 9458,
+        "stars": 9459,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2657,
         "forks": 11399,
-        "stars": 183282,
+        "stars": 183286,
         "is_new": false
     },
     {
@@ -589,7 +589,7 @@
         "url": "https://github.com/cyb3rfox/Aurora-Incident-Response.git",
         "description": "Incident Response Documentation made easy. Developed by Incident Responders for Incident Responders",
         "watchers": 47,
-        "forks": 112,
+        "forks": 113,
         "stars": 936,
         "is_new": false
     },
@@ -644,7 +644,7 @@
         "description": "A curated list of Awesome Threat Intelligence resources",
         "watchers": 585,
         "forks": 1598,
-        "stars": 9131,
+        "stars": 9129,
         "is_new": false
     },
     {
@@ -653,7 +653,7 @@
         "description": "Open Cyber Threat Intelligence Platform",
         "watchers": 148,
         "forks": 1114,
-        "stars": 7658,
+        "stars": 7657,
         "is_new": false
     },
     {
@@ -662,7 +662,7 @@
         "description": "Your Everyday Threat Intelligence",
         "watchers": 102,
         "forks": 307,
-        "stars": 1895,
+        "stars": 1892,
         "is_new": false
     },
     {
@@ -671,7 +671,7 @@
         "description": "MISP (core software) - Open Source Threat Intelligence and Sharing Platform",
         "watchers": 282,
         "forks": 1492,
-        "stars": 5872,
+        "stars": 5870,
         "is_new": false
     },
     {
@@ -1111,7 +1111,7 @@
         "url": "https://github.com/lanmaster53/recon-ng.git",
         "description": "Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.",
         "watchers": 118,
-        "forks": 766,
+        "forks": 767,
         "stars": 4944,
         "is_new": false
     },
@@ -1274,7 +1274,7 @@
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
         "watchers": 148,
         "forks": 1182,
-        "stars": 17829,
+        "stars": 17828,
         "is_new": false
     },
     {
@@ -1553,7 +1553,7 @@
         "description": "Main Sigma Rule Repository",
         "watchers": 353,
         "forks": 2404,
-        "stars": 9543,
+        "stars": 9539,
         "is_new": false
     },
     {
@@ -1697,7 +1697,7 @@
         "description": "A OSINT tool to obtain a target's phone number just by having his email address",
         "watchers": 57,
         "forks": 289,
-        "stars": 2471,
+        "stars": 2470,
         "is_new": false
     },
     {
@@ -1759,7 +1759,7 @@
         "url": "https://github.com/dfir-iris/iris-web.git",
         "description": "Collaborative Incident Response platform",
         "watchers": 32,
-        "forks": 245,
+        "forks": 246,
         "stars": 1244,
         "is_new": false
     },
@@ -1913,7 +1913,7 @@
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 786,
         "forks": 41004,
-        "stars": 131911,
+        "stars": 131914,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4354,
         "forks": 38028,
-        "stars": 362435,
+        "stars": 362436,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 300,
         "forks": 6542,
-        "stars": 73606,
+        "stars": 73607,
         "is_new": false
     },
     {
@@ -2039,7 +2039,7 @@
         "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring\u2014all for free or enjoy our SaaS plan!",
         "watchers": 108,
         "forks": 1456,
-        "stars": 26270,
+        "stars": 26271,
         "is_new": false
     },
     {
@@ -2273,7 +2273,7 @@
         "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
         "watchers": 54,
         "forks": 1321,
-        "stars": 19843,
+        "stars": 19844,
         "is_new": false
     },
     {
