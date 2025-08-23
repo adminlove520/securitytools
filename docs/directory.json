@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 684,
         "forks": 4448,
-        "stars": 70078,
+        "stars": 70081,
         "is_new": false
     },
     {
@@ -374,7 +374,7 @@
         "description": "Various Dockerfiles I use on the desktop and on servers.",
         "watchers": 428,
         "forks": 2544,
-        "stars": 13898,
+        "stars": 13897,
         "is_new": false
     },
     {
@@ -490,8 +490,8 @@
         "url": "https://github.com/trimstray/the-book-of-secret-knowledge.git",
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2657,
-        "forks": 11407,
-        "stars": 183398,
+        "forks": 11408,
+        "stars": 183400,
         "is_new": false
     },
     {
@@ -687,9 +687,9 @@
         "path": "projects/malware/cli/malwoverview",
         "url": "https://github.com/alexandreborges/malwoverview.git",
         "description": "Malwoverview is a first response tool used for threat hunting and offers intel information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, Malware Bazaar, ThreatFox, Triage, InQuest, VxExchange and IPInfo, and it is also able to scan Android devices against VT.",
-        "watchers": 121,
+        "watchers": 122,
         "forks": 488,
-        "stars": 3346,
+        "stars": 3349,
         "is_new": false
     },
     {
@@ -1895,7 +1895,7 @@
         "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
         "watchers": 265,
         "forks": 1109,
-        "stars": 11529,
+        "stars": 11530,
         "is_new": false
     },
     {
@@ -1913,7 +1913,7 @@
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 789,
         "forks": 41076,
-        "stars": 132119,
+        "stars": 132124,
         "is_new": false
     },
     {
@@ -1930,7 +1930,7 @@
         "url": "https://github.com/ulixee/hero.git",
         "description": "The web browser built for scraping",
         "watchers": 19,
-        "forks": 61,
+        "forks": 60,
         "stars": 1271,
         "is_new": false
     },
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4357,
         "forks": 38052,
-        "stars": 362618,
+        "stars": 362621,
         "is_new": false
     },
     {
@@ -2021,7 +2021,7 @@
         "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
         "watchers": 225,
         "forks": 1944,
-        "stars": 13174,
+        "stars": 13175,
         "is_new": false
     },
     {
@@ -2039,7 +2039,7 @@
         "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring\u2014all for free or enjoy our SaaS plan!",
         "watchers": 108,
         "forks": 1458,
-        "stars": 26281,
+        "stars": 26282,
         "is_new": false
     },
     {
