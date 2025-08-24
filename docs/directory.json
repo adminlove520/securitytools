@@ -149,7 +149,7 @@
         "description": "Repository for Azure Resource Policy built-in definitions and samples",
         "watchers": 146,
         "forks": 1140,
-        "stars": 1608,
+        "stars": 1607,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2657,
         "forks": 11412,
-        "stars": 183528,
+        "stars": 183532,
         "is_new": false
     },
     {
@@ -896,7 +896,7 @@
         "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
         "watchers": 596,
         "forks": 3461,
-        "stars": 19302,
+        "stars": 19303,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 709,
         "forks": 3163,
-        "stars": 22481,
+        "stars": 22482,
         "is_new": false
     },
     {
@@ -1165,7 +1165,7 @@
         "url": "https://github.com/exiftool/exiftool.git",
         "description": "ExifTool meta information reader/writer",
         "watchers": 62,
-        "forks": 373,
+        "forks": 374,
         "stars": 3952,
         "is_new": false
     },
@@ -1363,7 +1363,7 @@
         "url": "https://github.com/aquasecurity/trivy.git",
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "watchers": 178,
-        "forks": 2683,
+        "forks": 2684,
         "stars": 28029,
         "is_new": false
     },
@@ -1400,7 +1400,7 @@
         "description": "Web path scanner",
         "watchers": 310,
         "forks": 2400,
-        "stars": 13285,
+        "stars": 13286,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1170,
         "forks": 7875,
-        "stars": 68197,
+        "stars": 68199,
         "is_new": false
     },
     {
@@ -1868,7 +1868,7 @@
         "description": "\ud83d\udc19 Track down GitHub users.",
         "watchers": 8,
         "forks": 69,
-        "stars": 934,
+        "stars": 935,
         "is_new": false
     },
     {
@@ -1886,7 +1886,7 @@
         "description": "Open-source offline translation library written in Python",
         "watchers": 55,
         "forks": 352,
-        "stars": 4771,
+        "stars": 4772,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 795,
-        "forks": 41174,
-        "stars": 132334,
+        "forks": 41176,
+        "stars": 132338,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4356,
         "forks": 38074,
-        "stars": 362770,
+        "stars": 362771,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 300,
         "forks": 6547,
-        "stars": 73679,
+        "stars": 73685,
         "is_new": false
     },
     {
