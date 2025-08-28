@@ -329,7 +329,7 @@
         "description": "Wiki to collect Red Team infrastructure hardening resources",
         "watchers": 211,
         "forks": 911,
-        "stars": 4343,
+        "stars": 4342,
         "is_new": false
     },
     {
@@ -383,7 +383,7 @@
         "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
         "watchers": 241,
         "forks": 1060,
-        "stars": 16087,
+        "stars": 16088,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2654,
         "forks": 11429,
-        "stars": 183980,
+        "stars": 183982,
         "is_new": false
     },
     {
@@ -527,7 +527,7 @@
         "description": "One place for all the default credentials to assist the Blue/Red teamers identifying devices with default password \ud83d\udee1\ufe0f",
         "watchers": 91,
         "forks": 738,
-        "stars": 6195,
+        "stars": 6194,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 711,
         "forks": 3165,
-        "stars": 22513,
+        "stars": 22514,
         "is_new": false
     },
     {
@@ -1183,7 +1183,7 @@
         "url": "https://github.com/smicallef/spiderfoot.git",
         "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
         "watchers": 379,
-        "forks": 2577,
+        "forks": 2578,
         "stars": 15166,
         "is_new": false
     },
@@ -1283,7 +1283,7 @@
         "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
         "watchers": 654,
         "forks": 3153,
-        "stars": 24800,
+        "stars": 24799,
         "is_new": false
     },
     {
@@ -1660,7 +1660,7 @@
         "url": "https://github.com/sherlock-project/sherlock.git",
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1169,
-        "forks": 7884,
+        "forks": 7885,
         "stars": 68267,
         "is_new": false
     },
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 801,
-        "forks": 41634,
-        "stars": 133436,
+        "forks": 41636,
+        "stars": 133441,
         "is_new": false
     },
     {
@@ -1975,8 +1975,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4359,
-        "forks": 38125,
-        "stars": 363225,
+        "forks": 38126,
+        "stars": 363226,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 299,
         "forks": 6580,
-        "stars": 74308,
+        "stars": 74309,
         "is_new": false
     },
     {
@@ -2038,8 +2038,8 @@
         "url": "https://github.com/dgtlmoon/changedetection.io",
         "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring\u2014all for free or enjoy our SaaS plan!",
         "watchers": 110,
-        "forks": 1464,
-        "stars": 26351,
+        "forks": 1465,
+        "stars": 26352,
         "is_new": false
     },
     {
@@ -2255,7 +2255,7 @@
         "description": ":art: Diagram as Code for prototyping cloud system architectures",
         "watchers": 405,
         "forks": 2659,
-        "stars": 41385,
+        "stars": 41386,
         "is_new": false
     },
     {
@@ -2281,8 +2281,8 @@
         "url": "https://github.com/soxoj/maigret.git",
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 117,
-        "forks": 1200,
-        "stars": 17483,
+        "forks": 1201,
+        "stars": 17484,
         "is_new": false
     },
     {
