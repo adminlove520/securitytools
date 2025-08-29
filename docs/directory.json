@@ -266,7 +266,7 @@
         "description": "Multi-Cloud Security Auditing Tool",
         "watchers": 140,
         "forks": 1142,
-        "stars": 7305,
+        "stars": 7306,
         "is_new": false
     },
     {
@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 687,
         "forks": 4457,
-        "stars": 70241,
+        "stars": 70242,
         "is_new": false
     },
     {
@@ -995,7 +995,7 @@
         "description": "An email spoofing testing tool that aims to bypass SPF/DKIM/DMARC and forge DKIM signatures.\ud83c\udf7b",
         "watchers": 25,
         "forks": 271,
-        "stars": 1616,
+        "stars": 1617,
         "is_new": false
     },
     {
@@ -1128,7 +1128,7 @@
         "path": "projects/recon/docs/awesome-osint",
         "url": "https://github.com/jivoi/awesome-osint.git",
         "description": ":scream: A curated list of amazingly awesome OSINT",
-        "watchers": 711,
+        "watchers": 710,
         "forks": 3169,
         "stars": 22526,
         "is_new": false
@@ -1184,7 +1184,7 @@
         "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
         "watchers": 379,
         "forks": 2581,
-        "stars": 15171,
+        "stars": 15172,
         "is_new": false
     },
     {
@@ -1274,7 +1274,7 @@
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
         "watchers": 149,
         "forks": 1183,
-        "stars": 17895,
+        "stars": 17896,
         "is_new": false
     },
     {
@@ -1409,7 +1409,7 @@
         "description": "CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 180 other CMSs",
         "watchers": 75,
         "forks": 508,
-        "stars": 2459,
+        "stars": 2460,
         "is_new": false
     },
     {
@@ -1625,7 +1625,7 @@
         "description": "Know the dangers of credential reuse attacks.",
         "watchers": 99,
         "forks": 412,
-        "stars": 2069,
+        "stars": 2070,
         "is_new": false
     },
     {
@@ -1913,7 +1913,7 @@
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 803,
         "forks": 41730,
-        "stars": 133680,
+        "stars": 133682,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 299,
         "forks": 6588,
-        "stars": 74386,
+        "stars": 74387,
         "is_new": false
     },
     {
