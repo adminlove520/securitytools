@@ -401,7 +401,7 @@
         "description": "dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",
         "watchers": 314,
         "forks": 1064,
-        "stars": 12413,
+        "stars": 12414,
         "is_new": false
     },
     {
@@ -428,7 +428,7 @@
         "description": "tiny, portable SOCKS5 server with very moderate resource usage",
         "watchers": 41,
         "forks": 310,
-        "stars": 1831,
+        "stars": 1832,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2655,
         "forks": 11436,
-        "stars": 184235,
+        "stars": 184237,
         "is_new": false
     },
     {
@@ -1382,7 +1382,7 @@
         "description": "Automatic SQL injection and database takeover tool",
         "watchers": 1108,
         "forks": 6016,
-        "stars": 35165,
+        "stars": 35166,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1169,
         "forks": 7890,
-        "stars": 68307,
+        "stars": 68308,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 805,
-        "forks": 41824,
-        "stars": 133867,
+        "forks": 41825,
+        "stars": 133868,
         "is_new": false
     },
     {
@@ -1975,8 +1975,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4359,
-        "forks": 38142,
-        "stars": 363428,
+        "forks": 38145,
+        "stars": 363427,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 299,
         "forks": 6591,
-        "stars": 74418,
+        "stars": 74419,
         "is_new": false
     },
     {
@@ -2039,7 +2039,7 @@
         "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring\u2014all for free or enjoy our SaaS plan!",
         "watchers": 109,
         "forks": 1467,
-        "stars": 26368,
+        "stars": 26369,
         "is_new": false
     },
     {
