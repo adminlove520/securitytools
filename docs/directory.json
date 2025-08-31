@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2654,
         "forks": 11441,
-        "stars": 184323,
+        "stars": 184325,
         "is_new": false
     },
     {
@@ -536,7 +536,7 @@
         "description": "A collection of smart contract vulnerabilities along with prevention methods",
         "watchers": 42,
         "forks": 296,
-        "stars": 2219,
+        "stars": 2218,
         "is_new": false
     },
     {
@@ -1129,7 +1129,7 @@
         "url": "https://github.com/jivoi/awesome-osint.git",
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 711,
-        "forks": 3179,
+        "forks": 3178,
         "stars": 22571,
         "is_new": false
     },
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 803,
-        "forks": 41939,
-        "stars": 134062,
+        "forks": 41941,
+        "stars": 134064,
         "is_new": false
     },
     {
@@ -1922,7 +1922,7 @@
         "description": "A next-generation crawling and spidering framework.",
         "watchers": 93,
         "forks": 779,
-        "stars": 14090,
+        "stars": 14092,
         "is_new": false
     },
     {
@@ -1974,9 +1974,9 @@
         "path": "projects/devsec/tools/public-apis",
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
-        "watchers": 4358,
-        "forks": 38163,
-        "stars": 363496,
+        "watchers": 4359,
+        "forks": 38164,
+        "stars": 363498,
         "is_new": false
     },
     {
@@ -1993,7 +1993,7 @@
         "url": "https://github.com/louislam/uptime-kuma.git",
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 299,
-        "forks": 6598,
+        "forks": 6599,
         "stars": 74460,
         "is_new": false
     },
@@ -2038,7 +2038,7 @@
         "url": "https://github.com/dgtlmoon/changedetection.io",
         "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring\u2014all for free or enjoy our SaaS plan!",
         "watchers": 109,
-        "forks": 1470,
+        "forks": 1471,
         "stars": 26379,
         "is_new": false
     },
