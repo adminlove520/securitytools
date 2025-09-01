@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2655,
         "forks": 11445,
-        "stars": 184461,
+        "stars": 184462,
         "is_new": false
     },
     {
@@ -1040,7 +1040,7 @@
         "description": "Clusters and elements to attach to MISP events or attributes (like threat actors)",
         "watchers": 50,
         "forks": 280,
-        "stars": 581,
+        "stars": 582,
         "is_new": false
     },
     {
@@ -1128,8 +1128,8 @@
         "path": "projects/recon/docs/awesome-osint",
         "url": "https://github.com/jivoi/awesome-osint.git",
         "description": ":scream: A curated list of amazingly awesome OSINT",
-        "watchers": 711,
-        "forks": 3184,
+        "watchers": 712,
+        "forks": 3185,
         "stars": 22594,
         "is_new": false
     },
@@ -1272,9 +1272,9 @@
         "path": "projects/scanning/ports/RustScan",
         "url": "https://github.com/RustScan/RustScan.git",
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
-        "watchers": 149,
-        "forks": 1186,
-        "stars": 17913,
+        "watchers": 150,
+        "forks": 1187,
+        "stars": 17914,
         "is_new": false
     },
     {
@@ -1319,7 +1319,7 @@
         "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
         "watchers": 248,
         "forks": 2869,
-        "stars": 24576,
+        "stars": 24577,
         "is_new": false
     },
     {
@@ -1580,7 +1580,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Offensive Google framework.",
         "watchers": 532,
         "forks": 1437,
-        "stars": 16856,
+        "stars": 16857,
         "is_new": false
     },
     {
@@ -1669,7 +1669,7 @@
         "url": "https://github.com/megadose/holehe.git",
         "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
         "watchers": 129,
-        "forks": 1078,
+        "forks": 1079,
         "stars": 9384,
         "is_new": false
     },
@@ -1886,7 +1886,7 @@
         "description": "Open-source offline translation library written in Python",
         "watchers": 55,
         "forks": 355,
-        "stars": 4795,
+        "stars": 4796,
         "is_new": false
     },
     {
@@ -1913,7 +1913,7 @@
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 805,
         "forks": 42046,
-        "stars": 134307,
+        "stars": 134311,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4360,
         "forks": 38170,
-        "stars": 363631,
+        "stars": 363633,
         "is_new": false
     },
     {
