@@ -5,7 +5,7 @@
         "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
         "watchers": 354,
         "forks": 2953,
-        "stars": 10946,
+        "stars": 10947,
         "is_new": false
     },
     {
@@ -338,7 +338,7 @@
         "description": "The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.",
         "watchers": 236,
         "forks": 1037,
-        "stars": 9470,
+        "stars": 9471,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2655,
         "forks": 11449,
-        "stars": 184591,
+        "stars": 184594,
         "is_new": false
     },
     {
@@ -896,7 +896,7 @@
         "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
         "watchers": 595,
         "forks": 3462,
-        "stars": 19351,
+        "stars": 19352,
         "is_new": false
     },
     {
@@ -931,7 +931,7 @@
         "url": "https://github.com/OWASP/owasp-mstg.git",
         "description": "The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP Mobile Security Weakness Enumeration (MASWE) weaknesses, which are in alignment with the OWASP MASVS.",
         "watchers": 417,
-        "forks": 2491,
+        "forks": 2492,
         "stars": 12464,
         "is_new": false
     },
@@ -1274,7 +1274,7 @@
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
         "watchers": 150,
         "forks": 1187,
-        "stars": 17923,
+        "stars": 17924,
         "is_new": false
     },
     {
@@ -1832,7 +1832,7 @@
         "description": "An OOB interaction gathering server and client library",
         "watchers": 41,
         "forks": 411,
-        "stars": 3918,
+        "stars": 3919,
         "is_new": false
     },
     {
@@ -1911,9 +1911,9 @@
         "path": "projects/platforms/n8n",
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "watchers": 802,
-        "forks": 42150,
-        "stars": 134588,
+        "watchers": 803,
+        "forks": 42152,
+        "stars": 134593,
         "is_new": false
     },
     {
@@ -1974,9 +1974,9 @@
         "path": "projects/devsec/tools/public-apis",
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
-        "watchers": 4361,
-        "forks": 38192,
-        "stars": 363766,
+        "watchers": 4360,
+        "forks": 38193,
+        "stars": 363768,
         "is_new": false
     },
     {
@@ -2021,7 +2021,7 @@
         "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
         "watchers": 224,
         "forks": 1952,
-        "stars": 13236,
+        "stars": 13237,
         "is_new": false
     },
     {
@@ -2273,7 +2273,7 @@
         "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
         "watchers": 52,
         "forks": 1339,
-        "stars": 19962,
+        "stars": 19963,
         "is_new": false
     },
     {
