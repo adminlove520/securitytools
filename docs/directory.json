@@ -257,7 +257,7 @@
         "description": "Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.",
         "watchers": 38,
         "forks": 284,
-        "stars": 1921,
+        "stars": 1922,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2657,
         "forks": 11456,
-        "stars": 184861,
+        "stars": 184860,
         "is_new": false
     },
     {
@@ -715,7 +715,7 @@
         "url": "https://github.com/kevoreilly/CAPEv2.git",
         "description": "Malware Configuration And Payload Extraction",
         "watchers": 65,
-        "forks": 492,
+        "forks": 493,
         "stars": 2652,
         "is_new": false
     },
@@ -1364,7 +1364,7 @@
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "watchers": 179,
         "forks": 2712,
-        "stars": 28355,
+        "stars": 28357,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 803,
-        "forks": 42381,
-        "stars": 135134,
+        "forks": 42383,
+        "stars": 135136,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4359,
         "forks": 38222,
-        "stars": 364004,
+        "stars": 364005,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 297,
         "forks": 6614,
-        "stars": 74623,
+        "stars": 74624,
         "is_new": false
     },
     {
@@ -2030,7 +2030,7 @@
         "description": "Elegant Scraper and Crawler Framework for Golang",
         "watchers": 324,
         "forks": 1821,
-        "stars": 24611,
+        "stars": 24610,
         "is_new": false
     },
     {
