@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 687,
         "forks": 4470,
-        "stars": 70498,
+        "stars": 70499,
         "is_new": false
     },
     {
@@ -923,7 +923,7 @@
         "description": "The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.",
         "watchers": 224,
         "forks": 1297,
-        "stars": 5020,
+        "stars": 5019,
         "is_new": false
     },
     {
@@ -931,7 +931,7 @@
         "url": "https://github.com/OWASP/owasp-mstg.git",
         "description": "The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP Mobile Security Weakness Enumeration (MASWE) weaknesses, which are in alignment with the OWASP MASVS.",
         "watchers": 417,
-        "forks": 2493,
+        "forks": 2494,
         "stars": 12470,
         "is_new": false
     },
@@ -1121,7 +1121,7 @@
         "description": "Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting",
         "watchers": 35,
         "forks": 405,
-        "stars": 2245,
+        "stars": 2246,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 711,
         "forks": 3194,
-        "stars": 22688,
+        "stars": 22690,
         "is_new": false
     },
     {
@@ -1184,7 +1184,7 @@
         "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
         "watchers": 379,
         "forks": 2592,
-        "stars": 15275,
+        "stars": 15276,
         "is_new": false
     },
     {
@@ -1552,7 +1552,7 @@
         "url": "https://github.com/SigmaHQ/sigma.git",
         "description": "Main Sigma Rule Repository",
         "watchers": 351,
-        "forks": 2412,
+        "forks": 2413,
         "stars": 9599,
         "is_new": false
     },
@@ -1643,7 +1643,7 @@
         "description": "Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email",
         "watchers": 125,
         "forks": 556,
-        "stars": 4640,
+        "stars": 4641,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1174,
         "forks": 7931,
-        "stars": 68533,
+        "stars": 68534,
         "is_new": false
     },
     {
@@ -1911,9 +1911,9 @@
         "path": "projects/platforms/n8n",
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "watchers": 810,
-        "forks": 42814,
-        "stars": 136111,
+        "watchers": 811,
+        "forks": 42816,
+        "stars": 136117,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4360,
         "forks": 38261,
-        "stars": 364412,
+        "stars": 364413,
         "is_new": false
     },
     {
@@ -2282,7 +2282,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 116,
         "forks": 1210,
-        "stars": 17554,
+        "stars": 17555,
         "is_new": false
     },
     {
