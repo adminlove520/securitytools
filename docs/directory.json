@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2660,
         "forks": 11498,
-        "stars": 185813,
+        "stars": 185814,
         "is_new": false
     },
     {
@@ -1057,7 +1057,7 @@
         "url": "https://github.com/splunk/attack_data.git",
         "description": "A repository of curated datasets from various attacks",
         "watchers": 38,
-        "forks": 118,
+        "forks": 119,
         "stars": 673,
         "is_new": false
     },
@@ -1400,7 +1400,7 @@
         "description": "Web path scanner",
         "watchers": 312,
         "forks": 2401,
-        "stars": 13383,
+        "stars": 13384,
         "is_new": false
     },
     {
@@ -1463,7 +1463,7 @@
         "description": "Find leaked secrets via github search",
         "watchers": 90,
         "forks": 607,
-        "stars": 3035,
+        "stars": 3036,
         "is_new": false
     },
     {
@@ -1580,7 +1580,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Offensive Google framework.",
         "watchers": 536,
         "forks": 1498,
-        "stars": 17756,
+        "stars": 17758,
         "is_new": false
     },
     {
@@ -1841,7 +1841,7 @@
         "description": "Public release of Telepathy, an OSINT toolkit for investigating Telegram chats.",
         "watchers": 19,
         "forks": 151,
-        "stars": 1156,
+        "stars": 1157,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 818,
-        "forks": 43269,
-        "stars": 137286,
+        "forks": 43271,
+        "stars": 137290,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4357,
         "forks": 38303,
-        "stars": 364846,
+        "stars": 364847,
         "is_new": false
     },
     {
@@ -2254,7 +2254,7 @@
         "url": "https://github.com/mingrammer/diagrams.git",
         "description": ":art: Diagram as Code for prototyping cloud system architectures",
         "watchers": 406,
-        "forks": 2660,
+        "forks": 2661,
         "stars": 41440,
         "is_new": false
     },
