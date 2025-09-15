@@ -5,7 +5,7 @@
         "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
         "watchers": 354,
         "forks": 2959,
-        "stars": 10993,
+        "stars": 10994,
         "is_new": false
     },
     {
@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 689,
         "forks": 4477,
-        "stars": 70675,
+        "stars": 70676,
         "is_new": false
     },
     {
@@ -409,7 +409,7 @@
         "url": "https://github.com/gravitational/teleport.git",
         "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
         "watchers": 243,
-        "forks": 1918,
+        "forks": 1919,
         "stars": 19130,
         "is_new": false
     },
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2662,
         "forks": 11521,
-        "stars": 186220,
+        "stars": 186221,
         "is_new": false
     },
     {
@@ -652,7 +652,7 @@
         "url": "https://github.com/OpenCTI-Platform/opencti.git",
         "description": "Open Cyber Threat Intelligence Platform",
         "watchers": 151,
-        "forks": 1123,
+        "forks": 1124,
         "stars": 7749,
         "is_new": false
     },
@@ -1382,7 +1382,7 @@
         "description": "Automatic SQL injection and database takeover tool",
         "watchers": 1109,
         "forks": 6038,
-        "stars": 35285,
+        "stars": 35287,
         "is_new": false
     },
     {
@@ -1400,7 +1400,7 @@
         "description": "Web path scanner",
         "watchers": 313,
         "forks": 2403,
-        "stars": 13416,
+        "stars": 13417,
         "is_new": false
     },
     {
@@ -1616,7 +1616,7 @@
         "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
         "watchers": 213,
         "forks": 2510,
-        "stars": 11355,
+        "stars": 11356,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1173,
         "forks": 7961,
-        "stars": 68658,
+        "stars": 68660,
         "is_new": false
     },
     {
@@ -1911,9 +1911,9 @@
         "path": "projects/platforms/n8n",
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "watchers": 822,
-        "forks": 43599,
-        "stars": 138019,
+        "watchers": 823,
+        "forks": 43602,
+        "stars": 138018,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4359,
         "forks": 38334,
-        "stars": 365114,
+        "stars": 365116,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 297,
         "forks": 6642,
-        "stars": 75006,
+        "stars": 75007,
         "is_new": false
     },
     {
@@ -2254,7 +2254,7 @@
         "url": "https://github.com/mingrammer/diagrams.git",
         "description": ":art: Diagram as Code for prototyping cloud system architectures",
         "watchers": 406,
-        "forks": 2661,
+        "forks": 2662,
         "stars": 41456,
         "is_new": false
     },
@@ -2273,7 +2273,7 @@
         "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
         "watchers": 52,
         "forks": 1353,
-        "stars": 20075,
+        "stars": 20076,
         "is_new": false
     },
     {
@@ -2372,7 +2372,7 @@
         "description": "Autoswagger by Intruder - detect API auth weaknesses",
         "watchers": 15,
         "forks": 127,
-        "stars": 1378,
+        "stars": 1379,
         "is_new": false
     },
     {
