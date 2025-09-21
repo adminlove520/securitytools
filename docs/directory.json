@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2671,
         "forks": 11571,
-        "stars": 187042,
+        "stars": 187043,
         "is_new": false
     },
     {
@@ -715,7 +715,7 @@
         "url": "https://github.com/kevoreilly/CAPEv2.git",
         "description": "Malware Configuration And Payload Extraction",
         "watchers": 65,
-        "forks": 493,
+        "forks": 494,
         "stars": 2673,
         "is_new": false
     },
@@ -932,7 +932,7 @@
         "description": "The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP Mobile Security Weakness Enumeration (MASWE) weaknesses, which are in alignment with the OWASP MASVS.",
         "watchers": 417,
         "forks": 2505,
-        "stars": 12496,
+        "stars": 12497,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 714,
         "forks": 3213,
-        "stars": 22871,
+        "stars": 22872,
         "is_new": false
     },
     {
@@ -1274,7 +1274,7 @@
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
         "watchers": 152,
         "forks": 1199,
-        "stars": 18063,
+        "stars": 18064,
         "is_new": false
     },
     {
@@ -1400,7 +1400,7 @@
         "description": "Web path scanner",
         "watchers": 313,
         "forks": 2403,
-        "stars": 13437,
+        "stars": 13438,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1174,
         "forks": 7982,
-        "stars": 68792,
+        "stars": 68791,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 837,
-        "forks": 44362,
-        "stars": 139556,
+        "forks": 44363,
+        "stars": 139558,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 297,
         "forks": 6661,
-        "stars": 75214,
+        "stars": 75215,
         "is_new": false
     },
     {
@@ -2282,7 +2282,7 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
         "watchers": 116,
         "forks": 1216,
-        "stars": 17635,
+        "stars": 17634,
         "is_new": false
     },
     {
