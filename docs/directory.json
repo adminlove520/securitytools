@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2671,
         "forks": 11576,
-        "stars": 187173,
+        "stars": 187174,
         "is_new": false
     },
     {
@@ -716,7 +716,7 @@
         "description": "Malware Configuration And Payload Extraction",
         "watchers": 65,
         "forks": 494,
-        "stars": 2674,
+        "stars": 2675,
         "is_new": false
     },
     {
@@ -1912,7 +1912,7 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 835,
-        "forks": 44552,
+        "forks": 44554,
         "stars": 139839,
         "is_new": false
     },
@@ -1975,8 +1975,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4361,
-        "forks": 38411,
-        "stars": 365804,
+        "forks": 38412,
+        "stars": 365807,
         "is_new": false
     },
     {
@@ -2255,7 +2255,7 @@
         "description": ":art: Diagram as Code for prototyping cloud system architectures",
         "watchers": 406,
         "forks": 2673,
-        "stars": 41517,
+        "stars": 41518,
         "is_new": false
     },
     {
