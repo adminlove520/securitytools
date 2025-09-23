@@ -401,7 +401,7 @@
         "description": "dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",
         "watchers": 313,
         "forks": 1075,
-        "stars": 12488,
+        "stars": 12489,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2671,
         "forks": 11583,
-        "stars": 187290,
+        "stars": 187291,
         "is_new": false
     },
     {
@@ -536,7 +536,7 @@
         "description": "A collection of smart contract vulnerabilities along with prevention methods",
         "watchers": 42,
         "forks": 295,
-        "stars": 2223,
+        "stars": 2224,
         "is_new": false
     },
     {
@@ -545,7 +545,7 @@
         "description": "Docker Cheat Sheet",
         "watchers": 738,
         "forks": 4661,
-        "stars": 22423,
+        "stars": 22424,
         "is_new": false
     },
     {
@@ -644,7 +644,7 @@
         "description": "A curated list of Awesome Threat Intelligence resources",
         "watchers": 585,
         "forks": 1601,
-        "stars": 9222,
+        "stars": 9224,
         "is_new": false
     },
     {
@@ -787,7 +787,7 @@
         "url": "https://github.com/snort3/snort3.git",
         "description": "Snort++",
         "watchers": 130,
-        "forks": 633,
+        "forks": 634,
         "stars": 3078,
         "is_new": false
     },
@@ -1129,7 +1129,7 @@
         "url": "https://github.com/jivoi/awesome-osint.git",
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 714,
-        "forks": 3214,
+        "forks": 3215,
         "stars": 22898,
         "is_new": false
     },
@@ -1445,7 +1445,7 @@
         "description": "\ud83d\udd0d A collection of interesting, funny, and depressing search queries to plug into shodan.io \ud83d\udc69\u200d\ud83d\udcbb",
         "watchers": 186,
         "forks": 954,
-        "stars": 6698,
+        "stars": 6699,
         "is_new": false
     },
     {
@@ -1616,7 +1616,7 @@
         "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
         "watchers": 213,
         "forks": 2526,
-        "stars": 11403,
+        "stars": 11404,
         "is_new": false
     },
     {
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1174,
         "forks": 7989,
-        "stars": 68854,
+        "stars": 68855,
         "is_new": false
     },
     {
@@ -1733,7 +1733,7 @@
         "description": "A collection of several hundred online tools for OSINT",
         "watchers": 159,
         "forks": 807,
-        "stars": 6963,
+        "stars": 6964,
         "is_new": false
     },
     {
@@ -1913,7 +1913,7 @@
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 833,
         "forks": 44731,
-        "stars": 140165,
+        "stars": 140167,
         "is_new": false
     },
     {
@@ -1975,8 +1975,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4358,
-        "forks": 38453,
-        "stars": 366020,
+        "forks": 38454,
+        "stars": 366022,
         "is_new": false
     },
     {
