@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2673,
         "forks": 11589,
-        "stars": 187429,
+        "stars": 187431,
         "is_new": false
     },
     {
@@ -671,7 +671,7 @@
         "description": "MISP (core software) - Open Source Threat Intelligence and Sharing Platform",
         "watchers": 283,
         "forks": 1501,
-        "stars": 5934,
+        "stars": 5935,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 714,
         "forks": 3218,
-        "stars": 22916,
+        "stars": 22917,
         "is_new": false
     },
     {
@@ -1274,7 +1274,7 @@
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
         "watchers": 152,
         "forks": 1201,
-        "stars": 18091,
+        "stars": 18090,
         "is_new": false
     },
     {
@@ -1615,7 +1615,7 @@
         "url": "https://github.com/Datalux/Osintgram.git",
         "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
         "watchers": 213,
-        "forks": 2530,
+        "forks": 2531,
         "stars": 11409,
         "is_new": false
     },
@@ -1661,7 +1661,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1175,
         "forks": 8000,
-        "stars": 68917,
+        "stars": 68918,
         "is_new": false
     },
     {
@@ -1733,7 +1733,7 @@
         "description": "A collection of several hundred online tools for OSINT",
         "watchers": 159,
         "forks": 807,
-        "stars": 6970,
+        "stars": 6969,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 836,
-        "forks": 44871,
-        "stars": 140451,
+        "forks": 44872,
+        "stars": 140452,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4359,
         "forks": 38476,
-        "stars": 366168,
+        "stars": 366169,
         "is_new": false
     },
     {
@@ -2030,7 +2030,7 @@
         "description": "Elegant Scraper and Crawler Framework for Golang",
         "watchers": 326,
         "forks": 1830,
-        "stars": 24680,
+        "stars": 24679,
         "is_new": false
     },
     {
@@ -2039,7 +2039,7 @@
         "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring\u2014all for free or enjoy our SaaS plan!",
         "watchers": 108,
         "forks": 1494,
-        "stars": 26625,
+        "stars": 26626,
         "is_new": false
     },
     {
