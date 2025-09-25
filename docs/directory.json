@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 689,
         "forks": 4493,
-        "stars": 70874,
+        "stars": 70875,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2675,
         "forks": 11599,
-        "stars": 187551,
+        "stars": 187553,
         "is_new": false
     },
     {
@@ -725,7 +725,7 @@
         "description": "UNIX-like reverse engineering framework and command-line toolset",
         "watchers": 495,
         "forks": 3124,
-        "stars": 22316,
+        "stars": 22317,
         "is_new": false
     },
     {
@@ -1184,7 +1184,7 @@
         "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
         "watchers": 379,
         "forks": 2618,
-        "stars": 15395,
+        "stars": 15396,
         "is_new": false
     },
     {
@@ -1616,7 +1616,7 @@
         "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
         "watchers": 213,
         "forks": 2531,
-        "stars": 11412,
+        "stars": 11413,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 841,
-        "forks": 45022,
-        "stars": 140732,
+        "forks": 45023,
+        "stars": 140735,
         "is_new": false
     },
     {
@@ -1975,8 +1975,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4360,
-        "forks": 38490,
-        "stars": 366300,
+        "forks": 38489,
+        "stars": 366302,
         "is_new": false
     },
     {
@@ -1994,7 +1994,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 298,
         "forks": 6670,
-        "stars": 75355,
+        "stars": 75356,
         "is_new": false
     },
     {
@@ -2039,7 +2039,7 @@
         "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring\u2014all for free or enjoy our SaaS plan!",
         "watchers": 108,
         "forks": 1495,
-        "stars": 26635,
+        "stars": 26636,
         "is_new": false
     },
     {
@@ -2174,7 +2174,7 @@
         "description": "Canarytokens helps track activity and actions on your network.",
         "watchers": 43,
         "forks": 272,
-        "stars": 1950,
+        "stars": 1951,
         "is_new": false
     },
     {
