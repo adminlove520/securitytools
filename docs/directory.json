@@ -365,7 +365,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 689,
         "forks": 4495,
-        "stars": 70892,
+        "stars": 70894,
         "is_new": false
     },
     {
@@ -491,7 +491,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2676,
         "forks": 11608,
-        "stars": 187666,
+        "stars": 187670,
         "is_new": false
     },
     {
@@ -1130,7 +1130,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 714,
         "forks": 3222,
-        "stars": 22943,
+        "stars": 22944,
         "is_new": false
     },
     {
@@ -1733,7 +1733,7 @@
         "description": "A collection of several hundred online tools for OSINT",
         "watchers": 160,
         "forks": 809,
-        "stars": 6975,
+        "stars": 6976,
         "is_new": false
     },
     {
@@ -1912,8 +1912,8 @@
         "url": "https://github.com/n8n-io/n8n.git",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 842,
-        "forks": 45131,
-        "stars": 141018,
+        "forks": 45132,
+        "stars": 141020,
         "is_new": false
     },
     {
@@ -1976,7 +1976,7 @@
         "description": "A collective list of free APIs",
         "watchers": 4356,
         "forks": 38510,
-        "stars": 366416,
+        "stars": 366417,
         "is_new": false
     },
     {
