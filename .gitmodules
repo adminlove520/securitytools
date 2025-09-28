@@ -812,3 +812,10 @@
 [submodule "projects/Ransomware"]
 	path = projects/Ransomware
 	url = https://github.com/BushidoUK/Ransomware-Tool-Matrix.git
+
+[submodule "projects/Ransomware_Databse/"]
+    path = projects/Ransomware_Databse/
+    url = https://github.com/Cryakl/Ransomware-Database.git
+[submodule "projects/Ransomware_Databse"]
+	path = projects/Ransomware_Databse
+	url = https://github.com/Cryakl/Ransomware-Database
