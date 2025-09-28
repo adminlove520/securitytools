@@ -805,3 +805,10 @@
 [submodule "projects/20250814/PrivacyCheckGo"]
 	path = projects/20250814/PrivacyCheckGo
 	url = https://github.com/winezer0/PrivacyCheckGo
+
+[submodule "projects/Ransomware/"]
+    path = projects/Ransomware/
+    url = https://github.com/BushidoUK/Ransomware-Tool-Matrix.git
+[submodule "projects/Ransomware"]
+	path = projects/Ransomware
+	url = https://github.com/BushidoUK/Ransomware-Tool-Matrix.git
